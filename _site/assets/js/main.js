@@ -55,4 +55,4 @@ var Anchor = {
 };
 
 //  And bind loading
-(Anchor.init);
+$(Anchor.init);
