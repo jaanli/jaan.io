@@ -6,7 +6,7 @@ This is forked from [Cole Townsend](http://coletownsend.com)'s [Balzac](https://
 
 Setup and settings are similar to [Balzac](https://github.com/ColeTownsend/Balzac-for-Jekyll)'s. Please file an issue if something is not clear or you have any questions. 
 
-![jaan.io](http://cl.ly/Qdzo/Screen%20Shot%202013-08-05%20at%205.35.11%20PM.jpg)
+![jaan.io]()
 ![jaan.io](http://cl.ly/Qdyh/Screen%20Shot%202013-08-05%20at%205.30.01%20PM.jpg)
 
 ## [Preview the Theme](https://jaan.io)
