@@ -1,4 +1,4 @@
-# [jaan.io](https://jaan.io)
+# [jaan.io (Preview the theme here)](https://jaan.io)
 
 This Jekyll theme powers my personal website.
 
@@ -8,8 +8,6 @@ Setup and settings are similar to [Balzac](https://github.com/ColeTownsend/Balza
 
 ![jaan.io](http://i.imgur.com/wEM5sod.png)
 ![jaan.io](http://i.imgur.com/kvIIHZ4.png)
-
-## [Preview the Theme](https://jaan.io)
 
 ## Contributing
 
