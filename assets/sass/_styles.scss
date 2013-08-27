@@ -584,20 +584,27 @@ header.site-header nav {
         } 
     }  
     
+    .sharet {
+        position: relative;
+        text-align: right;
+    }
+
     .share {
-        text-align: center;
-        display: block;
-        margin: 0 auto;
-        width: 76px;
-        font-size: $fs5;
-        font-family: $sans;
-        text-transform: uppercase;
-        font-weight: bold;
-        letter-spacing: 1px;
-        padding: 4px 6px 4px 6px;
+        //position: relative;
+        //text-align: right;
         color: $grey-light;
-        border: 2px solid transparentize($grey-light,.3);
-        @include br(4px);
+        //display: inline-block;
+        //margin: 0 auto;
+        //width: 76px;
+        //font-size: $fs4;
+        //font-family: $sans;
+        //text-transform: uppercase;
+        //font-weight: bold;
+        //letter-spacing: 1px;
+        //padding: 4px 6px 4px 6px;
+        //color: $grey-light;
+        //border: 2px solid transparentize($grey-light,.3);
+        //@include br(4px);
         &:hover {
             color: $link;
             border-color: transparentize($link,.3);

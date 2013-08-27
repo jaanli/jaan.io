@@ -681,22 +681,11 @@ header.site-header nav {
       font-size: 22px; }
       .post ol li:last-child {
         margin-bottom: 0; }
+  .post .sharet {
+    position: relative;
+    text-align: right; }
   .post .share {
-    text-align: center;
-    display: block;
-    margin: 0 auto;
-    width: 76px;
-    font-size: 16px;
-    font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
-    text-transform: uppercase;
-    font-weight: bold;
-    letter-spacing: 1px;
-    padding: 4px 6px 4px 6px;
-    color: #a8a8a8;
-    border: 2px solid rgba(168, 168, 168, 0.7);
-    -moz-border-radius: 4px;
-    -webkit-border-radius: 4px;
-    border-radius: 4px; }
+    color: #a8a8a8; }
     .post .share:hover {
       color: #c66b09;
       border-color: rgba(198, 107, 9, 0.7);
