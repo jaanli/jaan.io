@@ -11,6 +11,17 @@ body {
   overflow-x: hidden;
 }
 
+//to color titlehilight
+.hilighted {
+    color: $link;
+    @include transit(all, .2s, ease-in-out);
+}
+
+.unhilighted {
+    color: $black;
+    @include transit(all, .2s, ease-in-out);
+}
+
 h1,h2,h3,h4,h5 {
     font-family: $serif;
 }
@@ -172,7 +183,9 @@ input {
 
 header.site-header {
   padding: 20px 0;
-  position: absolute;
+  //display: block;
+  //border-bottom: 2px solid transparentize($grey-light,.3);
+  position: relative;
   width: 100%;
   z-index: 5000;
   
@@ -301,7 +314,7 @@ header.site-header nav {
         -moz-background-size: cover;
         -o-background-size: cover;
         position: relative;
-        top: 0;
+        top: 0;//0
         z-index: -1;
         img {
             max-height: 800px;
@@ -341,11 +354,12 @@ header.site-header nav {
     margin: 0 auto;
     float: none;
     min-height: 500px;
+    max-width: 950px;
 }
 
 .archive-wrap {
     @include column(10);
-    max-width: 800px;
+    width: 100%;
     display: block;
     margin: 0 auto;
     float: none;
@@ -353,21 +367,53 @@ header.site-header nav {
     
     // Post Listing
     .post-list {
+        width: 100%;
         list-style-type: none;
         list-style: none;
         @include column(7);
-        @include push(2);
+        @include push(1.5);
         display: block;
         float: none;
-        
+
+
         lh h2 {
+                a {
+        color: $black;
+                    &:hover {
+                        color: $accent;
+                    }
+        }
             margin-bottom: $lh*1.5;
         }
+
+    .featured-image-small {
+        float: left;
+        display: block;
+        position: relative;
+        z-index: 10;
+        margin-right: 1em;
+        width: 160px;
+        height: 160px;
+        border-radius: 80px;
+        background-position: center center;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        //animation added this:
+        -webkit-animation-name: scale-in;
+        -webkit-animation-duration: .7s;
+        -webkit-animation-timing-function: cubic-bezier(0.56,   -0.01, 0, 1);
+        -webkit-animation-delay: .4s;
+        -webkit-animation-fill-mode: both;    
+    }
+
         
         li {
             display: block;
             float: none;
             font-size: $fs3;
+            //width: 100%;
             margin-bottom: $lh*2;
             position: relative;
             
@@ -377,33 +423,32 @@ header.site-header nav {
                     @include transit;
                 }
             }
+           
+            //a:hover:before {
+            //    content:'...';
+            //    color: $grey-light;
+            //    font-family: $sans;
+            //    position: absolute;
+            //    margin-left: -70px;
+            //    font-size: 40px;
+            //    left: 0;
+            //    top: -20px;
+            //    text-align: center;
+            //    @include transit;
+            //}
             
-            a:hover:before {
-                content:'...';
-                color: $grey-light;
-                font-family: $sans;
-                position: absolute;
-                margin-left: -70px;
-                font-size: 40px;
-                left: 0;
-                top: -20px;
-                text-align: center;
-                @include transit;
-            }
-            
-            a:before {
-                content:'“';
-                color: $grey-light;
-                position: absolute;
-                margin-left: -70px;
-                font-size: 60px;
-                z-index: 10;
-                top: -6px;
-                left: 0;
-                text-align: center;
-                @include transit;
-
-            }
+            //a:before {
+            //    content:'“';
+            //    color: $grey-light;
+            //    position: absolute;
+            //    margin-left: -70px;
+            //    font-size: 60px;
+            //    z-index: 10;
+            //    top: -6px;
+            //    left: 0;
+            //    text-align: center;
+            //    @include transit;
+            //}
             
             h1 {
                 font-size: $fs3;
@@ -412,8 +457,10 @@ header.site-header nav {
         }
         
         .summary {
-            font-size: 18px;
-            line-height: 1.45em;
+            position: relative;
+            display: block;
+            font-size: 20px;//18px;
+            line-height: 1.3em;
         }
         
         .date {
@@ -456,6 +503,16 @@ header.site-header nav {
     
     h1 {
         font-style: italic;
+        //added
+        a {
+        color: $black;
+        @include transit(all, .2s, ease);
+
+        &:hover {
+            @include tshd(0, 0, 3px, rgba(200,200,200,.6));
+            @include transit(all, .2s, ease);
+        }
+        }
     }
     
     h1, h2, h3, h4, h5 {
@@ -554,8 +611,19 @@ header.site-header nav {
     height: $footerHeight/4 !important;
 }
 
+footert {
+    width: 100%;
+    display: inline-block;
+    margin: 0 auto;
+    float: none;
+    background: $black;
 footer {
     width: 100%;
+    @include column(8);
+    max-width: 680px;
+    display: block;
+    margin: 0 auto;
+    float: none;
     background: $black;
     height: $footerHeight;
     font-size: $fsp;
@@ -564,24 +632,27 @@ footer {
         
     // Contain that ish
     section {
-        @include column(10);
-        @include row(10);
-        display: block;
-        margin: 0 auto;
+        //@include column(10);
+        //@include row(10);
+        //display: block;
+        //margin: 0 auto;
     }
     
     small {
-        font-size: ($fs6);
+        font-size: ($fs5);
         text-align: center;
         display: block;
         width: 100%;
         position: absolute;
-        bottom: 8px;
+        bottom: 12px;
         font-family: $sans;
         text-transform: uppercase;
-        color: transparentize($white, .9);
+        color: transparentize($white, .5);
         a {
-            color: transparentize($white, .7);
+            color: transparentize($white, .2);
+            &:hover {
+                        color: $white;
+                    }
         }
     }
     
@@ -590,12 +661,15 @@ footer {
         border-bottom: 2px solid $link;
         font-style: italic;
         font-size: $fs4;
+        a {
+        color: $white;
+        }
     }
     .prev-posts {
         @include column(6,10);
         max-width: 600px;
         min-height: 250px;
-        padding-left: 5vw;
+        padding-left: 0vw;
         p {
             padding-top: $lh*2;
         }
@@ -628,7 +702,7 @@ footer {
         position: absolute;
         top: 109px;
         @include column(2,12);
-        right: 5vw;
+        right: 0vw;
         font-style: italic;
         a {
             &:hover {
@@ -644,7 +718,9 @@ footer {
             }
         }
     }
+    }
 }
+
 
 .disqus {
     margin-top: $lh*3;
@@ -666,6 +742,7 @@ blockquote, blockquote p {
     font-size: $fs3;
 }
 
+footert{
 footer {
     font-size: $fs5;
     
@@ -686,6 +763,7 @@ footer {
         right: 10vw;
     }
 }
+}
     
     
 }
@@ -694,6 +772,7 @@ footer {
    ========================================================================== */
 
 @media only screen and (max-width: 500px) {
+    footert {
     footer {
     
     .social {
@@ -716,6 +795,7 @@ footer {
         }
     }
     
+    }
     }
 }
 
@@ -839,10 +919,11 @@ footer {
     margin: 0 auto;
     float: none;
 }
-
+footert {
 footer {
     font-size: $fs5;
-}
+    }
+    }
 
 small {
     font-size: $fs6;

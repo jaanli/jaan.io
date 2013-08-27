@@ -22,6 +22,13 @@ var Anchor = {
 				return Anchor.toggleSlidey.call(Anchor.linky);
 			}
 		});
+		var toggleTitle = function () {
+			console.log('toggling')
+			$('#jaan').toggleClass('hilighted unhilighted');
+			$('#altosaar').toggleClass('unhilighted hilighted');
+		}
+		$('#jaan').mouseenter(toggleTitle);
+		$('#altosaar').mouseenter(toggleTitle);
 	},
 	
 	hideSlidey: function() {
