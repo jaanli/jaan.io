@@ -2,7 +2,7 @@
 
 This Jekyll theme powers my personal website.
 
-This is forked from [Cole Townsend](http://coletownsend.com)'s [Balzac](https://github.com/ColeTownsend/Balzac-for-Jekyll) theme with heavy inspiration from his website. Some improvements were introduced thanks to [Michael Rose](http://mademistakes.com)'s [So Simple](https://github.com/mmistakes/so-simple-theme) theme for Jekyll (such as Bing Verification, Twitter Cards, Google Analytics, Authorship, and Webmaster Tools support). The theme also includes meta tags for Facebook's Open Graph.
+This is forked from [Cole Townsend](http://coletownsend.com)'s [Balzac](https://github.com/ColeTownsend/Balzac-for-Jekyll) theme with heavy inspiration from his website. Some improvements were introduced thanks to [Michael Rose](http://mademistakes.com)'s [So Simple](https://github.com/mmistakes/so-simple-theme) theme for Jekyll (such as Bing Verification, Twitter Cards, Google Analytics, Authorship, and Webmaster Tools support). The theme also includes meta tags for Facebook's Open Graph, and an nginx configuration file for clean URLs (i.e. site.com/post-name with no trailing slash).
 
 Setup and settings are similar to [Balzac](https://github.com/ColeTownsend/Balzac-for-Jekyll)'s. Please file an issue if something is not clear or you have any questions. 
 
