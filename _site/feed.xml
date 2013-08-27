@@ -3,26 +3,26 @@
 <title type="text">Jaan</title>
 <subtitle type="text">Excursions into Entropy.</subtitle>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="https://jaan.io/feed.xml" />
-<link rel="alternate" type="text/html" href="https://jaan.io" />
-<updated>2013-08-27T10:52:06-04:00</updated>
-<id>https://jaan.io/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2013-08-27T14:16:19-04:00</updated>
+<id>/</id>
 <author>
   <name>Jaan Altosaar</name>
-  <uri>https://jaan.io/</uri>
+  <uri>/</uri>
   <email>jaan@jaan.io</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Test Post]]></title>
-  <link rel="alternate" type="text/html" href="https://jaan.io/test-post" />
-  <id>https://jaan.io/test-post</id>
+  <link rel="alternate" type="text/html" href="/test-post" />
+  <id>/test-post</id>
   <published>2013-08-17T00:00:00-04:00</published>
   <updated>2013-08-17T00:00:00-04:00</updated>
   <author>
     <name>Jaan Altosaar</name>
-    <uri>https://jaan.io</uri>
+    <uri></uri>
     <email>jaan@jaan.io</email>
   </author>
   <content type="html">&lt;p&gt;Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney’s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
@@ -30,20 +30,20 @@
 &lt;p&gt;Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;https://jaan.io/test-post&quot;&gt;Test Post&lt;/a&gt; was originally published by Jaan Altosaar at &lt;a href=&quot;https://jaan.io&quot;&gt;Jaan&lt;/a&gt; on August 17, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/test-post&quot;&gt;Test Post&lt;/a&gt; was originally published by Jaan Altosaar at &lt;a href=&quot;&quot;&gt;Jaan&lt;/a&gt; on August 17, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Post and Feature Image With A Very Long Title]]></title>
-  <link rel="alternate" type="text/html" href="https://jaan.io/post-feat" />
-  <id>https://jaan.io/post-feat</id>
+  <link rel="alternate" type="text/html" href="/post-feat" />
+  <id>/post-feat</id>
   <updated>2013-06-30T00:00:00-00:00</updated>
   <published>2013-08-17T00:00:00-04:00</published>
   
   <author>
     <name>Jaan Altosaar</name>
-    <uri>https://jaan.io</uri>
+    <uri></uri>
     <email>jaan@jaan.io</email>
   </author>
   <content type="html">&lt;p&gt;“Whenever you feel like criticizing any one,” he told me, “just remember that all the people in this world haven’t had the advantages that you’vonetuhe had.”&lt;/p&gt;
@@ -69,24 +69,24 @@ And so with the sunshine and the great bursts of leaves growing on the trees, ju
 &lt;p&gt;It was a matter of chance that I should have rented a house in one of the strangest communities in North America. It was on that slender riotous island which extends itself due east of New York — and where there are, among other natural curiosities, two unusual formations of land. Twenty miles from the city a pair of enormous eggs, identical in contour and separated only by a courtesy bay, jut out into the most domesticated body of salt water in the Western hemisphere, the great wet barnyard of Long Island Sound. They are not perfect ovals — like the egg in the Columbus story, they are both crushed flat at the contact end — but their physical resemblance must be a source of perpetual confusion to the gulls that fly overhead. To the wingless a more arresting phenomenon is their dissimilarity in every particular except shape and size.
 I lived at West Egg, the — well, the less fashionable of the two, though this is a most superficial tag to express the bizarre and not a little sinister contrast between them. My house was at the very tip of the egg, only fifty yards from the Sound, and squeezed between two huge places that rented for twelve or fifteen thousand a season. The one on my right was a colossal affair by any standard — it was a factual imitation of some Hotel de Ville in Normandy, with a tower on one side, spanking new under a thin beard of raw ivy, and a marble swimming pool, and more than forty acres of lawn and garden. It was Gatsby’s mansion. Or, rather, as I didn’t know Mr. Gatsby, it was a mansion inhabited by a gentleman of that name. My own house was an eyesore, but it was a small eyesore, and it had been overlooked, so I had a view of the water, a partial view of my neighbor’s lawn, and the consoling proximity of millionaires — all for eighty dollars a month.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;https://jaan.io/post-feat&quot;&gt;Post and Feature Image With A Very Long Title&lt;/a&gt; was originally published by Jaan Altosaar at &lt;a href=&quot;https://jaan.io&quot;&gt;Jaan&lt;/a&gt; on August 17, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/post-feat&quot;&gt;Post and Feature Image With A Very Long Title&lt;/a&gt; was originally published by Jaan Altosaar at &lt;a href=&quot;&quot;&gt;Jaan&lt;/a&gt; on August 17, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Image in Post]]></title>
-  <link rel="alternate" type="text/html" href="https://jaan.io/the-little-prince" />
-  <id>https://jaan.io/the-little-prince</id>
+  <link rel="alternate" type="text/html" href="/the-little-prince" />
+  <id>/the-little-prince</id>
   <published>2013-08-05T00:00:00-04:00</published>
   <updated>2013-08-05T00:00:00-04:00</updated>
   <author>
     <name>Jaan Altosaar</name>
-    <uri>https://jaan.io</uri>
+    <uri></uri>
     <email>jaan@jaan.io</email>
   </author>
   <content type="html">&lt;p&gt;It was a picture of a boa constrictor in the act of swallowing an animal. Here is a copy of the drawing:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jaan.io/images/money.jpg&quot; alt=&quot;Drawing A&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/money.jpg&quot; alt=&quot;Drawing A&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In the book it said: “Boa constrictors swallow their prey whole, without
 chewing it. After that they are not able to move, and they sleep through the
@@ -96,7 +96,7 @@ six months that they need for digestion.”&lt;/p&gt;
 work with a colored pencil I succeeded in making my ﬁrst drawing. 
 My Drawing Number One. It looked like this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://jaan.io/images/sticker-mule.jpg&quot; alt=&quot;Drawing Number One&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/sticker-mule.jpg&quot; alt=&quot;Drawing Number One&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I showed my masterpiece to the grown-ups, and asked them whether the
 drawing frightened them.&lt;/p&gt;
@@ -109,19 +109,19 @@ digesting an elephant. But since the grown-ups were not able to understand it,
 I made another drawing: I drew the inside of the boa constrictor, so that the
 grown-ups could see it clearly. They always need to have things explained.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;https://jaan.io/the-little-prince&quot;&gt;Image in Post&lt;/a&gt; was originally published by Jaan Altosaar at &lt;a href=&quot;https://jaan.io&quot;&gt;Jaan&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/the-little-prince&quot;&gt;Image in Post&lt;/a&gt; was originally published by Jaan Altosaar at &lt;a href=&quot;&quot;&gt;Jaan&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Post with Figure]]></title>
-  <link rel="alternate" type="text/html" href="https://jaan.io/post-with-figure" />
-  <id>https://jaan.io/post-with-figure</id>
+  <link rel="alternate" type="text/html" href="/post-with-figure" />
+  <id>/post-with-figure</id>
   <published>2013-08-05T00:00:00-04:00</published>
   <updated>2013-08-05T00:00:00-04:00</updated>
   <author>
     <name>Jaan Altosaar</name>
-    <uri>https://jaan.io</uri>
+    <uri></uri>
     <email>jaan@jaan.io</email>
   </author>
   <content type="html">&lt;p&gt;This is a post that uses a &lt;code&gt;figure&lt;/code&gt;. It stacks these images and places a nice little caption below if you fill out &lt;code&gt;figcaption&lt;/code&gt;.&lt;/p&gt;
@@ -139,19 +139,19 @@ grown-ups could see it clearly. They always need to have things explained.&lt;/p
 &lt;span class=&quot;lineno&quot;&gt;4&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;https://jaan.io/post-with-figure&quot;&gt;Post with Figure&lt;/a&gt; was originally published by Jaan Altosaar at &lt;a href=&quot;https://jaan.io&quot;&gt;Jaan&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/post-with-figure&quot;&gt;Post with Figure&lt;/a&gt; was originally published by Jaan Altosaar at &lt;a href=&quot;&quot;&gt;Jaan&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Post and Feature Image With A Very Long Title]]></title>
-  <link rel="alternate" type="text/html" href="https://jaan.io/post-with-feature" />
-  <id>https://jaan.io/post-with-feature</id>
+  <link rel="alternate" type="text/html" href="/post-with-feature" />
+  <id>/post-with-feature</id>
   <published>2013-08-05T00:00:00-04:00</published>
   <updated>2013-08-05T00:00:00-04:00</updated>
   <author>
     <name>Jaan Altosaar</name>
-    <uri>https://jaan.io</uri>
+    <uri></uri>
     <email>jaan@jaan.io</email>
   </author>
   <content type="html">&lt;p&gt;“Whenever you feel like criticizing any one,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”&lt;/p&gt;
@@ -177,7 +177,7 @@ And so with the sunshine and the great bursts of leaves growing on the trees, ju
 &lt;p&gt;It was a matter of chance that I should have rented a house in one of the strangest communities in North America. It was on that slender riotous island which extends itself due east of New York — and where there are, among other natural curiosities, two unusual formations of land. Twenty miles from the city a pair of enormous eggs, identical in contour and separated only by a courtesy bay, jut out into the most domesticated body of salt water in the Western hemisphere, the great wet barnyard of Long Island Sound. They are not perfect ovals — like the egg in the Columbus story, they are both crushed flat at the contact end — but their physical resemblance must be a source of perpetual confusion to the gulls that fly overhead. To the wingless a more arresting phenomenon is their dissimilarity in every particular except shape and size.
 I lived at West Egg, the — well, the less fashionable of the two, though this is a most superficial tag to express the bizarre and not a little sinister contrast between them. My house was at the very tip of the egg, only fifty yards from the Sound, and squeezed between two huge places that rented for twelve or fifteen thousand a season. The one on my right was a colossal affair by any standard — it was a factual imitation of some Hotel de Ville in Normandy, with a tower on one side, spanking new under a thin beard of raw ivy, and a marble swimming pool, and more than forty acres of lawn and garden. It was Gatsby’s mansion. Or, rather, as I didn’t know Mr. Gatsby, it was a mansion inhabited by a gentleman of that name. My own house was an eyesore, but it was a small eyesore, and it had been overlooked, so I had a view of the water, a partial view of my neighbor’s lawn, and the consoling proximity of millionaires — all for eighty dollars a month.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;https://jaan.io/post-with-feature&quot;&gt;Post and Feature Image With A Very Long Title&lt;/a&gt; was originally published by Jaan Altosaar at &lt;a href=&quot;https://jaan.io&quot;&gt;Jaan&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/post-with-feature&quot;&gt;Post and Feature Image With A Very Long Title&lt;/a&gt; was originally published by Jaan Altosaar at &lt;a href=&quot;&quot;&gt;Jaan&lt;/a&gt; on August 05, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
