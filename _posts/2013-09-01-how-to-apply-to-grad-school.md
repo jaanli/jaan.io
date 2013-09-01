@@ -1,13 +1,13 @@
 ---
 layout: post-light-feature
 title: How to apply to grad school
-description: "What I wish I had known throughout the process of applying to grad schools in physics, applied physics, and bioengineering."
+description: "Here's what I wish I had known throughout when applying to grad schools in physics, applied physics, and bioengineering."
 category: articles
 modified: 2013-09-01
-tags: [intro, beginner, jekyll, tutorial]
+tags: [grad school, how to apply to grad school, graduate school, applications, science, physics phd, physics gre]
 image:
-  feature: gatsby.jpg
-  thumb: money.jpg
+  feature: pencils.jpg
+  thumb: pencilsthumb.png
 ---
 
 I gave an info session at McGill in March 2013 on applying to graduate schools in Canada, the U.S., and Britain. Here are some things I found most useful and what I wish I had known:
