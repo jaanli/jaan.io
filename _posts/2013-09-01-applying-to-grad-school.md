@@ -20,7 +20,7 @@ I gave an info session at McGill in March 2013 on applying to graduate schools i
 * Do not worry about the cost of tests and applications - most programs will pay you a decent salary and you will readily make back what you spent (if you gain admission to just one program).
 * Apply to every scholarship and fellowship you are eligible for which will support your graduate studies. It is good practice writing the research statements and essays and you may even be successful.
 
-#The Application
+## The Application
 
 Your application will be reviewed by a committee typically consisting of faculty members (and sometimes senior graduate students). As the majority of your graduate school will consist of doing research, the most important you can do in your application is to demonstrate research ability. The best way to do this is to do summer research and work hard in the hopes of getting published and getting good recommendation letters attesting to your potential for doing research. The next best way is to take research-based courses at your school. Grades are not a good measure of how good someone will be at doing research, so if you have to sacrifice grades a little in order to do research, do so.
 
