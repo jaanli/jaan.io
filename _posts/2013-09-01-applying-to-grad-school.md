@@ -32,7 +32,7 @@ Jan Gorzny at UToronto has a [helpful page](http://www.crypticcode.ca/jan.gorzny
 * Apply for every summer research scholarship such as the REU, DAAD RISE, Caltech SURF, or NSERC USRA even if you do not have the most competitive application and transcript, as the professor you apply with may decide to fund you through a separate grant if your initial funding application is not successful
 You may have to contact many professors before you find one willing to take you on - this is normal (I contacted around 30 faculty a year and the success rate was ~10%).
 * Take research courses, as electives or for your degree. For these you will also have to seek out professors to work with. At McGill such courses are the [396 research courses](http://www.mcgill.ca/science/research/ours/396), and other possible routes are MATH 470 (Honours Research Project) or PHYS 459 (Honours Research Project or Thesis).
-* Before contacting professors, read Matt Might's [how to email post](http://matt.might.net/articles/how-to-email/), use your official school email address, and Boomerang your emails to arrive at 9 AM on Wednesdays.
+* Before contacting professors, read Matt Might's [how to email post](http://matt.might.net/articles/how-to-email/), use your official school email address, and [Boomerang](http://www.boomeranggmail.com/) your emails to arrive at 3 PM on Wednesdays (see MailChimp's [email open rates summary](http://mailchimp.com/resources/research/)).
 * If you cannot find a professor willing to take you on for the summer, consider volunteering in a lab for a few hours each week or take a research course to get your foot in the door. If you have LaTeXed your CV (see below) tried the above options, contacted a ton of professors, and have been unsuccessful in securing a summer or semester-long position, send me an [email](mailto:altosaar@princeton.edu) and I will do my best to tell you how to improve your application.
 * Persistence pays off with professors - if they don't reply initially, show up at their office or send a follow up email. You can also attend local colloquia or talks in fields that interest you; approach professors after their talk to ask about opportunities at their school, get their card or contact info, and follow up via email.
 * Once you're working in research, do your best to see your project through from start to finish (this may mean putting in extra, unpaid time).
@@ -83,6 +83,29 @@ If you have done research, make a poster and present it at a conference or meeti
 * The King Abdullah University of Science and Technology runs an [undergraduate research poster competition](http://www.kaust.edu.sa/academics/wep/) for which you can apply for full funding to attend
 * The [Killam Fellowship](http://www.killamfellowships.com/programs.html) provides funding for a semester abroad in the US
 
+## Contact professors before (and after) applying
 
+Send emails to the professors you are interested in working with at the schools you are applying to, ideally well before actually applying. This serves several purposes: you can find out if they will be taking new students or not (this is important - if you only list faculty who are not taking students on your personal statement you are likely to be rejected). Furthermore, you will be able to include your CV if it is not asked for on the official application. To do this, read or skim their latest papers from their website, PubMed, the arXiv, or the ISI Web of Knowledge, and mention which areas of their research you are interested in. Read Matt Might's [how to email](http://matt.might.net/articles/how-to-email/), use your official school email address, add a direct link to your hosted CV (see above) and Boomerang your emails to arrive at 9 AM on a Wednesday. This makes a huge difference and will make the entire process feel much more personal will be good motivation to grind through the application process.
+
+## Your final-year grades don't matter that much (and some good courses to take)
+
+Caveat: they do matter if you plan on doing a Masters and then applying to PhD programs or possibly working in industry, and it's never bad to have a high GPA.
+
+However, between courses, GREs, and applications it is easy to get burnt out, so don't sweat your grades if you get overwhelmed.  Try to plan your courses to maximize your grades (GPA) for the first three years of your undergrad, as grad schools will not see the fall semester grades of your senior year (you apply in December and grades come out in January by which time you will already be hearing back). Alongside research courses, try doing your undergrad thesis in your third year even if it's normally taken in your senior year (if you work hard you'll have a publication to list on your application, a good letter of recommendation, and some As). Also consider taking scientific writing courses such as McGill's [CEAP 250 course](http://www.mcgill.ca/study/2012-2013/courses/ceap-250) - these will improve your writing and typically culminate in a final report which you could also submit for publication.
+
+## Further reading
+
+Other webpages and resources I found useful:
+
+* Matt Might's [super-useful advice](http://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/) on applying (he has been on admissions committees)
+* Sean Carroll's advice on grad school [part one](http://blogs.discovermagazine.com/cosmicvariance/2005/12/20/unsolicited-advice-1-how-to-get-into-graduate-school/) and [part two](http://blogs.discovermagazine.com/cosmicvariance/2006/03/29/unsolicited-advice-part-deux-choosing-a-grad-school/)
+* An [inside look at admissions](http://blogs.discovermagazine.com/cosmicvariance/2008/01/29/the-other-side-of-graduate-admissions/) from a former committee member
+* [The Happiness Advantage](http://www.amazon.com/gp/product/0307591549/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0307591549&amp;linkCode=as2&amp;tag=jaanalto-20) by Shawn Achor is a fantastic summary of recent positive psychology research for staying sane through this entire process
+* [A PhD is not enough](http://www.amazon.com/gp/product/0465022227/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0465022227&amp;linkCode=as2&amp;tag=jaanalto-20) gives a great overview of what grad school is like and what to expect afterwards
+* DJ Strouse's excellent [all-encompassing guide](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/) to applying to grad schools 
+
+## Want to see something included here?
+
+Shoot me an [email](mailto:altosaar@princeton.edu) with any recommendations.
 
 
