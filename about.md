@@ -13,7 +13,7 @@ You can find my CV at the following address: [jaan.io/cv](https://jaan.io/cv).
 
 The best way to reach me is via email at [altosaar@princeton.edu](mailto:altosaar@princeton.edu). Please feel free to connect with me on the following networks:
 
-# <a href="http://www.linkedin.com/in/jaanaltosaar" target="_blank"><i class="icon-linkedin"></i> LinkedIn</a>
+* # <a href="http://www.linkedin.com/in/jaanaltosaar" target="_blank"><i class="icon-linkedin"></i> LinkedIn</a>
 
  /github: altosaar
 
