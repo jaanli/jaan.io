@@ -12,7 +12,7 @@ My background is Estonian-Canadian and I graduated from McGill University in Mon
 You can find my CV at the following address: [jaan.io/cv](https://jaan.io/cv).
 
 The best way to reach me is via email at [altosaar@princeton.edu](mailto:altosaar@princeton.edu). Feel free to connect with me on the following networks:
-
+-> test <-
 -> ## <a href="http://www.linkedin.com/in/jaanaltosaar" target="_blank"><i class="icon-linkedin-sign"></i> LinkedIn</a> -<
 ## <a href="https://github.com/altosaar" target="_blank"><i class="icon-github"></i></a>
 
