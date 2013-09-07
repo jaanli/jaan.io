@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: How to apply to grad school
+title: How to ace the GRE and Physics GRE
 description: "Tips and tricks to maximize your GRE and Physics GRE scores."
 category: articles
 modified: 2013-08-28
