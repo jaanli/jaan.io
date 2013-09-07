@@ -6,6 +6,7 @@ category: articles
 tags: [intro, beginner, jekyll, tutorial]
 image:
   feature: gatsby.jpg
+published: false
 ---
 
 “Whenever you feel like criticizing any one,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”
