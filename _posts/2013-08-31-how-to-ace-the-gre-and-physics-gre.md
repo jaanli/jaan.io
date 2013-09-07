@@ -7,7 +7,7 @@ modified: 2013-08-28
 tags: [physics gre, ace physics gre, gre, applications, grad school, grad school applications, science, physics phd]
 image:
   feature: grelarge.jpg
-  thumb: grethumb.png
+  thumb: grethumb.jpg
 ---
 
 Most PhD programs in the US require the GRE general test. These scores matter, so start studying early and register at ETS to take the tests as early as possible.
