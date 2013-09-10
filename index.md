@@ -1,7 +1,6 @@
 ---
 layout: home
 title: "Recent Articles"
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [jaan altosaar, jaan, physics, phd, princeton, mcgill, gre, physics gre, grad school]
+description: I am a Physics PhD student interested in collective behaviour, computational neuroscience, and science outreach. Get in touch to collaborate or discuss ideas — I'm available.
 ---
-
-aoanetuhaonetihaoentihasoentihasuntheosuaoe
