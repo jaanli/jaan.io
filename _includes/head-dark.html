@@ -16,10 +16,10 @@
 
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
-<meta property="og:title" content="{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}">
+<meta property="og:title" content="{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }} &nbsp; {{ site.titlehilight }}">
 <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 120  }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:site_name" content="{{ site.title }} &nbsp; {{ site.titlehilight }}">
 
 <!-- Google & Bing Verification -->
 {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
