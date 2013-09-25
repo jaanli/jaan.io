@@ -9,7 +9,7 @@ image:
 ---
 My background is Estonian-Canadian and I graduated from McGill University in Montreal, Canada with a degree in Mathematics and Physics in Spring 2013. In my spare time I thoroughly enjoy volleyball, meditation, making music, or ploughing through Haruki Murakami.
 
-I am currently working in the [Couzin Lab](http://icouzin.princeton.edu/), and you can find my CV at the following address: [jaan.io/cv](https://jaan.io/cv).
+I am currently working in the [Couzin Lab](http://icouzin.princeton.edu/). You can find my CV at the following address: [jaan.io/cv](https://jaan.io/cv).
 
 The best way to reach me is via email at [altosaar@princeton.edu](mailto:altosaar@princeton.edu). Feel free to connect with me on the following networks:
 
