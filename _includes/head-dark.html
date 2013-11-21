@@ -6,6 +6,7 @@
 {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
 
 <head>
+
 <!-- Twitter Cards -->
 {% if site.owner.twitter %}
 {% if page.image.feature %}<meta name="twitter:card" content="summary_large_image">
@@ -23,6 +24,9 @@
 <meta property="og:url" content="{{ canonical }}">
 <meta property="og:site_name" content="{{ site.title }} {{ site.titlehilight }}">
 {% if page.image.thumb %}<meta property="og:image" content="{{ site.url }}/images/{{ page.image.thumb }}">{% else %}<meta property="og:image" content="{{ site.url }}/images/{{ site.logo }}">{% endif %}
+
+<!-- Google authorship -->
+<a href="https://www.google.com/+JaanAltosaar?rel=author"></a>
 
 <!-- Google & Bing Verification -->
 {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
