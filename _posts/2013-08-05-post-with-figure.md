@@ -16,6 +16,11 @@ This is a post that uses a `figure`. It stacks these images and places a nice li
 	<figcaption>Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</figcaption>
 </figure>
 
+<figure>
+	<img src="images/pianochapel.jpg">
+	<figcaption>Piano D. The Steinway in the lecture room in the basement of the chapel.</figcaption>
+</figure>
+
 {% highlight html linenos %}
 <figure>
 	<img src="/images/image-filename-1.jpg">
