@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: Princeton Pianos
-description: "Locations of all pianos on campus."
+description: "Locations of all the pianos on campus."
 category: articles
 tags: [open source, location data, princeton, pianos, upright, grand piano, baby grand, carillon, princeton pianos]
 image:
@@ -15,7 +15,7 @@ Another `open-sourcing locations' project might be to document uncommon study sp
 
 If I missed a piano, [shoot me an email](mailto:altosaar@princeton.edu) and I will add it to the map:
 
-#<iframe src="https://mapsengine.google.com/map/embed?mid=zZ0UKQQpeAC0.kCaCPXTnIEOo" width="640" height="480"></iframe>
+<iframe src="https://mapsengine.google.com/map/embed?mid=zZ0UKQQpeAC0.kCaCPXTnIEOo" width="640" height="480"></iframe>
 
 <figure>
 	<img src="images/pianochapel.jpg">
