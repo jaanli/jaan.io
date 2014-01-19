@@ -15,7 +15,7 @@ Another `open-sourcing locations' project might be to document uncommon study sp
 
 If I missed a piano, [shoot me an email](mailto:altosaar@princeton.edu) and I will add it to the map:
 
-<iframe src="https://mapsengine.google.com/map/embed?mid=zZ0UKQQpeAC0.kCaCPXTnIEOo" width="640" height="480"></iframe>
+<iframe src="https://mapsengine.google.com/map/embed?mid=zZ0UKQQpeAC0.kCaCPXTnIEOo" width="900" height="600"></iframe>
 
 <figure>
 	<img src="images/pianochapel.jpg">
