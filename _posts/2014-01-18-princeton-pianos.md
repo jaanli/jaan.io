@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: Princeton Pianos
-description: "Locations of all the pianos on campus."
+description: "Locations of all pianos on campus."
 category: articles
 tags: [open source, location data, princeton, pianos, upright, grand piano, baby grand, carillon, princeton pianos]
 image:
