@@ -11,7 +11,7 @@ image:
 
 I've played more piano since starting grad school than throughout my four years at McGill, thanks to the abundance of pianos on campus. The pianos' conditions range from excellent to passable, with some sporting [Köln](http://en.wikipedia.org/wiki/The_K%C3%B6ln_Concert#The_K.C3.B6ln_concert)-level limitations. However, I couldn't find a resource listing their locations.
 
-Another `open-sourcing locations' project might be to document uncommon study spots. At McGill when libraries got crowded during exams I could escape to Purvis Hall's [solarium](https://www.google.com/maps?ll=45.50447900000001%2C-73.58179800000002&cbp=%2C70.62%2C%2C2%2C-4.739998&layer=c&panoid=tTI0x7ujrMYKWjVhRAd7lw&spn=0.18000000000000788%2C0.30000000000001953&output=classic&cbll=45.504479%2C-73.581798), which was usually empty.
+Another 'open-sourced locations' project could be to document uncommon study spots. At McGill when libraries got crowded during exams I could escape to Purvis Hall's [solarium](https://www.google.com/maps?ll=45.50447900000001%2C-73.58179800000002&cbp=%2C70.62%2C%2C2%2C-4.739998&layer=c&panoid=tTI0x7ujrMYKWjVhRAd7lw&spn=0.18000000000000788%2C0.30000000000001953&output=classic&cbll=45.504479%2C-73.581798), which was usually empty.
 
 If I missed a piano, [shoot me an email](mailto:altosaar@princeton.edu) and I will add it to the map:
 
