@@ -1,3 +1,4 @@
+---
 layout: post-light-feature
 title: Princeton Pianos
 description: "Locations of all pianos on campus."
