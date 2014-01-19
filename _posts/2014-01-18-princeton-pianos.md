@@ -19,7 +19,7 @@ If I missed a piano, [shoot me an email](mailto:altosaar@princeton.edu) and I wi
 
 <figure>
 	<img src="images/pianochapel.jpg">
-	<figcaption>Piano D. The Steinway in the lecture room in the basement of the chapel.</figcaption>
+	<figcaption>Piano D: The Steinway in the lecture room in the basement of the chapel.</figcaption>
 </figure>
 
 <figure>
@@ -29,7 +29,7 @@ If I missed a piano, [shoot me an email](mailto:altosaar@princeton.edu) and I wi
 
 <figure>
 	<img src="images/pianomaddy.jpg">
-	<figcaption>Piano N. The Yamaha in the Mathey college common room.</figcaption>
+	<figcaption>Piano N: The Yamaha in the Mathey college common room.</figcaption>
 </figure>
 
 Thanks to [Jordan Ash](http://eden.rutgers.edu/~jordash/) for letting me borrow his camera. 
