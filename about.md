@@ -7,7 +7,7 @@ tags: [about, Jaan Altosaar, Princeton, PhD, collective behavior]
 image:
   feature: jaanaltosaar.jpg
 ---
-My background is Estonian-Canadian and I graduated from McGill University in Montreal, Canada with a degree in Mathematics and Physics in Spring 2013. In my spare time I thoroughly enjoy volleyball, meditation, making music, or ploughing through Haruki Murakami.
+My background is Estonian-Canadian and I graduated from McGill University in Montreal, Canada with a degree in Mathematics and Physics in Spring 2013. In my spare time I thoroughly enjoy volleyball, meditation, making music, or ploughing through George Saunders. In 2014, I launched [Useful Science](http://usefulscience.org) with a group of friends.
 
 I am currently working in the [Couzin Lab](http://icouzin.princeton.edu/). You can find my CV at the following address: [jaan.io/cv](https://jaan.io/cv).
 
