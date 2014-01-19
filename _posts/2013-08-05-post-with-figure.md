@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-light-feature
 title: "Post with Figure"
 description: "Examples and code for displaying images in posts."
 category: articles
