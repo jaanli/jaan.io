@@ -1,0 +1,36 @@
+layout: post-light-feature
+title: Princeton Pianos
+description: "Locations of all pianos on campus."
+category: articles
+modified: 2014-01-18
+tags: [open source, location data, princeton, pianos, upright, grand piano, baby grand, carillon, princeton pianos]
+image:
+  feature: pianofeature.jpg
+  thumb: pianothumb.jpg
+published: true
+---
+
+I've played more piano since starting grad school than throughout my four years at McGill, thanks to the abundance of pianos on campus. The pianos' conditions range from excellent to passable, with some sporting [Köln](http://en.wikipedia.org/wiki/The_K%C3%B6ln_Concert#The_K.C3.B6ln_concert)-level limitations. However, I couldn't find a resource listing their locations.
+
+Another `open-sourcing locations' project might be to document uncommon study spots. At McGill when libraries got crowded during exams I could escape to Purvis Hall's [solarium](https://www.google.com/maps?ll=45.50447900000001%2C-73.58179800000002&cbp=%2C70.62%2C%2C2%2C-4.739998&layer=c&panoid=tTI0x7ujrMYKWjVhRAd7lw&spn=0.18000000000000788%2C0.30000000000001953&output=classic&cbll=45.504479%2C-73.581798), which was usually empty.
+
+If I missed a piano, [shoot me an email](mailto:altosaar@princeton.edu) and I will add it to the map:
+
+<iframe src="https://mapsengine.google.com/map/embed?mid=zZ0UKQQpeAC0.kCaCPXTnIEOo" width="640" height="480"></iframe>
+
+<figure>
+	<img src="/images/pianochapel.jpg">
+	<figcaption>Piano D. The Steinway in the lecture room in the basement of the chapel.</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/carillon.jpg">
+	<figcaption>Technically not a piano, the carillon is a unique instrument that's close enough!</figcaption>
+</figure>
+
+<figure>
+	<img src="/images/pianomaddy.jpg">
+	<figcaption>Piano N. The Yamaha in the Mathey college common room.</figcaption>
+</figure>
+
+Thanks to [Jordan Ash](http://eden.rutgers.edu/~jordash/) for letting me borrow his camera. 
