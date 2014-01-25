@@ -13,7 +13,7 @@ image:
 Most PhD programs in the US require the GRE general test. These scores matter, so start studying early and register at ETS to take the tests as early as possible.
 
 * For the general GRE test, I used and highly recommend The Princeton Review’s Cracking the GRE 2013 edition. It is excellent preparation and includes plenty of practice tests. 
-* Do not get any older version (e.g. the 2012 version), but get the [2014 edition](http://www.amazon.com/Cracking-Practice-Edition-Graduate-Preparation/dp/0307945634).
+* Don't get an older version (e.g. the 2012 version), but get the [2014 edition](http://www.amazon.com/Cracking-Practice-Edition-Graduate-Preparation/dp/0307945634).
 * ETS periodically adds new material to the tests so you want the most up-to-date book. You can take a computer-based or hand-written version of the test; I recommend the handwritten version as it is easier to make notes and work out the problems on the test booklet itself than on paper beside the computer.
 
 
@@ -35,7 +35,7 @@ Here are links to the five practice tests found online, with online solutions. *
 
 * The awesome folks at Case Western Reserve University will send you **free (FREE!) flash cards** for the Physics GRE, all you have to do is send your address to [physicsgreflashcards@phys.cwru.edu](mailto:physicsgreflashcards@phys.cwru.edu) and they will put them in the mail (also have a look at their [website](http://www.phys.cwru.edu/flashCards/)).
 
-* Two former MIT students wrote a [decent book](http://www.amazon.com/gp/product/1479274631/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1479274631&linkCode=as2&tag=jaanalto-20) attempting to summarize the material (I used a few chapters of this to review material).
+* Two former MIT students wrote a [decent book](http://www.amazon.com/gp/product/1479274631/) attempting to summarize the material (I used a few chapters of this to review material).
 * Here are links to some formula sheets:
 	* Steven J. Byrnes of Harvard wrote a helpful and  up-to-date [formula sheet](http://sjbyrnes.com/studysheet.pdf)
 	* The Harvard Society of Physics Students also hosts [some formula sheets](http://www.hcs.harvard.edu/~physics/wp-content/uploads/2013/02/GRE-notes.pdf)
