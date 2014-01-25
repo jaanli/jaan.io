@@ -55,7 +55,12 @@
     _gaq.push(['_setAccount', '{{ site.google_analytics }}']);
     _gaq.push(['_trackPageview']);
 
-    setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])", 15000);
+  setTimeout(function() {
+    window.onscroll = function() {
+      window.onscroll = null; // Only track the event once
+      _gaq.push(['_trackEvent', 'scroll', 'read']);
+    }
+  }, 5000);
 
     (function() {
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
