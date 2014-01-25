@@ -55,6 +55,8 @@
     _gaq.push(['_setAccount', '{{ site.google_analytics }}']);
     _gaq.push(['_trackPageview']);
 
+    setTimeout("_gaq.push(['_trackEvent', '15_seconds', 'read'])", 15000);
+
     (function() {
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
       ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
