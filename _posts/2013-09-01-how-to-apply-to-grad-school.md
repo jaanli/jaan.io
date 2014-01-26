@@ -41,7 +41,7 @@ You may have to contact many professors before you find one willing to take you 
 
 When contacting professors with your CV, make sure it looks good - presentation makes a difference. Don't use Microsoft Word. Don't believe me that you should use LaTeX for your CV? Read [this](http://nitens.org/taraborelli/latex) for an overview of the benefits.
 
-To get your CV into LaTeX format, you can look online for CV templates - a good website is [LaTeX Templates](http://www.latextemplates.com/cat/curricula-vitae). Mike King also has a [good intro](http://michaelelliotking.com/articles/learn_latex/) to LaTeX. Then, host your CV online:
+To get your CV into LaTeX format, you can look online for CV templates - a good website is [LaTeX Templates](http://www.latextemplates.com/cat/curricula-vitae). Mike King also has a [good intro](http://michaelelliotking.com/articles/learn_latex/) to LaTeX.
 
 ## Hosting your CV, setting up a website
 
