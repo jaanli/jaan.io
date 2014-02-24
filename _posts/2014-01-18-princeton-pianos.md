@@ -32,4 +32,4 @@ If I missed a piano, [shoot me an email](mailto:altosaar@princeton.edu) and I wi
 	<figcaption>Piano N: The Yamaha in the Mathey college common room.</figcaption>
 </figure>
 
-_Thanks to [Jordan Ash](http://eden.rutgers.edu/~jordash/) for letting me borrow his camera._ 
+Thanks to [Jordan Ash](http://eden.rutgers.edu/~jordash/) for letting me borrow his camera.
