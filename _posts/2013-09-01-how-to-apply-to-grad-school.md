@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: How to apply to grad school
-description: "Here's what I wish I had known throughout when applying to grad schools in physics, applied physics, and bioengineering."
+description: "What I wish I had known when applying to grad schools in physics, applied physics, and bioengineering."
 category: articles
 modified: 2013-09-01
 tags: [grad school, how to apply to grad school, graduate school, applications, science, physics phd, physics gre]
