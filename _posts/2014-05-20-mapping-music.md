@@ -1,12 +1,13 @@
 ---
 layout: post-light-feature
 title: Mapping music
-description: "A map of Brazilian rock. "
+description: ""
 category: articles
 tags: [gilberto gil, music, t sne, t-sne, brazil, stochastic, neighbor, embedding, machine learning, information, retrieval, d3js, d3, js, viz, data science, data, science, audio, visualization]
 ---
 
 
+Testing
 <iframe src="http://bl.ocks.org/mbostock/raw/4061502/0a200ddf998aa75dfdb1ff32e16b680a15e5cb01/" marginwidth="400" marginheight="600" scrolling="no"></iframe>
 
 
