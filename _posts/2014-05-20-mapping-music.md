@@ -6,7 +6,9 @@ category: articles
 tags: [gilberto gil, music, t sne, t-sne, brazil, stochastic, neighbor, embedding, machine learning, information, retrieval, d3js, d3, js, viz, data science, data, science, audio, visualization]
 ---
 
-<iframe src="http://bl.ocks.org/mbostock/raw/4063663/" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+<iframe src="http://bl.ocks.org/mbostock/raw/4061502/0a200ddf998aa75dfdb1ff32e16b680a15e5cb01/" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
 
 
 <!-- don't have a feature image! and push title down or something. 
