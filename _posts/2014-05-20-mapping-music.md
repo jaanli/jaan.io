@@ -4,14 +4,10 @@ title: Mapping music
 description: ""
 category: articles
 tags: [gilberto gil, music, t sne, t-sne, brazil, stochastic, neighbor, embedding, machine learning, information, retrieval, d3js, d3, js, viz, data science, data, science, audio, visualization]
+published: false
 ---
 
 
-Testing.
-
-
-
-<iframe src="http://bl.ocks.org/mbostock/raw/4061502/" width="600" height="600" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 
 
