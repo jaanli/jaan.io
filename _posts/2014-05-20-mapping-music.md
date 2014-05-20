@@ -1,5 +1,5 @@
 ---
-layout: post-light
+layout: post-light-feature
 title: Mapping music
 description: "A map of Brazilian rock. "
 category: articles
