@@ -9,7 +9,7 @@ tags: [gilberto gil, music, t sne, t-sne, brazil, stochastic, neighbor, embeddin
 
 Testing.
 
-<iframe src="http://bl.ocks.org/mbostock/raw/4063663/" marginwidth="400" marginheight="600" scrolling="no"></iframe>
+<iframe src="/files/brushing.html" marginwidth="400" marginheight="600" scrolling="no"></iframe>
 
 
 
