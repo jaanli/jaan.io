@@ -11,7 +11,7 @@ Testing.
 
 
 
-<iframe src="http://bl.ocks.org/mbostock/raw/4061502/" width="600" height="400" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe src="http://bl.ocks.org/mbostock/raw/4061502/" width="600" height="600" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 
 
