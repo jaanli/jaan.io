@@ -3,8 +3,8 @@
 <style>
 
 svg {
-  font: 10px sans-serif;
-  padding: 10px;
+  font: 14px sans-serif;
+  padding: 14px;
 }
 
 .axis,
@@ -17,7 +17,8 @@ svg {
 }
 
 .axis path {
-  display: none;
+  fill: none;
+  stroke: lightgrey;
 }
 
 .frame {
@@ -26,12 +27,10 @@ svg {
 }
 
 circle {
-  fill-opacity: .7;
+  fill-opacity: 1;
 }
 
-circle.hidden {
-  fill: #ccc !important;
-}
+
 
 .extent {
   fill: #000;
@@ -41,10 +40,21 @@ circle.hidden {
 
 </style>
 <body>
-<script src="/assets/js/d3.v3.min.js"></script>
+<!-- circle.hidden {
+  fill: #ccc !important;
+}-->
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/colorbrewer.v1.min.js"></script>
+<!--<script src="/assets/js/d3.v3.min.js"></script>-->
 <script>
 
-var data = [[5,3], [10,17], [15,4], [2,8]];
+/*var data = [[5,3], [10,17], [10,10], [15,4], [2,8], [4, 5], [30, 29]];*/
+
+var data = []
+d3.csv("file:///Users/jaanaltosaar/dev/jaan.io/files/short.csv", function(data) {
+   dataset = data.map(function(d) { return [ +d[0], +d[1] ]; });
+   console.log(dataset)
+});
    
     var margin = {top: 20, right: 15, bottom: 60, left: 60}
       , width = 960 - margin.left - margin.right
@@ -92,11 +102,34 @@ var data = [[5,3], [10,17], [15,4], [2,8]];
 
     var g = main.append("svg:g"); 
     
+    //range = data.map(function(d) {return d.i})
+
+    /*var fillings = d3.scale.ordinal()
+      .domain(d3.extent(data))
+      .range(colorbrewer.OrRd[3])
+
+    circles = d3.select("svg").append("g").selectAll("circle").data(data)
+
+    circles
+      .enter()
+      .append("circle")
+      .attr("cx",function (d) { return x(d.1); })
+      .attr("cy",function (d) { return y(d.2); })
+      .attr("r",5)
+      //.style("fill",function(d) {return fillings(d.i) } )*/
+
     g.selectAll("scatter-dots")
       .data(data)
       .enter().append("svg:circle")
-          .attr("cx", function (d,i) { return x(d[0]); } )
-          .attr("cy", function (d) { return y(d[1]); } )
-          .attr("r", 8);
+          .attr("cx", function (d) { return d[0]; } )
+          .attr("cy", function (d) { return d[1]; } )
+          .attr("r", 5);
+          //.style("fill", )//function(d) {return fillings(d.i) } )
 
 </script>
+
+<!-- use cynthia brewer's colormaps, get it to pick the colors by the number on the data point. 
+
+var z = d3.scale.ordinal()
+    .domain(["foo", "bar", "baz"])
+    .range(colorbrewer.RdBu[9]); -->

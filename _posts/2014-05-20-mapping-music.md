@@ -7,10 +7,11 @@ tags: [gilberto gil, music, t sne, t-sne, brazil, stochastic, neighbor, embeddin
 published: false
 ---
 
-yeh
+would be cool
 
 <iframe src="/files/brushing.html" width="600" height="600" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
+ 
+here's the same thing on an arvo part song. 
 
 
 <!-- don't have a feature image! and push title down or something. 
