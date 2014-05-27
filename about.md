@@ -11,7 +11,7 @@ I am currently working in the [Couzin Lab](http://icouzin.princeton.edu/), and w
 
 My background is Estonian-Canadian and I graduated from McGill in Montreal, Canada in 2013. In my spare time I thoroughly enjoy volleyball, meditation, making music, or ploughing through George Saunders. In 2014, I launched [Useful Science](http://usefulscience.org) with a group of friends.
 
-The best way to reach me is via email at [altosaar@princeton.edu](mailto:altosaar@princeton.edu). Feel free to connect with me on the following networks:
+The best way to reach me is via email at [altosaar@princeton.edu](mailto:altosaar@princeton.edu). Feel free to connect via:
 
 ## <center><a href="https://twitter.com/thejaan" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a></center>
 
