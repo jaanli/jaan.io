@@ -1,8 +1,8 @@
 <div class="push"></div>
   <footert>
   <footer>
-    <aside class="wrap">
-      <!--<ol class="prev-posts">
+    <!--<aside class="wrap">
+      <ol class="prev-posts">
         <p class="list-title"><a href="/">Recent Articles</a></p>
         {% for post in site.posts | limit:3 %} 
             <li>
@@ -12,6 +12,8 @@
         {% endfor %}
       </ol> -->
       
+      <div class="social">
+        <ul>
             <li><a href="{{ site.url }}/about"><span class="foot-link">About</span></a></li>
 
             <li><a href="{{ site.url }}/articles"><span class="foot-link">Articles</span></a></li>            
@@ -28,6 +30,8 @@
             {% if site.owner.dribbble %} 
             <li><a id="drib" href="http://dribbble.com/{{ site.owner.dribbble }}" target="_blank"><span class="foot-link">Dribbble</span></a></li>
             {% endif %}
+        </ul>
+    </div>
     </aside>
     <!--<small>&copy; {{ site.time | date: '%Y' }} <a href="mailto:jaan@jaan.io"> {{ site.owner.name }} </a></small> -->
   </footer>
