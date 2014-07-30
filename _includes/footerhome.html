@@ -1,38 +1,6 @@
   <footert>
   <footer>
-    <!--<aside class="wrap">
-      <ol class="prev-posts">
-        <p class="list-title"><a href="/">Recent Articles</a></p>
-        {% for post in site.posts | limit:3 %} 
-            <li>
-              <span class="recent-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title | strip_html | strip_newlines | truncate: 30 }}</span>
-              <span class="date">{{post.date | date: "%b %d, %Y" }}</a></span>
-            </li>
-        {% endfor %}
-      </ol> -->
-      
-      <div class="social">
-        <ul>
-            <li><a href="{{ site.url }}/about"><span class="foot-link">About</span></a></li>
-
-            <li><a href="{{ site.url }}/articles"><span class="foot-link">Articles</span></a></li>            
-
-            <li><a id="mail" href="https://jaan.io/feed.xml"><span class="foot-link">Subscribe</span></a></li>
-            
-
-
-            {% if site.owner.twitter %} 
-            <li><a id="twit" href="http://twitter.com/{{ site.owner.twitter }}" target="_blank"><span class="foot-link">@{{ site.owner.twitter }}</span></a></li> 
-            {% endif %}
-            
-            
-            {% if site.owner.dribbble %} 
-            <li><a id="drib" href="http://dribbble.com/{{ site.owner.dribbble }}" target="_blank"><span class="foot-link">Dribbble</span></a></li>
-            {% endif %}
-        </ul>
-    </div>
-    </aside>
-    <!--<small>&copy; {{ site.time | date: '%Y' }} <a href="mailto:jaan@jaan.io"> {{ site.owner.name }} </a></small> -->
+    <small><a id="mail" href="https://jaan.io/feed.xml"><span class="foot-link">Subscribe</span></a></small> -->
   </footer>
 </footert>
 
