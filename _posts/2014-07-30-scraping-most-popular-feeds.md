@@ -21,6 +21,6 @@ Combine my tedious, obsessive manual solution with Kimono's automated scraping a
 
 Each of these also has an [accompanying](https://www.kimonolabs.com/api/rss/bp6srkeo?apikey=IZ2p67Ape9GAv5gTTiWTeT4zsMODnjGV) [RSS](https://www.kimonolabs.com/api/rss/crlzja6a?apikey=IZ2p67Ape9GAv5gTTiWTeT4zsMODnjGV) [feed](https://www.kimonolabs.com/api/rss/ejasz4uu?apikey=IZ2p67Ape9GAv5gTTiWTeT4zsMODnjGV). Creating these is as easy as clicking on the Kimono Chrome extension, selecting the elements to scrape, and hitting done.
 
-These feeds are also available as a [mobile or web app](https://www.kimonolabs.com/apps/most-popular) (drag the web icon to your iOS/Android home screen).
+These feeds are also available as a [mobile or web app](https://www.kimonolabs.com/kimonoapp/most-popular) (drag the web icon to your iOS/Android home screen).
 
 If you have any thoughts on how to improve this, I'd love to chat – email me at [jaan@jaan.io](mailto:jaan@jaan.io).
