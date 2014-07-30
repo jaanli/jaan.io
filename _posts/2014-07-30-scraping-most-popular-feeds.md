@@ -15,7 +15,7 @@ Even if it's a placebo, the vetting of thousands of actual people makes articles
 
 # Enter [Kimono](https://www.kimonolabs.com/)
 
-Combine my tedious, obsessive manual solution with Kimono's automated scraping and RSS generation, and voila - all posts show up in [Feedly](http://feedly.com/).
+Combine my tedious, obsessive manual solution with Kimono's automated scraping and RSS generation, and voilà - all posts show up in [Feedly](http://feedly.com/).
 
 <iframe src="https://www.kimonolabs.com/kimonoblock/?apiid=bp6srkeo&apikey=IZ2p67Ape9GAv5gTTiWTeT4zsMODnjGV&title=NYTimes Most Emailed last 24 hours&titleColor=ffffff&titleBgColor=2DA4A8&bgColor=ffffff&textColor=6b7770&linkColor=659fc0&propertyColor=dddddd" style="width:100%;height:400px;border:1px solid #efefef"></iframe><iframe src="https://www.kimonolabs.com/kimonoblock/?apiid=crlzja6a&apikey=IZ2p67Ape9GAv5gTTiWTeT4zsMODnjGV&title=The Atlantic Most Popular&titleColor=ffffff&titleBgColor=FD6041&bgColor=ffffff&textColor=6b7770&linkColor=659fc0&propertyColor=dddddd" style="width:100%;height:400px;border:1px solid #efefef"></iframe><iframe src="https://www.kimonolabs.com/kimonoblock/?apiid=ejasz4uu&apikey=IZ2p67Ape9GAv5gTTiWTeT4zsMODnjGV&title=New Yorker Most Popular&titleColor=ffffff&titleBgColor=CF2257&bgColor=ffffff&textColor=6b7770&linkColor=659fc0&propertyColor=dddddd" style="width:100%;height:400px;border:1px solid #efefef"></iframe>
 
