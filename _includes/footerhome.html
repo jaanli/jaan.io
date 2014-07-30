@@ -1,0 +1,44 @@
+<div class="push"></div>
+  <footert>
+  <footer>
+    <aside class="wrap">
+          </aside>
+    <!--<small>&copy; {{ site.time | date: '%Y' }} <a href="mailto:jaan@jaan.io"> {{ site.owner.name }} </a></small> -->
+  </footer>
+</footert>
+
+  <!-- If they're out, get some from the cellar -->
+  <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+  <script src="{{ site.url }}/assets/js/retina.min.js"></script>
+
+  <!-- Custom JS -->
+  <script src="{{ site.url }}/assets/js/scripts.js"></script>
+  
+
+  {% if site.google_analytics %}
+  <!-- Asynchronous Google Analytics snippet -->
+  <script>
+    var _gaq = _gaq || [];
+    var pluginUrl = 
+    '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+    _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+    _gaq.push(['_setAccount', '{{ site.google_analytics }}']);
+    _gaq.push(['_trackPageview']);
+
+  setTimeout(function() {
+    window.onscroll = function() {
+      window.onscroll = null; // Only track the event once
+      _gaq.push(['_trackEvent', 'scroll', 'read']);
+    }
+  }, 5000);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  {% endif %}
+
+  </body>
+</html>
