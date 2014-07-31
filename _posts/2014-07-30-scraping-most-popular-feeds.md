@@ -9,7 +9,7 @@ image:
   thumb: scrapingthumb.jpg
 ---
 
-I haven't found better reading than [Longform.org](http://longform.org/) or the [New York Times' Most Emailed lists](www.nytimes.com/most-popular-emailed?period=30), and most recommendation engines don't work well.
+I haven't found better reading than [Longform.org](http://longform.org/) or the [New York Times' Most Emailed lists](http://www.nytimes.com/most-popular-emailed?period=30), and most recommendation engines don't work well.
 
 Even if it's a placebo, the vetting of thousands of actual people makes articles in 'most emailed' lists seem better. However, this means I need to visit each publication's homepage and manually skim the 'what's popular' lists.
 
