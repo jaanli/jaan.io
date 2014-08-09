@@ -17,7 +17,7 @@ The best way to reach me is by email at [altosaar@princeton.edu](mailto:altosaar
 
 ## <center><a href="http://www.linkedin.com/in/jaanaltosaar" target="_blank"><i class="icon-linkedin-sign"></i> LinkedIn</a></center>
 
-## <center><a href="https://www.flickr.com/photos/thejaan/" target="_blank"><i class="icon fa-flickr"></i> Flickr</a></center>
+## <center><a href="https://www.flickr.com/photos/thejaan/" target="_blank"><i class="icon-fa-flickr"></i> Flickr</a></center>
 
 ## <center><a href="https://github.com/altosaar" target="_blank"><i class="icon-github"></i> GitHub</a></center>
 
