@@ -13,7 +13,7 @@ My background is Estonian-Canadian and I graduated from McGill in Montreal, Cana
 
 The best way to reach me is by email at [altosaar@princeton.edu](mailto:altosaar@princeton.edu). Feel free to connect via:
 
-## <center><a href="https://twitter.com/thejaan" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a></center>
+## <center><a href="https://twitter.com/thejaan" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a><a href="http://www.linkedin.com/in/jaanaltosaar" target="_blank"><i class="icon-linkedin-sign"></i> LinkedIn</a><a href="https://www.flickr.com/photos/thejaan/" target="_blank"><i class="icon-flickr"></i> Flickr</a><a href="https://github.com/altosaar" target="_blank"><i class="icon-github"></i> GitHub</a></center> 
 
 ## <center><a href="http://www.linkedin.com/in/jaanaltosaar" target="_blank"><i class="icon-linkedin-sign"></i> LinkedIn</a></center>
 
