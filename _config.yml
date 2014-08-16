@@ -4,7 +4,7 @@ tagline:          Excursions into Entropy.
 description:      Physics PhD student at Princeton University. 
 logo:             jathumb.jpg
 #Comment out url when working locally to resolve base urls correctly
-url: https://jaan.io
+url: http://jaan.io
 
 
 
