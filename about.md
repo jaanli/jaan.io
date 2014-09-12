@@ -7,7 +7,7 @@ tags: [about, Jaan Altosaar, Princeton, PhD, machine learning, afropunk, collect
 image:
   feature: jaanaltosaar.jpg
 ---
-I work in [David Blei](http://www.cs.princeton.edu/~blei/)'s group on [modeling math equations in scientific papers](https://www.google-melange.com/gsoc/project/details/google/gsoc2014/jaanaltosaar/5741031244955648). My CV is at [jaan.io/cv](https://jaan.io/cv).
+I'm a Physics PhD student at Princeton working in [David Blei](http://www.cs.princeton.edu/~blei/)'s group on [modeling math equations in scientific papers](https://www.google-melange.com/gsoc/project/details/google/gsoc2014/jaanaltosaar/5741031244955648). My CV is at [jaan.io/cv](https://jaan.io/cv).
 
 I'm Estonian-Canadian. I graduated from [McGill](https://www.google.com/search?q=mcgill) in 2013. Besides research, I thoroughly enjoy volleyball, meditation, making music, interaction design, or ploughing through George Saunders. I try to limit my information consumption. In 2014, I launched [Useful Science](http://usefulscience.org) with a group of friends.
 
