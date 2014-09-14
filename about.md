@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: About
-description: I want to improve science (and your life) by combining machine learning and design.
+description: I want to improve science (and your life) through machine learning and design.
 tags: [about, Jaan Altosaar, Princeton, PhD, machine learning, afropunk, collective behavior, columbia, physics, computer science, useful science, iain couzin, david blei, dave blei]
 image:
   feature: jaanaltosaar.jpg
