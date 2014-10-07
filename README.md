@@ -15,4 +15,4 @@ Please submit a pull request if you have added any features.
 
 ## License
 
-Use this for anything you want through the [MIT](LICENSE); links to [jaan.io](https://jaan.io) are much appreciated.
+Use this for anything you want through the [MIT](LICENSE); links back to [jaan.io](https://jaan.io) are never frowned upon.
