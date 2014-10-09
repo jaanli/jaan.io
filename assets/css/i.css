@@ -365,7 +365,6 @@ input {
 /* Header */
 header.site-header {
   padding: 40px 0;
-  border-bottom: 2px solid rgba(168, 168, 168, 0.7);
   position: relative;
   width: 100%;
   z-index: 5000; }
