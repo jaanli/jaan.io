@@ -623,7 +623,7 @@ footert {
     display: inline-block;
     margin: 0 auto;
     float: none;
-    background: $white; //was $black
+    background: none; //was $black
 footer {
     width: 100%;
     @include column(8);
@@ -631,7 +631,7 @@ footer {
     display: block;
     margin: 0 auto;
     float: none;
-    background: $white; // was black
+    background: none; // was $black
     height: $footerHeight;
     font-size: $fsp;
     color: $white;
