@@ -212,7 +212,8 @@ header.site-header {
       }
 
       nav ul li a {
-            color: $grey-light; //was $black
+            color: $grey-light;
+            //was $black;
             &:active {
               color: $link;
             }
@@ -623,7 +624,7 @@ footert {
     display: inline-block;
     margin: 0 auto;
     float: none;
-    background: none; //was $black
+    background: $white; //was $black
 footer {
     width: 100%;
     @include column(8);
@@ -631,7 +632,7 @@ footer {
     display: block;
     margin: 0 auto;
     float: none;
-    background: none; // was $black
+    background: $white; // was $black
     height: $footerHeight;
     font-size: $fsp;
     color: $white;
