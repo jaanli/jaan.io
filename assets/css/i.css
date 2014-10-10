@@ -731,9 +731,9 @@ footert {
       text-transform: uppercase;
       color: rgba(168, 168, 168, 0.8); }
       footert footer small a {
-        color: rgba(168, 168, 168, 0.1); }
+        color: rgba(168, 168, 168, 0.5); }
         footert footer small a:hover {
-          color: rgba(249, 249, 249, 0.9); }
+          color: rgba(249, 249, 249, 0.2); }
     footert footer .list-title {
       margin-bottom: 16.5px;
       border-bottom: 2px solid #c66b09;

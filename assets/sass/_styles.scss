@@ -661,10 +661,10 @@ footer {
         color: transparentize($grey-light, .2);
         // was $white
         a {
-            color: transparentize($grey-light, .9);
+            color: transparentize($grey-light, .5);
             // was $white
             &:hover {
-                        color: transparentize($white, .1);
+                        color: transparentize($white, .8);
                         // was $white
                     }
         }
