@@ -198,7 +198,7 @@ header.site-header {
 #bump .darken {
 
       a {
-      color: $black;
+      color: $grey-light;
       @include transit(all, .2s, ease-in-out);
 
       &:hover {
