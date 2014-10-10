@@ -658,11 +658,14 @@ footer {
         bottom: 12px;
         font-family: $sans;
         text-transform: uppercase;
-        color: transparentize($white, .5);
+        color: transparentize($black, .5);
+        // was $white
         a {
-            color: transparentize($white, .2);
+            color: transparentize($black, .2);
+            // was $white
             &:hover {
-                        color: $white;
+                        color: $grey-light;
+                        // was $white
                     }
         }
     }

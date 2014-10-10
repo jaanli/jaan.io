@@ -729,11 +729,11 @@ footert {
       bottom: 12px;
       font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
       text-transform: uppercase;
-      color: rgba(249, 249, 249, 0.5); }
+      color: rgba(59, 59, 59, 0.5); }
       footert footer small a {
-        color: rgba(249, 249, 249, 0.8); }
+        color: rgba(59, 59, 59, 0.8); }
         footert footer small a:hover {
-          color: #f9f9f9; }
+          color: #a8a8a8; }
     footert footer .list-title {
       margin-bottom: 16.5px;
       border-bottom: 2px solid #c66b09;
