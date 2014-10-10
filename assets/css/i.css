@@ -704,7 +704,7 @@ footert {
   display: inline-block;
   margin: 0 auto;
   float: none;
-  background: #3b3b3b; }
+  background: #f9f9f9; }
   footert footer {
     width: 100%;
     display: inline;
@@ -715,7 +715,7 @@ footert {
     display: block;
     margin: 0 auto;
     float: none;
-    background: #3b3b3b;
+    background: #f9f9f9;
     height: 320px;
     font-size: 22px;
     color: #f9f9f9;
