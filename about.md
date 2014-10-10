@@ -11,15 +11,15 @@ I'm a Physics PhD student at Princeton. I [model math equations in scientific pa
 
 I'm Estonian-Canadian. I graduated from [McGill](https://www.google.com/search?q=mcgill) in 2013. Outside of academia, I love volleyball, meditation,  music production, interaction design, and George Saunders. In 2014, I launched [Useful Science](http://usefulscience.org) with a group of friends.
 
-The best way to reach me is by email at [altosaar@princeton.edu](mailto:altosaar@princeton.edu). Feel free to connect via: 
+The best way to reach me is by email at [altosaar@princeton.edu](mailto:altosaar@princeton.edu). Feel free to connect via:
 
-## <a href="https://twitter.com/thejaan" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a> 
+### <a href="https://twitter.com/thejaan" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a>
 
-## <a href="http://www.linkedin.com/in/jaanaltosaar" target="_blank"><i class="icon-linkedin-sign"></i> LinkedIn</a>
+### <a href="http://www.linkedin.com/in/jaanaltosaar" target="_blank"><i class="icon-linkedin-sign"></i> LinkedIn</a>
 
-## <a href="https://www.flickr.com/photos/thejaan/" target="_blank"><i class="icon-flickr"></i> Flickr</a>
+### <a href="https://www.flickr.com/photos/thejaan/" target="_blank"><i class="icon-flickr"></i> Flickr</a>
 
-## <a href="https://github.com/altosaar" target="_blank"><i class="icon-github"></i> GitHub</a>
+### <a href="https://github.com/altosaar" target="_blank"><i class="icon-github"></i> GitHub</a>
 
 
 
