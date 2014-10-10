@@ -635,9 +635,10 @@ footer {
     float: none;
     background: $white;
     // was $black
-    height: $footerHeight;
+    height: $footerHeight/2;
     font-size: $fsp;
-    color: $grey-light;
+    color: $black;
+    // was $white
     position: relative;
 
     // Contain that ish
