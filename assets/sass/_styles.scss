@@ -658,7 +658,7 @@ footer {
         bottom: 12px;
         font-family: $sans;
         text-transform: uppercase;
-        color: transparentize($black, .5);
+        color: transparentize($black, .2);
         // was $white
         a {
             color: transparentize($black, .2);
