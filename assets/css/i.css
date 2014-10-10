@@ -372,7 +372,7 @@ header.site-header {
     max-width: 90vw; }
 
 #bump .darken a {
-  color: #3b3b3b;
+  color: #a8a8a8;
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   -webkit-transition: all 0.2s ease-in-out;
@@ -388,7 +388,7 @@ header.site-header {
 #bump .darken .menu .icons {
   color: #3b3b3b; }
 #bump .darken nav ul li a {
-  color: #3b3b3b; }
+  color: #a8a8a8; }
   #bump .darken nav ul li a:active {
     color: #c66b09; }
   #bump .darken nav ul li a:hover {
