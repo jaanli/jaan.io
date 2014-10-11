@@ -9,7 +9,7 @@ image:
 ---
 I'm a Physics PhD student at Princeton. I [model math equations in scientific papers](https://www.google-melange.com/gsoc/project/details/google/gsoc2014/jaanaltosaar/5741031244955648) in [David Blei](http://www.cs.princeton.edu/~blei/)'s group. My CV is at [jaan.io/cv](https://jaan.io/cv).
 
-I'm Estonian-Canadian. I graduated from [McGill](https://www.google.com/search?q=mcgill) in 2013. Outside of academia, I love volleyball, meditation,  music production, interaction design, and George Saunders. In 2014, I launched [Useful Science](http://usefulscience.org) with a group of friends.
+I'm Estonian-Canadian and graduated from [McGill](https://www.google.com/search?q=mcgill) in 2013. Outside of academia, I love volleyball, meditation,  music production, interaction design, and George Saunders. In 2014, I launched [Useful Science](http://usefulscience.org) with a group of friends – I hope you'll find a study on there that improves your life.
 
 The best way to reach me is by email at [altosaar@princeton.edu](mailto:altosaar@princeton.edu). Feel free to connect via:
 
