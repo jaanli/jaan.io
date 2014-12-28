@@ -6,7 +6,6 @@ category: projects
 external_url: http://usefulscience.org
 tags: [open science, open source, science, startup, company, summary, useful science, usefulsci, jaan altosaar]
 image:
-  feature: facebook-cover.png
   thumb: usefulscience-square-logo.png
 published: true
 ---
