@@ -1,9 +1,10 @@
 ---
 layout: post-light-feature
 title: Useful Science
-description: "Creating a simple app to track sitting and send reminders to move around."
+description: "One sentence summaries of science to improve your life. Role: Founder."
 category: projects
-tags: [open source, couchometer, tracking sitting, google play, android app, app, inactivity tracking, movement alarm, inactivity alarm]
+external_url: usefulscience.org
+tags: [open science, open source, science, startup, company, summary, useful science, usefulsci, jaan altosaar]
 image:
   feature: facebook-cover.png
   thumb: usefulscience-square-logo.png
