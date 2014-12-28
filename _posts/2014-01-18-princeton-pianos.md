@@ -6,7 +6,7 @@ category: articles
 tags: [open source, location data, princeton, pianos, upright, grand piano, baby grand, carillon, princeton pianos]
 image:
   feature: pianofeature.jpg
-  thumb: pianothumb.jpg
+  thumb: pianoicon.png
 ---
 
 I've played more piano since starting grad school than throughout my four years at McGill, thanks to the abundance of pianos on campus. The pianos' conditions range from excellent to passable, with some sporting [Köln](http://en.wikipedia.org/wiki/The_K%C3%B6ln_Concert#The_K.C3.B6ln_concert)-level limitations. However, I couldn't find a resource listing their locations.
