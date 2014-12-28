@@ -1,7 +1,7 @@
 title:            Jaan
 titlehilight:     Altosaar
-tagline:          Excursions into Entropy.
-description:      Physics PhD student at Princeton University. 
+tagline:          Physics PhD student at Princeton University.
+description:      Physics PhD student at Princeton University.
 logo:             jathumb.jpg
 #Comment out url when working locally to resolve base urls correctly
 url: https://jaan.io
@@ -14,17 +14,17 @@ owner:
 #  avatar:         avatar.png
   bio:            "Estonian-Canadian"
   email:          jaan@jaan.io
-#  twitter:        ctrunsthis        
-  github:         altosaar       
-#  instagram:      ctrunsthis     
+#  twitter:        ctrunsthis
+  github:         altosaar
+#  instagram:      ctrunsthis
 #  dribbble:       coletownsend
 #  disqus:         balzac
   # Plug in your disqus shortname!
   # For Google Authorship https://plus.google.com/authorship
 google_plus: 111852587957033089389 #other
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-34129661-2   
-google_verify: LTwvMh1s7cdUyjaHqQYsBg-I4ZPy0wm_TKUoU0IT5HU#LTwvMh1s7cdUyjaHqQYsBg-I4ZPy0wm_TKUoU0IT5HU      
+google_analytics: UA-34129661-2
+google_verify: LTwvMh1s7cdUyjaHqQYsBg-I4ZPy0wm_TKUoU0IT5HU#LTwvMh1s7cdUyjaHqQYsBg-I4ZPy0wm_TKUoU0IT5HU
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify: B3B21CDB59D1FC75DFE9B0D0CC329C8C
 
@@ -34,7 +34,9 @@ links:
   - title: About
     url: /about
   - title: Articles
-    url: /articles 
+    url: /articles
+  - title: Projects
+    url: /projects
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -50,7 +52,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: 
+    coderay_line_numbers:
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
