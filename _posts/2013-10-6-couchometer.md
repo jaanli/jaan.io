@@ -6,6 +6,6 @@ category: projects
 external_url: https://github.com/altosaar/couchometer
 tags: [couchometer, fitbit, quantified self, app, android, jaan altosaar, altosaar, jaan]
 image:
-  thumb: usefulscience-square-logo.png
+  thumb: couchometer.png
 published: true
 ---
