@@ -90,9 +90,14 @@
             <!--<li>
               <a href="/" title="{{ site.title }}">Home</a>
             </li>-->
-
+            <ul>
+            {% assign url = page.url|remove:'index.html' %}
             {% for link in site.links %}
-                <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+                {% assign state = '' %}
+                {% if page.url == link.url %}
+                  {% assign state = 'active' %}
+                {% endif %}
+                <li><a class="{{state}}" href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
             {% endfor %}
 
           </ul>
