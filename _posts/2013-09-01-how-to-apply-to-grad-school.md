@@ -6,8 +6,7 @@ category: articles
 modified: 2013-09-01
 tags: [grad school, how to apply to grad school, graduate school, applications, science, physics phd, physics gre]
 image:
-  feature: pencils.jpg
-  thumb: pencilsthumb.png
+  thumb: gradschoolthumb.png
 ---
 
 I gave an info session at McGill in March 2013 on applying to graduate schools in Canada, the U.S., and Britain. Here are some things I found most useful and what I wish I had known:
