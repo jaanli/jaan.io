@@ -5,7 +5,6 @@ description: "How I stopped frantically checking the NYTimes, the Atlantic, and 
 category: articles
 tags: [kimono, scraping, most emailed, top articles, rss]
 image:
-  feature: scraping.jpg
   thumb: scrapingthumb.jpg
 ---
 
