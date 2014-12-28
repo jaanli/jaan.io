@@ -5,7 +5,7 @@ description: "How I stopped frantically checking the NYTimes, the Atlantic, and 
 category: articles
 tags: [kimono, scraping, most emailed, top articles, rss]
 image:
-  thumb: scrapingthumb.jpg
+  thumb: scrapingthumb.png
 ---
 
 I haven't found better reading than [Longform.org](http://longform.org/) or the [New York Times' Most Emailed lists](http://www.nytimes.com/most-popular-emailed?period=30), and most recommendation engines don't work well.
