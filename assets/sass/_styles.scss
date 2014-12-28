@@ -222,6 +222,9 @@ header.site-header {
                 color: $link;
             }
         }
+      nav ul li.active a {
+            color: $link;
+        }
 
 }
 

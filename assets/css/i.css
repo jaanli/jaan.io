@@ -394,6 +394,8 @@ header.site-header {
   #bump .darken nav ul li a:hover {
     text-shadow: none;
     color: #c66b09; }
+#bump .darken nav ul li.active a {
+  color: #c66b09; }
 
 header.site-header a.menu {
   display: none; }
@@ -938,5 +940,3 @@ footert {
 
   small {
     font-size: 12px; } }
-
-/*# sourceMappingURL=i.css.map */
