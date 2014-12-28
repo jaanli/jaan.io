@@ -1,5 +1,5 @@
 ---
-layout: post-light-feature
+layout: external
 title: Useful Science
 description: "One sentence summaries of science to improve your life. Role: Founder."
 category: projects
@@ -9,5 +9,3 @@ image:
   thumb: usefulscience-square-logo.png
 published: true
 ---
-
-Test
