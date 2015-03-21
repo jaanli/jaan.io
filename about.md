@@ -2,12 +2,12 @@
 layout: page
 permalink: /about/index.html
 title: About
-description: I want to improve science (and your life) using machine learning and design.
+description: I'm excited about improving science (and your life) using machine learning and design.
 tags: [about, Jaan Altosaar, Princeton, PhD, machine learning, afropunk, collective behavior, columbia, physics, computer science, useful science, iain couzin, david blei, dave blei]
 image:
   feature: jaanaltosaar.jpg
 ---
-I'm a Physics PhD student at Princeton excited about machine learning. I am fortunate to be advised by [David Blei](http://www.cs.columbia.edu/~blei/) and [Shivaji Sondhi](http://www.princeton.edu/~sondhi/), supported by an NSERC Postgraduate Scholarship. My CV is at [jaan.io/cv](https://jaan.io/cv).
+I'm a Physics PhD student at Princeton, fortunate to be advised by [David Blei](http://www.cs.columbia.edu/~blei/) and [Shivaji Sondhi](http://www.princeton.edu/~sondhi/). I am also lucky to be supported by an NSERC Postgraduate Scholarship. My CV is at [jaan.io/cv](https://jaan.io/cv).
 
 I'm Estonian-Canadian and graduated from [McGill](https://www.google.com/search?q=mcgill) in 2013. Outside of academia, I love volleyball, meditation,  music production, interaction design, and George Saunders. In 2014, I launched [Useful Science](http://usefulscience.org) with a group of friends – I hope you'll find a study on there that improves your life.
 
