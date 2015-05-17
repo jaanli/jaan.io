@@ -7,7 +7,7 @@ tags: [about, Jaan Altosaar, Princeton, PhD, machine learning, afropunk, collect
 image:
   feature: jaanaltosaar.jpg
 ---
-I'm a Physics PhD student at Princeton, fortunate to be advised by [David Blei](http://www.cs.columbia.edu/~blei/) and [Shivaji Sondhi](http://www.princeton.edu/~sondhi/). My research is supported by an NSERC Postgraduate Scholarship. Find my CV at [jaan.io/cv](https://jaan.io/cv).
+I'm a Physics PhD student at Princeton interning at [Google DeepMind](http://deepmind.com/) in London UK for summer 2015. In research, I am fortunate to be advised by [David Blei](http://www.cs.columbia.edu/~blei/) and [Shivaji Sondhi](http://www.princeton.edu/~sondhi/). My research is supported by an NSERC Postgraduate Scholarship. Find my CV at [jaan.io/cv](https://jaan.io/cv).
 
 I'm Estonian-Canadian and graduated from McGill in 2013. Outside of academia, I love volleyball, meditation,  music production, interaction design, and George Saunders. In 2014, I launched [Useful Science](http://usefulscience.org) with a group of friends – I hope you'll find a study on there that improves your life.
 
