@@ -12,7 +12,6 @@ I'm a Physics PhD student at Princeton. In research, I am fortunate to be advise
 I'm Estonian-Canadian and graduated from McGill in 2013. Outside of academia, I love volleyball, meditation, music production, and George Saunders. How can we use technology such as machine learning to effect the most societal good? This is what motivates me. In 2014, I launched [Useful Science](http://usefulscience.org) with a group of friends – I hope you'll find a study on there that improves your life.
 
 ---
-
 ### Reach!
 
 The best way to reach me is [altosaar@princeton.edu](mailto:altosaar@princeton.edu). I also appreciate all sincere positive or negative feedback through [this anonymous form](http://www.admonymous.com/jaan). Feel free to connect via:
@@ -26,7 +25,6 @@ The best way to reach me is [altosaar@princeton.edu](mailto:altosaar@princeton.e
 ### <a href="https://github.com/altosaar" target="_blank"><i class="icon-github"></i> GitHub</a>
 
 ---
-
 ### Colophon
 
 This site runs on a modified version of [Cole Townsend](http://coletownsend.com/)'s Jekyll theme – the code is available [here](https://github.com/altosaar/jaan.io) :)
