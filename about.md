@@ -13,7 +13,7 @@ I'm Estonian-Canadian and graduated from McGill in 2013. Outside of academia, I 
 
 ### Reach!
 
-The best way to reach me is by email at [altosaar@princeton.edu](mailto:altosaar@princeton.edu). I also appreciate all sincere positive or negative feedback through [this anonymous form](http://www.admonymous.com/jaan). Feel free to connect via:
+The best way to reach me is [altosaar@princeton.edu](mailto:altosaar@princeton.edu). I also appreciate all sincere positive or negative feedback through [this anonymous form](http://www.admonymous.com/jaan). Feel free to connect via:
 
 ### <a href="https://twitter.com/thejaan" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a>
 
@@ -25,7 +25,7 @@ The best way to reach me is by email at [altosaar@princeton.edu](mailto:altosaar
 
 ### Colophon
 
-This site is a modified version of Cole Townsend's work – the code is available [here](https://github.com/altosaar/jaan.io) :)
+This site runs on a modified version of [Cole Townsend](http://coletownsend.com/)'s Jekyll theme – the code is available [here](https://github.com/altosaar/jaan.io) :)
 
 
 
