@@ -5,7 +5,7 @@ title: About
 description: I'm excited about improving science (and your life) using machine learning and design.
 tags: [about, Jaan Altosaar, Princeton, PhD, machine learning, afropunk, collective behavior, columbia, physics, computer science, useful science, design, artificial intelligence, intelligent design]
 image:
-  feature: jaanaltosaar.jpg
+  feature: yoga.jpg
 ---
 I'm a Physics PhD student at Princeton. In research, I am fortunate to be advised by [David Blei](http://www.cs.columbia.edu/~blei/) and [Shivaji Sondhi](http://www.princeton.edu/~sondhi/). My research is supported by an NSERC Postgraduate Scholarship. Find my CV at [jaan.io/cv](https://jaan.io/cv) (possibly out of date - please [email](mailto:altosaar@princeton.edu) for the latest version).
 
