@@ -11,7 +11,7 @@ image:
 
 This sandwich is an all-time classic hall-of-famer mainstay in my family. It's a classy breakfast, lunch, or dinner, and is great for hosting (guests can make their own sandwiches). Just brush your teeth after consumption.
 
-#Ingredients
+###Ingredients
 
 * Bread sprinkled with sesame seeds
 * Unsalted butter
@@ -23,14 +23,14 @@ This sandwich is an all-time classic hall-of-famer mainstay in my family. It's a
 * Sea salt flakes
 * Freshly ground pepper
 
-#Instructions
-Toast the bread. Finely dice the shallots and thinly slice the smoked salmon (if not pre-sliced). 
+###Instructions
+Toast the bread. Finely dice the shallots and thinly slice the smoked salmon (if not pre-sliced).
 
-Liberally butter the toasted bread, cover with slices of smoked salmon, and sprinkle with lemon juice. Loosely cover with the diced shallots, and sprinkle with capers. Pour about 1 tbsp of olive oil onto the center of the sandwich, then scatter with some sea salt flakes and top with some ground pepper. 
+Liberally butter the toasted bread, cover with slices of smoked salmon, and sprinkle with lemon juice. Loosely cover with the diced shallots, and sprinkle with capers. Pour about 1 tbsp of olive oil onto the center of the sandwich, then scatter with some sea salt flakes and top with some ground pepper.
 
-This is easiest to eat with knife and fork; serve with a glass of wine or milk depending on the time of day. 
+This is easiest to eat with knife and fork; serve with a glass of wine or whole milk depending on the time of day.
 
-[^1]: Aim to buy fresh 'chunk' smoked salmon (ideally, never frozen). Slice it with a sharp knife to your preferred thickness. This allows you to achiveve thinner slices than the pre-sliced variety in grocery stores. 
+[^1]: Aim to buy fresh 'chunk' smoked salmon (ideally, never frozen). Slice it with a sharp knife to your preferred thickness. This allows you to achiveve thinner slices than the pre-sliced smoked salmon from normal grocery stores.
 
 <figure>
 	<img src="/images/smoked-salmon-9.jpg"></a>
@@ -55,4 +55,8 @@ This is easiest to eat with knife and fork; serve with a glass of wine or milk d
 <figure>
 	<img src="/images/smoked-salmon-16.jpg"></a>
 </figure>
+
+*Thank you [Mike King](http://michaelelliotking.com/) for the food photography!*
+
+
 
