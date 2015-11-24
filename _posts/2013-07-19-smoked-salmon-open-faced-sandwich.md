@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-light-feature
 title: Smoked salmon openfacer
 description: "It's time to stop being close-minded about sandwiches. This is the best."
 category: articles
