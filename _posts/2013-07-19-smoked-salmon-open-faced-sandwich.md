@@ -7,7 +7,7 @@ modified: 2015-11-24
 tags: [smoked, salmon, open, face, sandwich, best, ultimate, amazing, incredible, awe, inspiring, feed, feeding, food]
 image:
   feature: smoked-salmon-16-2500x700.jpg
-  thumb: smoked-thumb.svg
+  thumb: smoked-thumb.png
 ---
 
 This sandwich is an all-time classic hall-of-famer mainstay in my family. It's a classy breakfast, lunch, or dinner, and is great for hosting (guests can make their own sandwiches). Just brush your teeth after consumption.
