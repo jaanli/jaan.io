@@ -61,7 +61,7 @@ This is easiest to eat with knife and fork due to the olive oil. Serve with a gl
 	<img src="/images/smoked-salmon-16.jpg"></a>
 </figure>
 
-*Thank you [Mike King](http://michaelelliotking.com/) for the food photography, Joel Ryan for coining `openfacers', and [Frank Megna](http://cargocollective.com/frankmegna) for the slogan!* This post originally appeared at openfacers.com, the now-defunct food blog focused solely on open-faced sandwiches.
+*Thank you [Mike King](http://michaelelliotking.com/) for the food photography, Joel Ryan for coining 'openfacers', and [Frank Megna](http://cargocollective.com/frankmegna) for the slogan!* This post originally appeared at openfacers.com, the now-defunct food blog focused solely on open-faced sandwiches.
 
 
 
