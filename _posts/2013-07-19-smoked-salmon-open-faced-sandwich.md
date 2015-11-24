@@ -13,9 +13,9 @@ This sandwich is an all-time classic hall-of-famer mainstay in my family. It's a
 
 ###Ingredients
 
-* Bread sprinkled with sesame seeds
+* White bread with sesame seeds, well-toasted
 * Unsalted butter
-* Fresh smoked salmon, sliced[^1]
+* Fresh smoked salmon, sliced [^1]
 * Lemon
 * Capers or thinly sliced caperberries
 * Green onions (shallots or white onions are good substitutes)
@@ -24,11 +24,15 @@ This sandwich is an all-time classic hall-of-famer mainstay in my family. It's a
 * Freshly ground pepper
 
 ###Instructions
-Toast the bread. Finely dice the shallots and thinly slice the smoked salmon (if not pre-sliced).
+Toast the bread. Finely dice the shallots, onions, or green onions.
 
-Liberally butter the toasted bread, cover with slices of smoked salmon, and sprinkle with lemon juice. Loosely cover with the diced shallots, and sprinkle with capers. Pour about 1 tbsp of olive oil onto the center of the sandwich, then scatter with some sea salt flakes and top with some ground pepper.
+Liberally butter the toasted bread, and cover the entirety of the toast's surface with a single layer of smoked salmon. Sprinkle the sheet of salmon with lemon juice.
 
-This is easiest to eat with knife and fork; serve with a glass of wine or whole milk depending on the time of day.
+Evenly cover with the diced shallots and capers in roughly a 3:1 ratio of onions to capers.
+
+Pour a decent amount (about 1 tablespoon) of olive oil onto the sandwich. Scatter sea salt flakes and finish it with some ground pepper.
+
+This is easiest to eat with knife and fork due to the olive oil. Serve with a glass of wine or whole milk depending on the time of day.
 
 [^1]: Aim to buy fresh 'chunk' smoked salmon (ideally, never frozen). Slice it with a sharp knife to your preferred thickness. This allows you to achiveve thinner slices than the pre-sliced smoked salmon from normal grocery stores.
 
