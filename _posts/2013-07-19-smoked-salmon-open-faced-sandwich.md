@@ -34,7 +34,7 @@ Pour a decent amount (about 1 tablespoon) of olive oil onto the sandwich. Scatte
 
 This is easiest to eat with knife and fork due to the olive oil. Serve with a glass of wine or whole milk depending on the time of day.
 
-[^1]: Aim to buy fresh 'chunk' smoked salmon (ideally, never frozen). Slice it with a sharp knife to your preferred thickness. This allows you to achiveve thinner slices than the pre-sliced smoked salmon from normal grocery stores.
+[^1]: Aim to buy fresh 'chunk' sushi-grade smoked salmon (ideally, never frozen) from your local fishmonger. Slice it with a sharp knife to your preferred thickness. This allows you to achiveve thinner slices than the pre-sliced smoked salmon from normal grocery stores.
 
 <figure>
 	<img src="/images/smoked-salmon-9.jpg"></a>
