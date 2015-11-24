@@ -56,7 +56,7 @@ This is easiest to eat with knife and fork; serve with a glass of wine or whole 
 	<img src="/images/smoked-salmon-16.jpg"></a>
 </figure>
 
-*Thank you [Mike King](http://michaelelliotking.com/) for the food photography!*
+*Thank you [Mike King](http://michaelelliotking.com/) for the food photography, and [Frank Megna](http://cargocollective.com/frankmegna) for the slogan!* This post originally appeared at openfacers.com, the now-defunct food blog focused solely on open-faced sandwiches.
 
 
 
