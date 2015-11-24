@@ -15,7 +15,7 @@ This sandwich is an all-time classic hall-of-famer mainstay in my family. It's a
 
 * White bread with sesame seeds, well-toasted
 * Unsalted butter
-* Fresh smoked salmon, sliced [^1]
+* Fresh smoked salmon, sliced [[^1]]
 * Lemon
 * Capers or thinly sliced caperberries
 * Green onions (shallots or white onions are good substitutes)
