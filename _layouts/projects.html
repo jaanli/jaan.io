@@ -14,7 +14,7 @@
                      <div class="deets left-slide" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                      <h1>{% if post.external_url %} <a href="{{ post.external_url }}" onclick="_gaq.push(['_trackpageview', '{{ post.url }}']);" >{{ post.title }}</a> {% else %}<a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% endif %}</h1>
                      {% if post.modified %}<p class="date"><span class="date"><time datetime="{{ page.modified }}" itemprop="dateModified">Updated on {{ post.modified | date: "%B %d, %Y" }}</time></span>{% else %}<p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time>{% endif %}</p>
-                     <span class="date">{% if post.role %}{{ post.role  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</span>
+                     <p class="date"><span class="date">{% if post.role %}{{ post.role  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</span></p>
                      <p class="summary">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
                      </div>
                   </li>
