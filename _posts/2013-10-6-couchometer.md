@@ -1,7 +1,7 @@
 ---
 layout: external
 title: Couchometer
-description: "This app does one thing: times how long you sit, and buzzes to make you get active. Role: developer."
+description: "This app does one thing: times how long you sit, and buzzes to make you get active."
 category: projects
 role: "Design & Research"
 external_url: https://github.com/altosaar/couchometer
