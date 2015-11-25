@@ -1,7 +1,7 @@
 ---
 layout: external
 title: Useful Science
-description: "One sentence summaries of science to improve your life. Role: founder."
+description: "One sentence summaries of science to improve your life."
 role: Founder
 category: projects
 external_url: http://usefulscience.org
