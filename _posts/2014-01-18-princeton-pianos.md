@@ -18,17 +18,17 @@ If I missed a piano, [shoot me an email](mailto:altosaar@princeton.edu) and I wi
 <iframe src="https://mapsengine.google.com/map/embed?mid=zZ0UKQQpeAC0.kCaCPXTnIEOo" width="900" height="600"></iframe>
 
 <figure>
-	<img src="images/pianochapel.jpg">
+	<img src="/images/pianochapel.jpg">
 	<figcaption>Piano D: The Steinway in the lecture room in the basement of the chapel.</figcaption>
 </figure>
 
 <figure>
-	<img src="images/carillon.jpg">
+	<img src="/images/carillon.jpg">
 	<figcaption>'Piano' a: Technically not a piano, the carillon is a unique instrument that's close enough!</figcaption>
 </figure>
 
 <figure>
-	<img src="images/pianomaddy.jpg">
+	<img src="/images/pianomaddy.jpg">
 	<figcaption>Piano N: The Yamaha in the Mathey college common room.</figcaption>
 </figure>
 
