@@ -3,6 +3,7 @@ layout: post-light-feature
 title: Quick fix&#58; scraping the NY Times most emailed list
 description: "How I stopped frantically checking the NYTimes, the Atlantic, and the New Yorker."
 category: articles
+published: false
 tags: [kimono, scraping, most emailed, top articles, rss]
 image:
   thumb: scrapingthumb.png
