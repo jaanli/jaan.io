@@ -9,6 +9,6 @@ image:
   thumb: usefulscience-square-logo.png
 published: true
 ---
-One sentence summaries of science to improve your life (incl. [Podcast](http://www.usefulscience.org/podcast)).
+One sentence summaries of science to improve your life (incl. [podcast](http://www.usefulscience.org/podcast)). Live at [usefulscience.org](http://www.usefulscience.org).
 
 Featured on various news websites; 'received funding' on CBC Television's Dragons' Den ([link to episode](https://drive.google.com/file/d/0B1auAcbZIBoTVFRQdFBNQXRDY2s/view?usp=sharing)).
