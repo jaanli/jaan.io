@@ -7,10 +7,13 @@
                   <!--<lh style="text-align: center"><h2><span class="bb"><a href="{{ page.url }}">{{ page.title }}</a></span></h2></lh>-->
                   {% for post in site.categories.projects %}
                   <li>
+                    <table>
+                    <tr><td>
                      <a href="{{ site.url }}{{ post.url }}">
                      <div class="featured-image-small" style="background-image: url({{ site.url }}/images/{{ post.image.thumb }})">
                      </div>
                      </a>
+                     </td><td>
                      <div class="deets left-slide" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                      <h1>{% if post.external_url %} <a href="{{ post.external_url }}" onclick="_gaq.push(['_trackpageview', '{{ post.url }}']);" >{{ post.title }}</a> {% else %}<a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>{% endif %}</h1>
                      <!-- {% if post.modified %}<p class="date"><span class="date"><time datetime="{{ page.modified }}" itemprop="dateModified">Updated on {{ post.modified | date: "%B %d, %Y" }}</time></span>{% else %}<p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time>{% endif %}</p> -->
@@ -18,6 +21,7 @@
                      <!-- <p class="summary">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p> -->
                      <p class="summary">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content }}{% endif %}</p>
                      </div>
+                     </td></tr>
                   </li>
                   {% endfor %}
               </ol>
