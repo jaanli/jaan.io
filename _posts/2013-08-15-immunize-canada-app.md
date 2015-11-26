@@ -11,4 +11,4 @@ published: true
 ---
 Canada's national vaccinations app.
 
-Featured on the [CBC](http://www.cbc.ca/news/canada/ottawa/immunizeca-app-helps-people-keep-track-of-vaccinations-1.2581274).
+Featured on the [CBC](http://www.cbc.ca/news/canada/ottawa/immunizeca-app-helps-people-keep-track-of-vaccinations-1.2581274), won [award](http://www.cpha.ca/en/about/media/app-award.aspx) for "using wireless technology to improve the lives of Canadians".
