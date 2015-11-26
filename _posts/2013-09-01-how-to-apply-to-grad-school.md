@@ -19,7 +19,7 @@ I gave an info session at McGill in March 2013 on applying to graduate schools i
 * Do not worry about the cost of tests and applications - most programs will pay you a decent salary and you will readily make back what you spent (if you gain admission to just one program).
 * Apply to every scholarship and fellowship you are eligible for which will support your graduate studies. It is good practice writing the research statements and essays and you may even be successful.
 
-## The Application
+### The Application
 
 Your application will be reviewed by a committee of faculty members (and sometimes senior graduate students). The majority of your graduate schooling consists of doing research – the most important thing you can do in your application is to demonstrate research ability. The best way to do this is to do summer research and work hard in the hopes of getting published and getting good recommendation letters attesting to your research potential. The next best way is to take research-based courses at your school.
 
@@ -36,23 +36,23 @@ You may have to contact many professors before you find one willing to take you 
 * Persistence pays off with professors - if they don't reply initially, show up at their office or send a follow up email. You can also attend local colloquia or talks in fields that interest you; approach professors after their talk to ask about opportunities at their school, get their card or contact info, and follow up via email.
 * Once you're working in research, do your best to see your project through from start to finish (this may mean putting in extra, unpaid time).
 
-## Making your CV look good
+### Making your CV look good
 
 When contacting professors with your CV, make sure it looks good - presentation makes a difference. Don't use Microsoft Word. Don't believe me that you should use LaTeX for your CV? Read [this](http://nitens.org/taraborelli/latex) for an overview of the benefits.
 
 To get your CV into LaTeX format, you can look online for CV templates - a good website is [LaTeX Templates](http://www.latextemplates.com/cat/curricula-vitae). Mike King also has a [good intro](http://michaelelliotking.com/articles/learn_latex/) to LaTeX.
 
-## Hosting your CV, setting up a website
+### Hosting your CV, setting up a website
 
 Consider setting up a basic website with your CV and projects. You can do this with Google Sites or Wordpress (or Jekyll if you are comfortable with the command line). 
 
 At the very least, include a [Dropbox link](https://www.dropbox.com/help/167/en) to your CV whenever you send it in an email. This way you can update your CV at any time and rest assured that the recipients will see the latest version.
 
-## Studying for the GRE and subject GRE
+### Studying for the GRE and subject GRE
 
 See [here](https://jaan.io/how-to-ace-the-gre-and-physics-gre).
 
-## The Personal Statement
+### The Personal Statement
 
 Read the guidelines for each school you are applying to - while typically they will ask you to elaborate on your research projects, courses, and future plans, some may ask about teaching or other specific things. If you are applying to many schools, you can use the same essay but change your 'future plans' section appropriately. Some tips:
 
@@ -66,15 +66,15 @@ Read the guidelines for each school you are applying to - while typically they w
 	* My [two page](https://jaan.io/JaanAltosaar_Princeton_PersonalStatement.pdf) statement of purpose.
 
 
-## Letters of Recommendation
+### Letters of Recommendation
 
 Matt Might has [good advice](http://matt.might.net/articles/how-to-recommendation-letter/) on this, as does [Chris Blattman](http://chrisblattman.com/advising/letters/). Alex Maloney's [instructions](http://www.physics.mcgill.ca/~maloney/letter_instructions.pdf) are good and would apply to any professor you request letters of recommendations from.
 
-## Scholarships and Fellowships
+### Scholarships and Fellowships
 
 Apply to every scholarship and fellowship for which you are eligible. For me, this included the [Rhodes Scholarship](http://www.rhodeshouse.ox.ac.uk/rhodesscholarship) (I strongly encourage you to apply: the interviews are nerve-wracking and great practice), [Commonwealth Scholarship](http://cscuk.dfid.gov.uk/apply/scholarships-developed-cw/), [NSERC PGSM](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/index_eng.asp), [Vanier Canada Scholarship](http://www.vanier.gc.ca/eng/home-accueil.aspx), [Fulbright Scholarship](http://www.fulbright.ca/programs/canadian-students/traditional-awards.html), [Mackenzie Scholarship](http://www.mkingscholarships.ca/index-e.html) ([McGill link](http://www.mcgill.ca/gps/funding/students-postdocs/students/mackenzie)), [Delta Upsilon Scholarship](http://www.mcgill.ca/gps/funding/students-postdocs/students/mackenzie) (McGill only), and [Moyse Travelling Scholarship](http://www.mcgill.ca/science/student/moyse/) (McGill only). Lesser known sources of scholarships that may have many fewer applicants are offered through professional organizations such as the SPIE, IEE, etc. (see below).
 
-## Attend conferences, try a semester abroad, join professional associations
+### Attend conferences, try a semester abroad, join professional associations
 
 If you have done research, make a poster and present it at a conference or meeting, regardless of whether you confirmed your hypothesis. Conferences typically have funding you can apply for, and your school may have funds like [McGill's Ambassador Fund](http://sus.mcgill.ca/Menu-Documents/Ambassador-Fund-Application.pdf) to enable students to attend conferences. Additional sources of funding include professional associations, which typically provide free membership for undergraduates. Examples are the [Canadian Association of Physicists](http://www.cap.ca/), [Institute of Physics (IOP)](http://www.iop.org/), [SPIE](http://spie.org/), [IEEE](http://www.ieee.org/), and [Society of Women Engineers](http://societyofwomenengineers.swe.org/).
 
@@ -84,17 +84,17 @@ If you have done research, make a poster and present it at a conference or meeti
 * The King Abdullah University of Science and Technology holds an [undergraduate research poster competition](http://www.kaust.edu.sa/academics/wep/) to which you can apply for full funding to attend
 * The [Killam Fellowship](http://www.killamfellowships.com/programs.html) provides funding for a semester abroad in the US
 
-## Contact professors before (and after) applying
+### Contact professors before (and after) applying
 
 Send emails to the professors you are interested in working with at the schools you are applying to, ideally well before actually applying. This serves several purposes: you can find out if they will be taking new students or not (this is important - if you only list faculty who are not taking students on your personal statement you are likely to be rejected). Furthermore, you will be able to include your CV if it is not asked for on the official application. To do this, read or skim their latest papers from their website, PubMed, the arXiv, or the ISI Web of Knowledge, and mention which areas of their research interest you. Read Matt Might's [how to email](http://matt.might.net/articles/how-to-email/), use your official school email address, add a direct link to your hosted CV (see above), and Boomerang your emails to arrive at 9 AM on a Wednesday. Getting personal replies from profs makes a huge difference and can make the process feel much more personal (as well as being good motivation to grind through the months).
 
-## Your final-year grades don't matter that much (and some good courses to take)
+### Your final-year grades don't matter that much (and some good courses to take)
 
 Caveat: they do matter if you plan on doing a Masters and then applying to PhD programs or possibly working in industry, and it's never bad to have a high GPA.
 
 However, between courses, GREs, and applications it is easy to get burnt out, so don't sweat your grades if you get overwhelmed.  Try to plan your courses to maximize your grades (GPA) for the first three years of your undergrad, as grad schools will not see the fall semester grades of your senior year (you apply in December and grades come out in January by which time you will already be hearing back). Alongside research courses, try doing your undergrad thesis in your third year even if it's normally taken in your senior year (if you work hard you'll have a publication to list on your application, a good letter of recommendation, and some A's). Also consider taking scientific writing courses such as McGill's [CEAP 250 course](http://www.mcgill.ca/study/2012-2013/courses/ceap-250) - these will improve your writing and typically culminate in a final report which you could also submit for publication.
 
-## Further reading
+### Further reading
 
 Other webpages and resources I found useful:
 
@@ -106,7 +106,7 @@ Other webpages and resources I found useful:
 * DJ Strouse's excellent [all-encompassing guide](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/) to applying to grad schools
 * Philip Guo's [PhD Grind](http://www.pgbovine.net/PhD-memoir.htm) gives a realistic look at grad school
 
-## What did I miss?
+### What did I miss?
 
 Shoot me an [email](mailto:altosaar@princeton.edu) with any recommendations or tips.
 
