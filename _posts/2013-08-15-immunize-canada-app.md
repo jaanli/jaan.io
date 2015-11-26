@@ -1,7 +1,6 @@
 ---
 layout: external
 title: Immunize Canada
-description: "Canada's national vaccinations app."
 role: Designer
 category: projects
 external_url: http://www.immunize.ca/en/app.aspx
@@ -10,3 +9,6 @@ image:
   thumb: immunizecathumb.png
 published: true
 ---
+Canada's national vaccinations app.
+
+Featured on the [CBC](http://www.cbc.ca/news/canada/ottawa/immunizeca-app-helps-people-keep-track-of-vaccinations-1.2581274).
