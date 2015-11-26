@@ -412,14 +412,14 @@ header.site-header nav {
         -webkit-animation-fill-mode: both;
     }
     .featured-image-project {
-        float: left;
+        float: center;
         display: block;
-        position: relative;
+        position: center;
         z-index: 10;
         margin-right: 1em;
         width: 160px;
         height: 160px;
-        border-radius: 80px;
+        border-radius: 0px;
         background-position: center center;
         background-size: cover;
         -webkit-background-size: cover;
