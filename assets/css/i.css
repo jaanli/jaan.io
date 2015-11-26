@@ -571,13 +571,13 @@ header.site-header nav {
       -webkit-animation-fill-mode: both; }
     .archive-wrap .post-list .featured-image-project {
       float: center;
-      display: block;
+      display: center;
       position: center;
-      z-index: 10;
+      z-index: 0;
       margin-right: 1em;
       width: 160px;
       height: 160px;
-      border-radius: 0px;
+      border-radius: 80px;
       background-position: center center;
       background-size: cover;
       -webkit-background-size: cover;
