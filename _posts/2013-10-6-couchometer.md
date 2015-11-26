@@ -1,7 +1,6 @@
 ---
 layout: external
 title: Couchometer
-description: "This app does one thing: times how long you sit, and buzzes to make you get active."
 category: projects
 role: "Developer"
 external_url: https://github.com/altosaar/couchometer
@@ -10,3 +9,7 @@ image:
   thumb: couchometer.png
 published: true
 ---
+
+This app does one thing: times how long you sit, and buzzes to make you get active.
+
+Open-sourced on [Github](https://github.com/altosaar/couchometer).
