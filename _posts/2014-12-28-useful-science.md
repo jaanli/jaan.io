@@ -1,7 +1,6 @@
 ---
 layout: external
 title: Useful Science
-description: "One sentence summaries of science to improve your life."
 role: Founder
 category: projects
 external_url: http://usefulscience.org
@@ -10,3 +9,6 @@ image:
   thumb: usefulscience-square-logo.png
 published: true
 ---
+One sentence summaries of science to improve your life (incl. [Podcast](http://www.usefulscience.org/podcast)).
+
+Featured on various news websites; 'received funding' on CBC Television's Dragons' Den ([link to episode](https://drive.google.com/file/d/0B1auAcbZIBoTVFRQdFBNQXRDY2s/view?usp=sharing)).
