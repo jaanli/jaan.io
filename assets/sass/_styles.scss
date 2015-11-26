@@ -411,6 +411,27 @@ header.site-header nav {
         -webkit-animation-delay: .4s;
         -webkit-animation-fill-mode: both;
     }
+    .featured-image-project {
+        float: left;
+        display: block;
+        position: relative;
+        z-index: 10;
+        margin-right: 1em;
+        width: 160px;
+        height: 160px;
+        border-radius: 80px;
+        background-position: center center;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        //animation added this:
+        -webkit-animation-name: scale-in;
+        -webkit-animation-duration: .7s;
+        -webkit-animation-timing-function: cubic-bezier(0.56,   -0.01, 0, 1);
+        -webkit-animation-delay: .4s;
+        -webkit-animation-fill-mode: both;
+    }
 
 
         li {
