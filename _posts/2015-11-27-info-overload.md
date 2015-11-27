@@ -17,7 +17,7 @@ I'm trying to reduce information overload. Here are some methods I've been using
 
 I would love to hear your thoughts on benefits, pitfalls, and other ideas: email me at [j@jaan.io](mailto:j@jaan.io) and I’ll keep this updated.
 
-Here’s the current list:
+The current list:
 
 * Not reading any news except for the Harper’s [Weekly Review](http://harpers.org/blog/category/weekly-review/) email every Tuesday.
 * Having two laptops: a ‘work’ laptop with email and distracting sites blocked, and an ‘email/distraction’ device (right now these are a Macbook Air and cheap netbook).
