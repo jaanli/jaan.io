@@ -20,7 +20,7 @@ I would love to hear your thoughts on benefits, pitfalls, and other ideas: email
 The current list:
 
 * Not reading any news except for the Harper’s [Weekly Review](http://harpers.org/blog/category/weekly-review/) email every Tuesday.
-* Having two laptops: a ‘work’ laptop with email and distracting sites blocked, and an ‘email/distraction’ device (right now these are a Macbook Air and cheap netbook).
+* Having two laptops: a ‘work’ laptop with email and distracting sites blocked, and an ‘email/distraction’ device (right now these are a Macbook Air and cheap netbook). This has been the source of the biggest shift toward productivity in my Rescuetime reports.
 * On the coding and work laptop, using the [SelfControl app](https://selfcontrolapp.com/) to keep Gmail and any distracting sites blocked for 30 days at a time (you need to run an extra command to [extend the maximum block length](https://github.com/SelfControlApp/selfcontrol/wiki/Tweaking-Max-Block-Length-and-Block-Length-Interval)).
 * A habit of looking at my [Rescuetime](http://rescuetime.com/) logs every week and updating my SelfControl blacklist with distracting websites.
 * For work-related communication Hipchat, Slack, and Google Hangouts chat are a good replacement given that I can't access email on my main laptop.
