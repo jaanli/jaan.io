@@ -49,4 +49,6 @@ How could information filtering be applied to the physical world, and is this ne
 
 If everyone followed these workflows, no one would make money online and there would be no one to upvote things on Hacker News or Reddit, and no one to ‘like’ things on Facebook. These techniques might leave me more (or less) susceptible to [filter bubbles](http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles) but it’s a fun experiment.
 
+Could recommendation systems be the solution to these issues? Would this just accentuate the problem? Is there a problem?
+
 And do let me know about alternative ideas or modifications at [j@jaan.io](mailto:j@jaan.io)!
