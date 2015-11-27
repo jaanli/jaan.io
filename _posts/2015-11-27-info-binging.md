@@ -11,7 +11,7 @@ image:
 
 Why should we read the latest Buzzfeed clickbait rather than in-depth longform journalism? Why do we use Facebook so much?
 
-Ask the heaviest smartphone user you know, and they'll admit to using too much technology. We know screentime is bad, but the [attention economy](http://www.tristanharris.com/essays/) incentivizes our novelty-induced dopamine rushes.
+Ask the heaviest smartphone user you know; we all admit to using too much technology. We know screentime is bad, but the [attention economy](http://www.tristanharris.com/essays/) incentivizes our addiction.
 
 I'm trying to reduce information overload. Here are some methods I've been using for the past while.
 
@@ -37,7 +37,7 @@ Here’s the current list:
 * For complete blocking of ambient noise, 3M Peltor [industrial earmuffs](http://www.amazon.com/gp/product/B00009LI4K/) over in-ear [headphones](http://www.amazon.com/RBH-EP-2-Earphones/dp/B00H7LAJQA) give the most reduction I’ve found even in a crowded NYC subway.
 * Tara Brach’s [guided meditations](http://www.tarabrach.com/audioarchives-guided-meditations.html) and podcasts are awesome for [downtime](http://www.scientificamerican.com/article/mental-downtime/) and self-therapy during the week.
 
-# Benefits and pitfalls
+### Benefits and pitfalls
 
 Because email is blocked on my main laptop, if I get distracted I either have to browse very lame sites (the interesting distracting ones are blocked). I can’t New Tab away from boredom or sitting with the discomfort of doing whatever I'm stuck with or have fear-of-failure of.
 
