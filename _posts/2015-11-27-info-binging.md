@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: Experimenting with information overload
+title: Experiments in information overload
 description: "Every lifehack I currently use."
 category: articles
 tags: [lifehack, binging, filtering, news, reading, overload]
