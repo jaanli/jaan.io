@@ -39,16 +39,16 @@ Here’s the current list:
 
 ### Benefits and pitfalls
 
-Because email is blocked on my main laptop, if I get distracted I either have to browse very lame sites (the interesting distracting ones are blocked). I can’t New Tab away from boredom or sitting with the discomfort of doing whatever I'm stuck with or have fear-of-failure of.
+Email is blocked on my main laptop – when stuck I'm forced to go to lame sites (the interesting ones are blocked). I can’t New Tab away from boredom and have to sit with discomfort.
 
-I’m slowly getting better at sitting with this existential crisis of ‘I’m stuck on this problem’ longer and longer. It is uncomfortable, but paying attention to the discomfort helps.  If I sit through the mental angst longer than is comfortable, it dissipates and interesting ideas come up. This doesn't happen if I'm constantly checking emails or phone notifications.
+I’m getting better staying with this existential crisis of ‘I’m stuck on this problem’. Paying attention to the discomfort helps; eventually it dissipates and interesting ideas appear. But this doesn't happen if I'm constantly checking emails or phone notifications.
 
-Severely limiting my information intake means I read more books and long form journalism. My knowledge about big events is sometimes delayed, then gleaned through someone surprised that I haven’t heard about the latest terrorist attack instantaneously. This humanizes the information, and I get to listen the story then read about it later.
+Severely limiting my information intake means I read more books and long form journalism, and I get bored (in a good way) more often. News of big events can be delayed, then gleaned through someone surprised I haven’t instantaneously learned of the latest terrorist attack. This humanizes the information, and I get to listen a story then read about it.
 
-How could information filtering be applied to the physical world, and is this necessary? For example, I’d love to see the collections at the Met, MoMA, and other NYC museums, but there is no time. Museum collections and physical things do not have a ‘save for later’ feature. There is no equivalent of Adblock for the real world yet (augmented reality should fix this). But can we train ourselves to not look at advertising?
+How could information filtering be applied to the physical world – is this necessary? I’d love to see the collections at the Met, MoMA, and other NYC museums, but there is no time. I need a recommendation system for this equivalent to Instapaper or Longform. Museum collections and physical things do not have a ‘save for later’ feature. There is also nothing like Adblock for the real world (augmented reality should fix this). But can we train ourselves to not look at advertising?
 
-If everyone followed these workflows, no one would make money online and there would be no one to upvote things on Hacker News or Reddit, and no one to ‘like’ things on Facebook. These techniques might leave me more (or less) susceptible to [filter bubbles](http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles) but it’s a fun experiment.
+If everyone used these weird hacks, no one would make money online and there would be no one to upvote things on Hacker News or Reddit, and no one to ‘like’ things on Facebook. These techniques might leave me more (or less) susceptible to [filter bubbles](http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles). It’s a fun experiment.
 
-Could recommendation systems be the solution to these issues? Would this just accentuate the problem? Is there even a problem, or is this part of the ['busy'](http://www.economist.com/news/christmas-specials/21636612-time-poverty-problem-partly-perception-and-partly-distribution-why) [trap](http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/)?
+Could recommendation systems be the solution to these issues? Would this accentuate the problem? Is there even a problem, or is this part of the ['busy'](http://www.economist.com/news/christmas-specials/21636612-time-poverty-problem-partly-perception-and-partly-distribution-why) [trap](http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/)?
 
 And do let me know about alternative ideas or modifications at [j@jaan.io](mailto:j@jaan.io)!
