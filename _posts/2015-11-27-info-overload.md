@@ -26,6 +26,7 @@ The current list:
 * For work-related communication Hipchat, Slack, and Google Hangouts chat are a good replacement given that I can't access email on my main laptop.
 * In Gmail, using lots of custom filters for labels such as "00.MustRead", "01.Someday". Sending all mailing lists I need to read to 00, and articles of interest or things I need to reply to 'eventually' to 01.
 * Follow [MacBreakz](http://www.publicspace.net/MacBreakZ/)’ break system of 5 minutes every 50 minutes. Doing pushups, pullups, squats, and planks during the break.
+* Not watching any TV, and limiting movies to about five per year.
 * Using [Adblock](https://adblockplus.org/) and [Ghostery](https://www.ghostery.com/) on all devices to block ads, Google Analytics, and JavaScript.
 * Every few months: skimming the top 20 posts of each day on [Hacker News](http://news.ycombinator.com/) using the [HckrNews](http://hckrnews.com/) interface. Save interesting links to bookmarks / Instapaper for reading in the next few months. Doing this in batch mode is helpful for filtering useful things from hype cycle fare.
 * Once a year: skim RSS feeds using Feedly, save to Instapaper. I like [Longform](http://longform.org/)’s curation service of high quality long-form journalism and essays.
