@@ -19,16 +19,16 @@ Thoughts on benefits, pitfalls, and other ideas? Hit me up at [j@jaan.io](mailto
 
 The current list:
 
-* Not reading any news except for the Harper’s [Weekly Review](http://harpers.org/blog/category/weekly-review/) every Tuesday.
-* Having two devices: a ‘work’ laptop and an ‘email/distraction’ device (a Macbook Air and iPad).
-* On the work laptop, permanently block Gmail and any distracting sites (using the [SelfControl app](https://selfcontrolapp.com/) with [extended block length](https://github.com/SelfControlApp/selfcontrol/wiki/Tweaking-Max-Block-Length-and-Block-Length-Interval)).
+* No news except for the Harper’s [Weekly Review](http://harpers.org/blog/category/weekly-review/) every Tuesday.
+* Two devices: a ‘work’ laptop and an ‘email/distraction’ device (Macbook Air and iPad).
+* On the work laptop, permanently block Gmail and any distracting sites (using [SelfControl](https://selfcontrolapp.com/) with [extended block lengths](https://github.com/SelfControlApp/selfcontrol/wiki/Tweaking-Max-Block-Length-and-Block-Length-Interval)).
 * Looking at [Rescuetime](http://rescuetime.com/) logs every week and updating my SelfControl blacklist with distracting websites.
-* Not watching any TV, and limiting movies to about five per year. If I have to watch movies/TV/other media, watch it at 2x (it's a bit harder to follow at first; start at 1.5x and work your way up). Ditto for podcasts and lectures: listening at 2x speed saves a lot of time with little loss in retention.
-* Every few months: skimming the top 20 posts of each day on [Hacker News](http://news.ycombinator.com/) using the [HckrNews](http://hckrnews.com/) interface. Interesting links go to Instapaper. Doing this in batches helps filter useful things from hype cycle fare.
+* No TV, and about five movies per year. If I'm forced to watch movies/TV/other media, watch it at 2x (it's a bit harder to follow at first on these faster speeds; start at 1.5x and work your way up). Ditto for podcasts and lectures: 2x saves a lot of time with little loss in retention.
+* Every few months: skimming the top 20 posts of each day on [Hacker News](http://news.ycombinator.com/) using [HckrNews](http://hckrnews.com/). Interesting links go to Instapaper. Doing this in batches helps filter useful things from hype cycle fare.
 * Once a year: skim RSS feeds using Feedly, save to Instapaper. I like [Longform](http://longform.org/)’s curation service of high quality long-form journalism and essays.
-* Many tricks from ‘[This is your brain on mobile](https://medium.com/@jgvandehey/this-is-your-brain-on-mobile-15308056cfae)’ like no phone notifications and no social media apps.
+* Many tricks from ['This is your brain on mobile'](https://medium.com/@jgvandehey/this-is-your-brain-on-mobile-15308056cfae) like no phone notifications and no social media apps.
 * Using a pay-as-you-go [phone plan](https://www.ptel.com/plans/pg). Combined with Google Voice, this is cheap and the 10c/MB data keeps me off mobile internet unless when it's necessary (like maps when out).
-* On Facebook, systematically unfollowing *everyone* in my newsfeed (this took an hour of clicking, but was [well worth it](http://www.newyorker.com/tech/elements/how-facebook-makes-us-unhappy)). My newsfeed is empty apart from ‘People you may know’ and ‘Birthdays Today’. This is revelatory: if I'm truly interested in someone, I'll go to their profile page or use the graph search tool.
+* On Facebook, systematically unfollowing *everyone* in my newsfeed (this took an hour of clicking, but was [well worth it](http://www.newyorker.com/tech/elements/how-facebook-makes-us-unhappy)). An empty newsfeed is revelatory: if I'm truly interested in someone, I'll go to their profile page or use the graph search tool.
 * Leaving all devices at work as often as possible. Then I’m totally disconnected and forced to read, [be alone](http://chronicle.com/article/The-End-of-Solitude/3708), and [take a real break](http://www.nytimes.com/2014/08/10/opinion/sunday/hit-the-reset-button-in-your-brain.html).
 * For new music, the [Hype Machine](http://hypem.com/lyfos). For classics, [Spotify](https://play.spotify.com/user/lyfos/).
 * For complete blocking of ambient noise, 3M Peltor [industrial earmuffs](http://www.amazon.com/gp/product/B00009LI4K/) over in-ear [headphones](http://www.amazon.com/RBH-EP-2-Earphones/dp/B00H7LAJQA) give the most reduction I’ve found in crowded NYC subways.
