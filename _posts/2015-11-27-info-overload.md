@@ -9,9 +9,9 @@ image:
   thumb: info-binging-thumb.png
 ---
 
-Why read clickbait over than longform journalism? Why use Facebook so much?
+Why read clickbait over longform journalism? Why use Facebook so much?
 
-Ask a heavy smartphone user; we'll admit to too much technology. Screentime is bad, but the [attention economy](http://www.tristanharris.com/essays/) incentivizes our addiction.
+Screentime is bad, but the [attention economy](http://www.tristanharris.com/essays/) incentivizes our addiction.
 
 I'm trying to reduce information overload. Here are some methods I've used for a while.
 
