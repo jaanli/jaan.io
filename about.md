@@ -21,6 +21,8 @@ The best way to reach me is [altosaar@princeton.edu](mailto:altosaar@princeton.e
 
 ### <a href="http://www.linkedin.com/in/jaanaltosaar" target="_blank"><i class="icon-linkedin-sign"></i> LinkedIn</a>
 
+### <a href="https://soundcloud.com/lyfos" target="_blank"><i class="fa-soundcloud"></i> Soundcloud</a>
+
 ### <a href="https://www.flickr.com/photos/thejaan/" target="_blank"><i class="icon-flickr"></i> Flickr</a>
 
 ### <a href="https://github.com/altosaar" target="_blank"><i class="icon-github"></i> GitHub</a>
