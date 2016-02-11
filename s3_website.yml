@@ -45,8 +45,8 @@ s3_bucket: jaan.io
 
 # concurrency_level: 5
 
-# redirects:
-#   index.php: /
+redirects:
+  cv: /Altosaar-CV.pdf
 #   about.php: about.html
 #   music-files/promo.mp4: http://www.youtube.com/watch?v=dQw4w9WgXcQ
 
