@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <meta charset="utf-8">
 <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }} {{ site.titlehilight }}</title>
 <meta name="description" content="{{ page.description }}">
@@ -47,28 +48,29 @@
 <!-- Type -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="{{ site.url }}/assets/css/entypo.css" media="all">
-<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
-
+<!-- <link rel="stylesheet" href="{{ site.url }}/assets/css/entypo.css" media="all"> -->
+<script async src="https://use.fontawesome.com/0a87e83674.js"></script>
 <!-- In order to use Calendas Plus, you must first purchase it. Then, create a font-face package using FontSquirrel.
 <link rel='stylesheet' href='{{ site.url }}/assets/cal.css' media='all' />
 -->
-
-
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ site.url }}/assets/css/i.css">
 
 <!-- Fresh Squeezed jQuery -->
+<script async src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/katex.min.css"> -->
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/katex.min.js"></script>
+<!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> -->
+<script async src="{{ site.url }}/assets/js/auto-render.min.js"></script>
 
 <meta http-equiv="cleartype" content="on">
 
-<script src="{{ site.url }}/assets/js/main.js"></script>
+<script async src="{{ site.url }}/assets/js/main.js"></script>
 
 <!-- Load Modernizr -->
-<script src="{{ site.url }}/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+<script async src="{{ site.url }}/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
 
 <!-- Icons -->

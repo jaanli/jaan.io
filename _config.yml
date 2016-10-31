@@ -4,7 +4,7 @@ tagline:          PhD student at Princeton.
 description:      PhD student at Princeton.
 logo:             jathumb.jpg
 #Comment out url when working locally to resolve base urls correctly
-url: https://jaan.io
+#url: https://jaan.io
 
 
 
@@ -14,7 +14,7 @@ owner:
 #  avatar:         avatar.png
   bio:            "Estonian-Canadian"
   email:          jaan@jaan.io
-#  twitter:        ctrunsthis
+  twitter:        thejaan
   github:         altosaar
 #  instagram:      ctrunsthis
 #  dribbble:       coletownsend
@@ -37,11 +37,13 @@ links:
     url: /articles
   - title: Projects
     url: /projects
+  - title: Papers
+    url: /publications
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-pygments:    true
+highlighter: pygments
 markdown:    kramdown
 
 kramdown:
@@ -49,7 +51,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: true
 
   coderay:
     coderay_line_numbers:
@@ -59,7 +61,22 @@ kramdown:
     coderay_css: class
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks -- was /:categories/:title
-permalink:   /:title
+permalink:   /:title/
+
+# katex:
+#   path_to_js: "assets/js/katex.min.js"
 
 #include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+
+# gems: ['jekyll/minibundle']
+
+maruku:
+  use_tex:  true
+
+# http://www.rubydoc.info/gems/jekyll-minify-html/1.1.0
+#env: production
+
+sass:
+  sass_dir: assets/sass
+  style: compressed

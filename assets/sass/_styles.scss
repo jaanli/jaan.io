@@ -11,6 +11,15 @@ body {
   overflow-x: hidden;
 }
 
+//math
+.katex {
+    font-size: $fsp !important;
+}
+
+.katex-display {
+    overflow-x: auto;
+}
+
 //to color titlehilight
 .hilighted {
     color: $link;
@@ -106,8 +115,6 @@ code {
         }
     }
 }
-
-
 
 hr {
     display: block;

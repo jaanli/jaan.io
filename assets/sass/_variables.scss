@@ -30,8 +30,8 @@ $accent: #24536B;
 $sans: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
 $serif: "Calendas Plus","Crimson Text", "Hoefler Text", "Georgia", serif;
 
-   
-   
+
+
 /* Type Scale
    ========================================================================== */
 
@@ -42,17 +42,19 @@ $fs2:48px;
 $fs3:32px;
 $fs4:24px;
 
-$fsp:22px;
+//was 26px
+$fsp:24px;
 
 $fs5:16px;
-$fs6:12px;
+$fs6:14px;
 
 // Line Height
 
-$lh: 33px;
+// was 33px
+$lh: 32px;
 $lhsmall: 24px;
 
-// Sizing 
+// Sizing
 $footerHeight: 320px;
 
 // Griddit
@@ -61,7 +63,7 @@ $footerHeight: 320px;
 
 /* Break Points
    ========================================================================== */
-   
+
 /* Mobile */
 $breakpoint-1-max-width:480px;
 
@@ -72,5 +74,6 @@ $breakpoint-3-max-width:1200px;
 /* Style Tidbits
    ========================================================================== */
 
-$borderR: 4px;
+// was 4px
+$borderR: 6px;
 

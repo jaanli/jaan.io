@@ -1,0 +1,19 @@
+Pushing to both github and server repo possible by adding this to .git/config in laptop repo:
+[remote "all"]
+        url = https://github.com/openfacers/openfacers.git
+        url = deployer@openfacers.com:~/openfacers.git
+
+ Then doing git push all master when ready to go live
+
+In bare git repo on server, as on http://jekyllrb.com/docs/deployment-methods/ , contents of post-receive hook follow (first line "-l" allowed to login to bash, before was getting error on finding jekyll)
+
+#!/bin/bash -l
+GIT_REPO=https://github.com/openfacers/openfacers.git
+TMP_GIT_CLONE=$HOME/tmp/
+PUBLIC_WWW=/var/www/openfacers
+JEKYLL=jekyll
+
+git clone $GIT_REPO $TMP_GIT_CLONE
+$JEKYLL build -s $TMP_GIT_CLONE -d $PUBLIC_WWW
+rm -Rf $TMP_GIT_CLONE
+exit

@@ -13,6 +13,18 @@ Setup and settings are similar to [Balzac](https://github.com/ColeTownsend/Balza
 
 Please submit a pull request if you have added any features.
 
+## BUilding
+
+`jekyll serve --config _config.yml,_config_dev.yml --watch`
+
+`scss -t compress assets/sass/i.scss assets/css/i.css`
+
+On a mac, use rvm for managing ruby environment.
+
+Bundler, for managing gems:
+`gem install bundler`
+`bundler install`
+
 ## License
 
 Use this for anything you want through the [MIT](LICENSE); links back to [jaan.io](https://jaan.io) are never frowned upon.

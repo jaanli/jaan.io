@@ -37,12 +37,12 @@
 
 <!-- Fresh Squeezed jQuery -->
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script NUM_VARS src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
 <meta http-equiv="cleartype" content="on">
 
 <!-- Load Modernizr -->
-<script src="{{ site.url }}/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+<script NUM_VARS src="{{ site.url }}/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
 
 <!-- Icons -->
@@ -62,7 +62,7 @@
             <li>
               <a href="/" title="{{ site.title }}">Home</a>
             </li>
-            
+
             {% for link in site.links %}
                 <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
             {% endfor %}

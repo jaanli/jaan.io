@@ -7,31 +7,33 @@ tags: [about, Jaan Altosaar, Princeton, PhD, machine learning, afropunk, collect
 image:
   feature: altosaar-workshop.jpg
 ---
-I'm a Physics PhD student at Princeton. I am fortunate to be advised by [David Blei](http://www.cs.columbia.edu/~blei/) and [Shivaji Sondhi](http://www.princeton.edu/~sondhi/). My work is supported by an NSERC Postgraduate Scholarship. In 2015 I had lots of fun doing research with [Andriy Mnih](https://www.cs.toronto.edu/~amnih/) at [Google DeepMind](http://deepmind.com/), and this summer I'll be at [Google Brain](https://research.google.com/) with [Eugene Brevdo](https://web.math.princeton.edu/~ebrevdo/). Find my CV at [jaan.io/cv](https://jaan.io/cv).
+I'm a Physics PhD student at Princeton doing research at the intersection of Bayesian inference and deep learning. I am fortunate to be advised by [David Blei](http://www.cs.columbia.edu/~blei/) and [Shivaji Sondhi](http://www.princeton.edu/~sondhi/). 
 
-I'm Estonian-Canadian and graduated from McGill in 2013. Outside of academia, I love volleyball, meditation, music production, and George Saunders. How can we use technology such as machine learning to effect the most societal good? This is what motivates me. In 2014, I launched [Useful Science](http://usefulscience.org) with a group of friends – I hope you'll find a study on there that improves your life.
+My work is supported by an NSERC Postgraduate Scholarship. In 2015 I had lots of fun doing research with [Andriy Mnih](https://www.cs.toronto.edu/~amnih/) at [DeepMind](http://deepmind.com/), and in 2016 I collaborated with [Eugene Brevdo](https://web.math.princeton.edu/~ebrevdo/) at [Google Brain](https://research.google.com/).
+
+Find my CV at [jaan.io/cv](https://jaan.io/cv). In short: when it comes to Big Data, I live and breathe it.
+
+I'm Estonian-Canadian and graduated from McGill in 2013. Outside of academia, I love volleyball, meditation, [music production](https://soundcloud.com/lyfos), and George Saunders. 
+
+How can we use technology such as machine learning to effect the most societal good? This is what motivates me. In 2014, I launched [Useful Science](http://usefulscience.org) with a group of friends – I hope you'll find a study on there that improves your life.
 
 ---
 
 ### Reach!
 
-The best way to reach me is [altosaar@princeton.edu](mailto:altosaar@princeton.edu). I also appreciate all sincere positive or negative feedback through [this anonymous form](http://www.admonymous.com/jaan). Feel free to connect via:
+The best way to reach me is [altosaar@princeton.edu](mailto:altosaar@princeton.edu). I'm grateful for any positive or negative feedback through [this anonymous form](http://www.admonymous.com/jaan). Feel free to connect via:
 
-### <a href="https://twitter.com/thejaan" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a>
-
-### <a href="http://www.linkedin.com/in/jaanaltosaar" target="_blank"><i class="icon-linkedin-sign"></i> LinkedIn</a>
-
-### <a href="https://soundcloud.com/lyfos" target="_blank"><i class="icon-microphone"></i> Soundcloud</a>
-
-### <a href="https://www.flickr.com/photos/thejaan/" target="_blank"><i class="icon-flickr"></i> Flickr</a>
-
-### <a href="https://github.com/altosaar" target="_blank"><i class="icon-github"></i> GitHub</a>
+[{% icon fa-twitter %} Twitter](https://twitter.com/thejaan)
+[{% icon fa-linkedin %} LinkedIn](http://www.linkedin.com/in/jaanaltosaar)
+[{% icon fa-soundcloud %} Soundcloud](https://soundcloud.com/lyfos)
+[{% icon fa-flickr %} Flickr](https://www.flickr.com/photos/thejaan/)
+[{% icon fa-github %} GitHub](https://github.com/altosaar)
 
 ---
 
 ### Colophon
 
-This site runs on a modified version of [Cole Townsend](http://coletownsend.com/)'s Jekyll theme – the code is available [here](https://github.com/altosaar/jaan.io) :)
+Hey! Having a 'colophon' doesn't mean I'm a jerk! Just wanted to thank [Cole Townsend](http://coletownsend.com/) for letting me fork his Jekyll theme – the code is available [here](https://github.com/altosaar/jaan.io) :)
 
 
 
