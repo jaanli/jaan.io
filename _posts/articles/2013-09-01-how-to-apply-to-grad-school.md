@@ -62,7 +62,7 @@ Read the guidelines for each school you are applying to - while typically they w
 * Write as many concrete examples of projects you did, or things that make you stand out. Have any motivation be as concise as possible (e.g. avoid the ubiquitous "Ever since grade school I knew I wanted to study [insert subject here].")
 * Here are two sample essays:
 	* DJ Strouse's [one page](http://djstrouse.com/downloads/UWash_Physics-Statement_of_Purpose-DJ_Strouse-1-page.pdf) and [two page](http://djstrouse.com/downloads/UWash_Physics-Statement_of_Purpose-DJ_Strouse-2-page.pdf) statements.
-    * Dan Varon's [two page](/files/Dan_Varon_Harvard_Statement.pdf) statement of purpose for Harvard. 
+    * Anon's [two page](/files/anon_harvard_statement.pdf) statement of purpose for Harvard. 
 	* My [two page](https://jaan.io/JaanAltosaar_Princeton_PersonalStatement.pdf) statement of purpose.
 
 

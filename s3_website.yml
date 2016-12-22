@@ -47,6 +47,9 @@ gzip:
 
 redirects:
   cv: /Altosaar-CV.pdf
+  unreasonable-confusion: /what-is-variational-autoencoder-vae
+  unreasonable-confusion/index.html: /what-is-variational-autoencoder-vae
+
 #   about.php: about.html
 #   music-files/promo.mp4: http://www.youtube.com/watch?v=dQw4w9WgXcQ
 
