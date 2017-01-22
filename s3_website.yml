@@ -49,6 +49,8 @@ redirects:
   cv: /Altosaar-CV.pdf
   unreasonable-confusion: /what-is-variational-autoencoder-vae
   unreasonable-confusion/index.html: /what-is-variational-autoencoder-vae
+  what-is-variational-autoencoder-vae/index.html: /what-is-variational-autoencoder-vae-tutorial
+  what-is-variational-autoencoder-vae: /what-is-variational-autoencoder-vae-tutorial
 
 #   about.php: about.html
 #   music-files/promo.mp4: http://www.youtube.com/watch?v=dQw4w9WgXcQ
