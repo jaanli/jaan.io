@@ -10,37 +10,38 @@ image:
 published: true
 ---
 
-**TL;DR: Check out the [tools demo](https://altosaar.github.io/food2vec/) to explore food analogies and recommendations, or scroll down for a map of thousands of recipes from around the world.**
+**TL;DR: Check out the [tools demo](https://altosaar.github.io/food2vec/) to explore food analogies and recommendations, or scroll down for an interactive map of a hundred thousand recipes from around the world.**
 
 I haven't eaten in five days. I dream of food. I study food. Deep in ketosis, my body has adapted to consume itself: I am food. There is no better time to dig into modeling grub. 
 
-Machine intelligence has changed your life, from how you listen to music through Discover Weekly playlists, consume news through Facebook, or talk to your hand computer's friendly digital assistant. But why hasn't it changed how we eat? Can we modify the ingredients of language processing algorithms to get insights about food? If you tell me what you want to eat, can we recommend complementary foods, much like Spotify recommends complementary songs? 
+Machine intelligence has changed your life, from how you listen to music through Discover Weekly playlists, consume news through Facebook, or talk to your hand computer's friendly digital assistant. But why hasn't it changed how we eat? Can we modify the ingredients of language processing algorithms to get insights about food? If you tell me what you want to eat, can I recommend complementary foods, much like Spotify recommends complementary songs? 
 
-Word embeddings are a useful technique for analyzing discrete data. Say we have the $$ 170,000 $$ words in the Oxford English dictionary. We can represent each word (such as "food") as a vector as follows: a list of $$ 169,999 $$ zeros, with a single $$ 1 $$ at the location of the word in the vocabulary. In our case, "food" may be at location $$ 29,163 $$ near other words beginning with the letter f. Then the vector for "food" would look like: 
+Word embeddings are a useful technique for analyzing discrete data. Say we use $$ 170,000 $$ words from the Oxford English dictionary. We can represent each word (such as "food") as a vector as follows: a list of $$ 169,999 $$ zeros, with a single $$ 1 $$ at the location of the word in the vocabulary. In our case, "food" may be at location $$ 29,163 $$ near other words beginning with the letter f. Then the vector for "food" would look like: 
 
 $$ [0, 0, 0, ..., 0, 0, 1, 0, 0, ..., 0]. $$
 
 However, this is inadequate for comparing words. To compare documents and get useful insights from our data, we need to aggregate over $$ 170,000 $$ dimensions for each word, which takes far too long. Can we do better?
 
-Embeddings let us reduce the dimensionality of the problem, and give us a powerful representation of language. We can build a model of language where we assign a hundred random numbers to each word. To train the model, we use these hundred numbers to predict the context. The "context" of a word consists of its surrounding words. We can then tweak the numbers assigned to a word so  they get better at predicting words in the context. Initially, the random numbers assigned to a word will be bad at predicting words in the context. But gradually, through this process of tweaking the model's predictions of surrounding words, we get a hundred numbers that are far from random. The hundred numbers representing each word will capture part of its meaning: similar words cluster together, and words with different meanings are pushed far apart. By representing each word as an embedding in $$ 100 $$ dimensions, we have reduced the dimensionality from $$ 170,000 $$ and gained a better representation of language.
+Embeddings let us reduce the dimensionality of the problem, and give us a powerful representation of language. We can build a model of language where we assign a hundred random numbers to each word. To train the model, we use these hundred numbers of each word to predict their context. The "context" of a word consists of its surrounding words. This is the main idea: the context means that words that occur in similar contexts should have similar meanings. We tweak tweak the numbers assigned to a word to make them better at predicting words in the context. Initially, the random numbers assigned to a word will be bad at predicting words in the context. But gradually, through this process of tweaking the model's predictions of surrounding words, we get a hundred numbers that are far from random. The hundred numbers representing each word will capture part of its meaning: similar words will cluster together because they occur in each other's contexts, and words with different meanings are pushed far apart (out-of-context). By representing each word as an embedding in $$ 100 $$ dimensions, we have reduced the dimensionality more than a thousandfold from $$ 170,000 $$ and gained a better representation of language.
 
-For modeling food, we have a collection of recipes. We can define the context of an ingredient in a recipe to be the rest of the foods in the recipe. This demonstrates the flexibility of embeddings: by making a small change in the definition of the model, we can now apply it to a totally different kind of data.
+For modeling food, we have a collection of recipes. We can define the context of an ingredient in a recipe to be the rest of the foods in the recipe. This demonstrates the flexibility of embeddings: by making a small change in the definition of the context, we can now apply it to a totally different kind of data.
 
 ### Food similarity map
 
-After running the embedding algorithm on a collection of $$ 56,497 $$ recipes, we get $$ 100 $$-dimensional embeddings for each food. Humans can't visualize high dimensions, so we use an approximation technique to visualize similarity between the foods in two dimensions. 
+After training the embedding algorithm on a collection of $$ 56,497 $$ recipes, we get $$ 100 $$-dimensional embeddings for each food. Humans can't visualize high dimensions, so we use an approximation technique to visualize similarity between the foods in two dimensions. 
 
-Here is a similarity map of the $$ 347 $$ ingredients used in the recipes. Hover over a point to see which food it represents.
+Here is a similarity map of the $$ 2,087 $$ ingredients used in the recipes. Hover over a point to see which food it represents:
 
-<iframe width="100%" height="800" frameborder="0" scrolling="no" src="//plot.ly/~jaan/2.embed"></iframe>
 
-The map of foods is reasonable: ingredients from Asia cluster together, as do ingredients used in European and North American cooking.
+<iframe width="100%" height="800" frameborder="0" scrolling="no" src="/files/food2vec_food_embeddings_tsne.html"></iframe>
+
+The map of foods is reasonable. Ingredients from Asia cluster together, as do ingredients used in European and North American cooking.
 
 ### Recipe embedding map
 
-We can generate an embedding for a recipe by taking the average of its ingredients' embeddings. Here is a map of $$ 56,497 $$ recipes from around the world. Hover over a point to see the recipe, and click on the cuisine legend on the right to show or hide certain regions:
+We can generate an embedding for a recipe by taking the average of its ingredients' embeddings. Here is a map of $$ 95, 896 $$ recipes from around the world. Hover over a point to see the recipe, and click on the cuisine legend on the right to show or hide certain regions:
 
-<iframe width="100%" height="800" frameborder="0" scrolling="no" src="//plot.ly/~jaan/4.embed"></iframe>
+*IMPORTANT: you are about to download 15MB of data.* Click [here](/files/food2vec_recipe_embeddings_tsne.html) to access the map, zoom in, and discover new flavors. Is this the fastest way to browse 100k recipes by similarity?
 
 Interesting patterns emerge. Asian recipes cluster together, as do Southern European recipes. Northern European and American foods are all over the place, maybe because of transmission of recipes due to migration, or over-representation in the data.
 
@@ -56,7 +57,7 @@ These mostly make sense - foods are closest to other foods they appear with in r
 
 ### Food analogy tool
 
-Access the tool [here](https://altosaar.github.io/food2vec/#food-analogy-tool). Food analogies, like word analogies, are calculated with vector arithmetic. For the analogy "Food A is to food B, as food C is to food D", the goal is to predict a reasonable food D. We can do this by subtracting food B from food A, then adding food C. For example, calculating $$ (bacon - egg) + orangejuice $$ in embedding space will yield an embedding. The closest embedding to this is $$ coffee $$ in our model of food. Is this intuitive? Not really, but I'm hoping practice will help come up with hypotheses to test. I also included cuisine embeddings by representing them as the average of their recipes' embeddings.
+Access the tool [here](https://altosaar.github.io/food2vec/#food-analogy-tool). Food analogies, like word analogies, are calculated with vector arithmetic. For the analogy "Food A is to food B, as food C is to food D", the goal is to predict a reasonable food D. We can do this by subtracting food B from food A, then adding food C. For example, calculating $$ (bacon - egg) + orangejuice $$ in embedding space will yield an embedding. The closest embedding to this is $$ coffee $$ in our model of food. The classic example from word embeddings is $$ (king - man) + woman = queen $$. Is this intuitive? King is to man as woman is to queen makes sense in natural language, but food analogies are less clear. With practice, we may be able to train our taste detectors and devise hypotheses to test in the realm of food. I also included cuisine embeddings by representing them as the average of their recipes' embeddings.
 
 Some of these are more plausible than others: 
 * Egg is to bacon as orange juice is to coffee.
@@ -93,6 +94,6 @@ If you end up adding an ingredient to your food based on these tools, I'd love t
 * There are a few other versions of food2vec floating around, like [Rob Hinds'](https://automateddeveloper.blogspot.com/2016/10/unsupervised-learning-in-scala-using.html)
 
 
-*Thanks to [Dave](http://www.cs.columbia.edu/~blei/) for the idea, [Peter Bearman](http://sociology.columbia.edu/node/66) for presenting his work to our group, and [MealMakeOverMoms](https://www.flickr.com/photos/mealmakeovermoms/) for the mise photo.*
+*Thanks to [Dave](http://www.cs.columbia.edu/~blei/) for the idea, [Peter Bearman](http://sociology.columbia.edu/node/66) for presenting his work to our group, [MealMakeOverMoms](https://www.flickr.com/photos/mealmakeovermoms/) for the mise photo, [Anthony](http://anthony.ai/) for open-sourcing the embedding browser on which ours is based,  and [Plotly](https://plot.ly/) for open-sourcing their fantastic plotting library.*
 
 Feel free to ping me on [Twitter](https://twitter.com/thejaan) or [email](mailto:altosaar@princeton.edu) with feedback or ideas!
