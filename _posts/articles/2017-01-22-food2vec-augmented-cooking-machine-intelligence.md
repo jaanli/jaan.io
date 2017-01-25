@@ -28,7 +28,7 @@ For modeling food, we have a collection of recipes. We can define the context of
 
 ### Food similarity map
 
-After training the embedding algorithm on a collection of $$ 56,497 $$ recipes, we get $$ 100 $$-dimensional embeddings for each food. Humans can't visualize high dimensions, so we use an approximation technique to visualize similarity between the foods in two dimensions. 
+After training the embedding algorithm on a collection of $$ 95, 896 $$ recipes, we get $$ 100 $$-dimensional embeddings for each food. Humans can't visualize high dimensions, so we use an approximation technique to visualize similarity between the foods in two dimensions. 
 
 Here is a similarity map of the $$ 2,087 $$ ingredients used in the recipes. Hover over a point to see which food it represents:
 
