@@ -63,7 +63,7 @@ Read the guidelines for each school you are applying to - while typically they w
 * Here are two sample essays:
 	* DJ Strouse's [one page](http://djstrouse.com/downloads/UWash_Physics-Statement_of_Purpose-DJ_Strouse-1-page.pdf) and [two page](http://djstrouse.com/downloads/UWash_Physics-Statement_of_Purpose-DJ_Strouse-2-page.pdf) statements.
     * Anon's [two page](/files/anon_harvard_statement.pdf) statement of purpose for Harvard. 
-	* My [two page](https://jaan.io/JaanAltosaar_Princeton_PersonalStatement.pdf) statement of purpose.
+	* My [two page](/files/JaanAltosaar_Princeton_PersonalStatement.pdf) statement of purpose.
 
 
 ### Letters of Recommendation
