@@ -1,7 +1,0 @@
-notes:
-
-sam: i think the big misconception could be alleivated if the bayesians can explain exactly what the theoretical benefits of having a prior are (i'm thinking beyond making the space homogenous and disentangling features (if you use diagonal covariance))
-
-dustin: explain difference between latent variables and model parameters. strict bayesians would only do niference for z, but in practice it is easier to optimize model parametrs jointly (gahramani EM paper via dustin)
-
-explain prior sampling vs posterior sampling, give examples of walk thru latent space in 2d
