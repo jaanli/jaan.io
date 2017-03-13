@@ -1,0 +1,17 @@
+# - title: Proximity Variational Inference
+#   date: 2017-03-21
+#   slides: 2017_Altosaar_Proximity-Variational-Inference.pdf
+#   thumb: proximity-icon.png
+#   description: Talks at Imperial College London, NIPS Approximate Inference Workshop, and Bloomberg.
+
+- title: food2vec - Augmented Cooking with Machine Intelligence
+  date: 2017-03-01
+  slides: 2017_Altosaar_food2vec-NYTimes.pdf
+  thumb: food2vec-icon.png
+  description: Invited talks at [The New York Times](https://www.nytimes.com/) and [Northeastern University](http://barabasi.com/).
+
+- title: Operator Variational Inference
+  date: 2016-12-13
+  slides: 2016_Altosaar_OperatorVI-Imperial.pdf
+  thumb: operator-avatar.png
+  description: Talk at Imperial College London, [Machine Learning Group](https://wp.doc.ic.ac.uk/mlg/).
