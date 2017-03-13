@@ -14,4 +14,4 @@ Enable anyone to make a beat in 30 seconds, using machine learning in JavaScript
 
 Ethan Benjamin, Jaan Altosaar. MusicMapper: Interactive 2D representations of music samples for in-browser remixing and exploration, [NIME 2015](http://www.nime.org/wp-publications/jaltosaar2015/), Louisiana State University, 2015. 
 
-[{% icon fa-file-pdf-o %} PDF](http://www.nime.org/proceedings/2015/nime2015_161.pdf)  [{% icon fa-github %} Github](https://github.com/fatsmcgee/MusicMappr)  [{% icon fa-youtube-play %} YouTube demo](https://www.youtube.com/watch?v=mvD6e1uiO8k)  [{% icon fa-laptop %} live demo](http://fatsmcgee.github.io/MusicMappr/)
+[{% icon fa-file-pdf-o %} PDF](/papers/2015_Benjamin-Altosaar_MusicMapper.pdf)  [{% icon fa-github %} Github](https://github.com/fatsmcgee/MusicMappr)  [{% icon fa-youtube-play %} YouTube demo](https://www.youtube.com/watch?v=mvD6e1uiO8k)  [{% icon fa-laptop %} Live demo](http://fatsmcgee.github.io/MusicMappr/)

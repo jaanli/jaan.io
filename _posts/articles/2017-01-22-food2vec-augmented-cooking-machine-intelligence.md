@@ -97,3 +97,5 @@ If you end up adding an ingredient to your food based on these tools, I'd love t
 *Thanks to [Dave](http://www.cs.columbia.edu/~blei/) for the idea, [Peter Bearman](http://sociology.columbia.edu/node/66) for presenting his work to our group, [MealMakeOverMoms](https://www.flickr.com/photos/mealmakeovermoms/) for the mise photo, [Anthony](http://anthony.ai/) for open-sourcing the embedding browser on which ours is based,  and [Plotly](https://plot.ly/) for open-sourcing their fantastic plotting library.*
 
 Feel free to ping me on [Twitter](https://twitter.com/thejaan) or [email](mailto:altosaar@princeton.edu) with feedback or ideas!
+
+Discussion on [Hacker News](https://news.ycombinator.com/item?id=13472721) and [Reddit](https://www.reddit.com/r/MachineLearning/comments/5px9uz/p_food_visualization_and_recommendation_engine_in/). Also see [slides](https://github.com/altosaar/food2vec/blob/master/doc/food2vec-nytimes-talk.pdf) from a talk at the New York Times on this project. 

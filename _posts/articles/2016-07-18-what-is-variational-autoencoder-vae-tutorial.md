@@ -74,7 +74,7 @@ Now we can think about inference in this model. The goal is to infer good values
 
 $$ p(z \vert x) = \frac{p(x \vert z)p(z)}{p(x)}. $$
 
-Examine the denominator $$ p(x) $$. This is called the evidence, and we can calculate it by marginalizing out the latent variables: $$ p(x) = \int p(x, z) p(z) dz $$. Unfortunately, this integral requires exponential time to compute as it needs to be evaluated over all configurations of latent variables. We therefore need to approximate this posterior distribution.
+Examine the denominator $$ p(x) $$. This is called the evidence, and we can calculate it by marginalizing out the latent variables: $$ p(x) = \int p(x \vert z) p(z) dz $$. Unfortunately, this integral requires exponential time to compute as it needs to be evaluated over all configurations of latent variables. We therefore need to approximate this posterior distribution.
 
 Variational inference approximates the posterior with a family of distributions $$ q_\lambda(z \vert x) $$. The variational parameter $$ \lambda $$ indexes the family of distributions. For example, if $$ q $$ were Gaussian, it would be the mean and variance of the latent variables for each datapoint $$ \lambda_{x_i} = (\mu_{x_i}, \sigma^2_{x_i})) $$.
 
@@ -182,4 +182,4 @@ Durk Kingma created the great visual of the [reparametrization trick](http://dpk
 
 *Thanks to Rajesh Ranganath, Ben Poole, Cassandra Xia, and Ryan Sepassi for discussions and many concepts in this article.*
 
-Discussion on [Hacker News](https://news.ycombinator.com/edit?id=12292576) and [Reddit](https://www.reddit.com/r/MachineLearning/comments/4xv5b5/explainer_of_variational_autoencoders_from_a/).
+Discussion on [Hacker News](https://news.ycombinator.com/edit?id=12292576) and [Reddit](https://www.reddit.com/r/MachineLearning/comments/4xv5b5/explainer_of_variational_autoencoders_from_a/). Featured in David Duvenaud's course syllabus on ["Differentiable inference and generative models"](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/).
