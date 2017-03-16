@@ -21,7 +21,7 @@ Setup and settings are similar to [Balzac](https://github.com/ColeTownsend/Balza
 ## Deploying
 
 Deploy with [s3_website](https://github.com/laurilehmijoki/s3_website).
-`jekyll_build`
+`jekyll build`
 `s3_website push`
 
 On a mac, use rvm for managing ruby environment.
