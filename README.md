@@ -12,11 +12,17 @@ Setup and settings are similar to [Balzac](https://github.com/ColeTownsend/Balza
 
 ![jaan.io](http://i.imgur.com/wEM5sod.png)
 
-## Building
+## Testing locally
 
 `jekyll serve --config _config.yml,_config_dev.yml --watch`
 
 `scss -t compress assets/sass/i.scss assets/css/i.css`
+
+## Deploying
+
+Deploy with [s3_website](https://github.com/laurilehmijoki/s3_website).
+`jekyll_build`
+`s3_website push`
 
 On a mac, use rvm for managing ruby environment.
 
