@@ -199,7 +199,7 @@ where $$ \epsilon \sim Normal(0, 1) $$. Going from $$ \sim $$ denoting a draw fr
 
 In the variational autoencoder, the mean and variance are output by an inference network with parameters $$ \theta $$ that we optimize. The reparametrization trick lets us backpropagate (take derivatives using the chain rule) with respect to $$ \theta $$ through the objective (the ELBO) which is a function of samples of the latent variables $$ z $$.
 
-Is anything in this article confusing or can anything be improved? Please submit a [pull request]()
+Is anything in this article confusing or can any explanation be improved? Please submit a [pull request](https://github.com/altosaar/jaan.io/blob/master/_posts/blog/2016-07-18-what-is-variational-autoencoder-vae-tutorial.md), [tweet me](https://twitter.com/thejaan), or [email me](mailto:altosaar@princeton.edu) :)
 
 
 ### References for ideas and figures
