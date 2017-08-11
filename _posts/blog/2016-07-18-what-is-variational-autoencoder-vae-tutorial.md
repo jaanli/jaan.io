@@ -12,7 +12,7 @@ published: true
 
 Why do deep learning researchers and probabilistic machine learning folks get confused when discussing variational autoencoders? What is a variational autoencoder? Why is there unreasonable confusion surrounding this term?
 
-There is a conceptual and language gap. The sciences of neural networks and probability models do not have a shared language. My goal is to bridge this idea gap and allow for more collaboration and discussion between these fields, and provide a consistent implementation ([Github link](https://github.com/altosaar/vae/blob/master/vae.py)).
+There is a conceptual and language gap. The sciences of neural networks and probability models do not have a shared language. My goal is to bridge this idea gap and allow for more collaboration and discussion between these fields, and provide a consistent implementation ([Github link](https://github.com/altosaar/vae/blob/master/vae.py)). *If many words here are new to you, jump to the [glossary](#glossary).*
 
 Variational autoencoders are cool. They let us design complex generative models of data, and fit them to large datasets. They can generate images of fictional celebrity faces and high-resolution [digital artwork](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/).
 
@@ -102,7 +102,7 @@ $$ \log p(x) = ELBO(\lambda) + KL(q_\lambda(z \vert x) \vert \vert p(z \vert x))
 
 By Jensen's inequality, the Kullback-Leibler divergence is always greater than or equal to zero. This means that minimizing the Kullback-Leibler divergence is equivalent to maximizing the ELBO. The abbreviation is revealed: the Evidence Lower BOund allows us to do approximate posterior inference. We are saved from having to compute and minimize the Kullback-Leibler divergence between the approximate and exact posteriors. Instead, we can maximize the ELBO which is equivalent (but computationally tractable).
 
-In the variational autoencoder model, there are only local latent variables (no datapoint shares its latent $$ z $$ with the latent variable of another datapoint). So we can decompose the ELBO into a sum where each term depends on a single datapoint. This allows us to use stochastic gradient descent with respect to the parameters $$ \lambda $$. The ELBO for a single datapoint in the variational autoencoder is:
+In the variational autoencoder model, there are only local latent variables (no datapoint shares its latent $$ z $$ with the latent variable of another datapoint). So we can decompose the ELBO into a sum where each term depends on a single datapoint. This allows us to use stochastic gradient descent with respect to the parameters $$ \lambda $$ (important: the variational parameters are shared across datapoints - more on this [here](#mean-field)). The ELBO for a single datapoint in the variational autoencoder is:
 
 $$ ELBO_i(\lambda) = E_{q_\lambda(z\vert x_i)}[\log p(x_i\vert z)] - KL(q_\lambda(z\vert x_i) \vert\vert p(z)). $$
 
@@ -114,7 +114,13 @@ $$ ELBO_i(\theta, \phi) = E_{q_\theta(z\vert x_i)}[\log p_\phi(x_i\vert z)] - KL
 
 This evidence lower bound is the negative of the loss function for variational autoencoders we discussed from the neural net perspective; $$ ELBO_i(\theta, \phi) = -l_i(\theta, \phi) $$. However, we arrived at it from principled reasoning about probability models and approximate posterior inference. We can still interpret the Kullback-Leibler divergence term as a regularizer, and the expected likelihood term as a reconstruction 'loss'. But the probability model approach makes clear why these terms exist: to minimize the Kullback-Leibler divergence between the approximate posterior $$ q_\lambda(z \vert x) $$ and model posterior $$ p(z \vert x) $$.
 
-That's it! We have defined a probability model, an objective function (the ELBO), and an inference algorithm (gradient ascent on the ELBO).
+What about the model parameters? We glossed over this, but it is an important point. The term 'variational inference' usually refers to maximizing the ELBO with respect to the variational parameters $$ \lambda $$. We can also maximize the ELBO with respect to the model parameters $$ \phi $$ (e.g. the weights and biases of the generative neural network parameterizing the likelihood). This technique is called variational EM (expectation maximization), because we are maximizing the expected log-likelihood of the data with respect to the model parameters.
+
+That's it! We have followed the recipe for variational inference. We've defined:
+* a probability model $$ p $$ of latent variables and data
+* a variational family $$ q $$ for the latent variables to approximate our posterior
+
+Then we used the variational inference algorithm to learn the variational parameters (gradient ascent on the ELBO to learn $$ \lambda $$). We used variational EM for the model parameters (gradient ascent on the ELBO to learn $$ \phi $$).
 
 ### Experiments
 
@@ -141,7 +147,7 @@ We can also visualize the prior predictive distribution. We fix the values of th
 </figure>
 
 
-### Glossary
+### <a name="glossary"></a>Glossary
 
 We need to decide on the language used for discussing variational autoencoders in a clear and concise way. Here is a glossary of terms I've found confusing:
 
@@ -150,8 +156,27 @@ We need to decide on the language used for discussing variational autoencoders i
 * __Encoder__: in the neural net world, the encoder is a neural network that outputs a representation $$z$$ of data $$x$$. In probability model terms, the __inference network__ parametrizes the approximate posterior of the latent variables $$ z $$. The inference network outputs parameters to the distribution $$ q(z \vert x) $$.
 * **Decoder**: in deep learning, the decoder is a neural net that learns to reconstruct the data $$x$$ given a representation $$z$$. In terms of probability models, the likelihood of the data $$ x $$ given latent variables $$ z $$ is parametrized by a **generative network**. The generative network outputs parameters to the likelihood distribution $$ p(x \vert z) $$.
 * **Local latent variables**: these are the $$ z_i $$ for each datapoint $$ x_i $$. There are no global latent variables. Because there are only local latent variables, we can easily decompose the ELBO into terms $$\mathcal{L}_i$$ that depend only on a single datapoint $$ x_i $$. This enables stochastic gradient descent.
-* **Mean-field versus amortized inference**: in mean-field variational inference, we have parameters for each datapoint $$ \lambda_i $$ (e.g. $$ \lambda_i = (\mu_i, \sigma_i) $$ for Gaussian latent variables). In the variational autoencoder setting, we do **amortized inference** where there is a set of global parameters (in this case, the parameters $$\theta$$ of the inference network). These global parameters are shared across all datapoints.
 * **Inference**: in neural nets, inference usually means prediction of latent representations given new, never-before-seen datapoints. In probability models, inference refers to inferring the values of latent variables given observed data.
+
+One jargon-laden concept deserves its own subsection:
+
+### <a name="mean-field"></a>Mean-field versus amortized inference 
+
+<!-- TODO: add plate diagrams for mean-field vs amortized inference -->
+
+This issue was very confusing for me, and I can see how it might be even more confusing for someone coming from a deep learning background. In deep learning, we think of inputs and outputs, encoders and decoders, and loss functions. This can lead to fuzzy, imprecise concepts when learning about probabilistic modeling.
+
+Let's discuss how mean-field inference differs from amortized inference. This is a choice we face when doing approximate inference to estimate a posterior distribution of latent variables. We might have various constraints: do we have lots of data? Do we have big computers or GPUs? Do we have local, per-datapoint latent variables, or global latent variables shared across all datapoints?
+
+**Mean-field variational inference** refers to a choice of a variational distribution that factorizes across the $$ N $$ data points, with no shared parameters:
+
+$$ q(z) = \prod_i^{N} q(z_i; \lambda_i) $$
+
+This means there are free parameters for each datapoint $$ \lambda_i $$ (e.g. $$ \lambda_i = (\mu_i, \sigma_i) $$ for Gaussian latent variables). How do we do 'learning' for a new, unseen datapoint? We need to maximize the ELBO for each new datapoint, with respect to its mean-field parameter(s) $$ \lambda_i $$.
+
+**Amortized inference** refers to 'amortizing' the cost of inference across datapoints. One way to do this is by sharing (amortizing) the variational parameters $$ \lambda $$ across datapoints. For example, in the variational autoencoder, the parameters $$\theta$$ of the inference network. These global parameters are shared across all datapoints. If we see a new datapoint and want to see what its approximate posterior $$ q(z_i) $$ looks like, we can run variational inference again (maximizing the ELBO until convergence), or trust that the shared parameters are 'good-enough'. This can be an advantage over mean-field.  
+
+Which one is more flexible? Mean-field inference is strictly more expressive, because it has no shared parameters. The per-data parameters $$ \lambda_i $$ can ensure our approximate posterior is most faithful to the data. Another way to think of this is that we are limiting the capacity or representational power of our variational family by tying parameters across datapoints (e.g. with a neural network that shares weights and biases across data). 
 
 ### Sample implementation
 
@@ -174,12 +199,14 @@ where $$ \epsilon \sim Normal(0, 1) $$. Going from $$ \sim $$ denoting a draw fr
 
 In the variational autoencoder, the mean and variance are output by an inference network with parameters $$ \theta $$ that we optimize. The reparametrization trick lets us backpropagate (take derivatives using the chain rule) with respect to $$ \theta $$ through the objective (the ELBO) which is a function of samples of the latent variables $$ z $$.
 
+Is anything in this article confusing or can anything be improved? Please submit a [pull request]()
+
 
 ### References for ideas and figures
 
 Many ideas and figures are from Shakir Mohamed's excellent blog posts on the [reparametrization trick](http://blog.shakirm.com/2015/10/machine-learning-trick-of-the-day-4-reparameterisation-tricks/) and [autoencoders](http://blog.shakirm.com/2015/03/a-statistical-view-of-deep-learning-ii-auto-encoders-and-free-energy/).
 Durk Kingma created the great visual of the [reparametrization trick](http://dpkingma.com/?page_id=277). Great references for variational inference are this [tutorial](https://arxiv.org/abs/1601.00670) and David Blei's [course notes](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf). Dustin Tran has a helpful blog post on [variational autoencoders](http://dustintran.com/blog/denoising-criterion-for-variational-auto-encoding-framework/). The header's MNIST gif is from [Rui Shu](https://github.com/RuiShu/variational-autoencoder).
 
-*Thanks to Rajesh Ranganath, Ben Poole, Cassandra Xia, and Ryan Sepassi for discussions and many concepts in this article.*
+*Thanks to Rajesh Ranganath, Ben Poole, Jon Berliner, Cassandra Xia, and Ryan Sepassi for discussions and many concepts in this article.*
 
 Discussion on [Hacker News](https://news.ycombinator.com/edit?id=12292576) and [Reddit](https://www.reddit.com/r/MachineLearning/comments/4xv5b5/explainer_of_variational_autoencoders_from_a/). Featured in David Duvenaud's course syllabus on ["Differentiable inference and generative models"](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/).

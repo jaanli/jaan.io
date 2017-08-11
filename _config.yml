@@ -33,7 +33,7 @@ bing_verify: B3B21CDB59D1FC75DFE9B0D0CC329C8C
 links:
   - title: About
     url: /about
-  - title: Articles
+  - title: Blog
     url: /articles
   - title: Projects
     url: /projects
@@ -54,12 +54,13 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
 
-  coderay:
-    line_numbers:
-    line_numbers_start: 1
-    tab_width: 4
-    bold_every: 10
-    css: class
+# syntax_highlighter_opts:
+#   coderay:
+#     line_numbers:
+#     line_numbers_start: 1
+#     tab_width: 4
+#     bold_every: 10
+#     css: class
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks -- was /:categories/:title
 permalink:   /:title/
