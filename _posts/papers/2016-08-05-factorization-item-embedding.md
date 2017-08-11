@@ -14,4 +14,4 @@ Ideas from word embeddings can boost recommendation performance in matrix factor
 
 Dawen Liang, Jaan Altosaar, Laurent Charlin, and David Blei. Factorization meets the item embedding. [Recsys 2016](https://recsys.acm.org/recsys16/).
 
-[{% icon fa-file-pdf-o %} PDF](2016_Liang-Altosaar-Charlin-Blei_CoFactor.pdf) [{% icon fa-github %} Github](https://github.com/dawenl/cofactor)
+[{% icon fa-file-pdf-o %} PDF](/papers/2016_Liang-Altosaar-Charlin-Blei_CoFactor.pdf) [{% icon fa-github %} Github](https://github.com/dawenl/cofactor)

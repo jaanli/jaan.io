@@ -11,7 +11,7 @@ I'm a Physics PhD student at Princeton doing research at the intersection of Bay
 
 My work is supported by an NSERC Postgraduate Scholarship. In 2015 I had lots of fun doing research with [Andriy Mnih](https://www.cs.toronto.edu/~amnih/) at [DeepMind](http://deepmind.com/), and in 2016 I collaborated with [Eugene Brevdo](https://web.math.princeton.edu/~ebrevdo/) at [Google Brain](https://research.google.com/).
 
-Find my CV at [jaan.io/cv](https://jaan.io/cv). In short: when it comes to Big Data, I live and breathe it.
+Find my CV at [jaan.io/cv](https://jaan.io/cv). In short: when it comes to Big Data, I live, breathe, and eat it. Crunchy crispy models are my bread and butter, lunch, and mother.
 
 I'm Estonian-Canadian and graduated from McGill in 2013. Outside of academia, I love volleyball, meditation, [music production](https://soundcloud.com/lyfos), and George Saunders. 
 
