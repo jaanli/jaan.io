@@ -11,6 +11,25 @@ body {
   overflow-x: hidden;
 }
 
+//footnotes
+a.footnote:before {
+ content: "[";
+}
+
+a.footnote:after {
+    content: "]";
+}
+
+// a.footnote {
+//     .katex {
+//         font-size: $fsp !important;
+//     }
+
+//     .katex-display {
+//         overflow-x: auto;
+//     }
+// }
+
 //math
 .katex {
     font-size: $fsp !important;
@@ -49,10 +68,13 @@ a:hover {
     @include transit(all,.25s, ease-in-out)
 }
 
+// this is the style that is used when we try to italicize a word with `*word*`
+// in markdown
 em {
     padding: 1px 2px;
     border-radius: 2px;
-    background: #ffe8c0;
+    //background: #ffe8c0;
+    font-style: italic;
 }
 
 strong {

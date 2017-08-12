@@ -194,6 +194,12 @@ body {
   height: 100%;
   overflow-x: hidden; }
 
+a.footnote:before {
+  content: "["; }
+
+a.footnote:after {
+  content: "]"; }
+
 .katex {
   font-size: 24px !important; }
 
@@ -241,7 +247,7 @@ a:hover {
 em {
   padding: 1px 2px;
   border-radius: 2px;
-  background: #ffe8c0; }
+  font-style: italic; }
 
 strong {
   font-weight: bold; }
