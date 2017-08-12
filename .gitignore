@@ -3,6 +3,6 @@
 _site/*
 *.sass-cache*
 *.env
-*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
 *.asset-cache
 _layouts/_site/*
