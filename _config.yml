@@ -76,6 +76,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 maruku:
   use_tex:  true
 
+# for clean vector diagrams
+assets:
+  assets:
+    - "*.svg"
+  sources:
+    - _svg
+
 # http://www.rubydoc.info/gems/jekyll-minify-html/1.1.0
 #env: production
 

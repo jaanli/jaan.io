@@ -38,6 +38,14 @@ Important: need to rehash to create symbolic links to gems like jekyll -
 Then run jekyll commands:
 `jekyll build`
 
+
+### Workflow for creating vector graphics for blog posts
+* Use keynote to make figures. 
+* Export to pdf. 
+* Crop in preview. 
+* Use inkscape to convert to svg: `inkscape --without-gui --file=in.pdf --export-plain-svg=out.svg`
+* Put in `_svg` folder, include using `{% asset out.svg %}`
+
 ## License
 
 Use this for anything you want.
