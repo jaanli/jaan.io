@@ -5,3 +5,4 @@ _site/*
 *.env
 */.ipynb_checkpoints/*
 *.asset-cache
+_layouts/_site/*
