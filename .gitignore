@@ -4,3 +4,4 @@ _site/*
 *.sass-cache*
 *.env
 */.ipynb_checkpoints/*
+*.asset-cache
