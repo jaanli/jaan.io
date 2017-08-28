@@ -544,7 +544,7 @@ Question for physicists familiar with variational methods: is stochastic optimiz
 
 ### Connections: could tools from physics be useful in machine learning?
 
-Yes! The Gibbs-Bogoliubov-Feynman inequality was originally developed in physics and found its way to machine learning through Michael Jordan’s group at Berkeley.
+Yes! The Gibbs-Bogoliubov-Feynman inequality was originally developed in physics and found its way to machine learning through Michael Jordan’s group at MIT in the 90s.
 
 There seems to be a separate literature on constructing flexible families of distributions to approximate distributions. The replica trick, renormalization group theory, and others are just some topics that are beginning to make their way from statistical physics to machine learning.
 
@@ -580,12 +580,15 @@ This post is an attempt at mapping the language from one community to another. A
 - You can go deep into Ising models: there are hundreds of lectures and references on line. Here are the sources I used for these notes: from [Basel](http://quantumtheory.physik.unibas.ch/people/bruder/Semesterprojekte2007/p1/Ising.pdf) and [Munich](https://www.physik.uni-muenchen.de/lehre/vorlesungen/sose_14/asp/lectures/ASP_Chapter5.pdf).
 - Dave’s course, [Foundations of Graphical Models](http://www.cs.columbia.edu/~blei/fogm/2016F/)
 - [Wainwright & Jordan (2008)](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) is challenging but worthwhile.
+- David MacKay's ["Information Theory, Inference, and Learning Algorithms
+
+"](http://www.inference.org.uk/itprnn/book.html) also has a helpful section on variational free energy (Chapter 33, p. 422).
 - David Chandler's Introduction to Modern Statistical Mechanics (1987) has a simple derivation of the variational free energy (Section 5.1, pp. 135-138) that I followed in this exposition.
 - Feynman, Statistical Mechanics - A set of lecture notes (1972) derives the variational free energy using a perturbation expansion (Section 2.11, pp. 67-71).
 - Parisi's Statistical Field Theory (1988) derives the variational principle in three different ways (Section 3.2, pp. 24-31).
 - Matthew Beal’s [thesis](http://www.cse.buffalo.edu/faculty/mbeal/thesis/beal03_2.pdf) has interesting references, and Rich Turner has [notes](http://www.gatsby.ucl.ac.uk/~turner/Notes/ContrastiveDivergence/FreeEnergyNotes.pdf) on correspondences between physics and machine learning. 
 
 
-*Thanks to Bohdan Kulchytskyy, Florian Wentzel, Smiti Kaul, Guillaume Verdon, Henri Palacci, Sam Ritter, Mattias Fitzpatrick, and Sophie Kleber for comments and encouragement. Image credits: Freepik for iconography, and Analytical Scientific for the Newton's cradle image.*
+*Thanks to Bohdan Kulchytskyy, Florian Wentzel, Siddharth Mishra-Sharma, Smiti Kaul, Guillaume Verdon, Henri Palacci, Sam Ritter, Mattias Fitzpatrick, and Sophie Kleber for comments and encouragement. Image credits: Freepik for iconography, and Analytical Scientific for the Newton's cradle image.*
 
 ### Footnotes
