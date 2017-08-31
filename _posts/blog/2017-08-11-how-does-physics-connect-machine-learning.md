@@ -480,7 +480,7 @@ This is awesome: we have constructed an approximation $$q_\lambda$$ to our proba
 
 The interesting part is that we get can improve the approximation to our model $$p$$ without calculating its intractable partition function. We *only* need to evaluate its energy function $$E(s)$$ which is cheap to compute.
 
-Is this too clever to be true? Have we surrendered anything? We have lost the ability to measure how good our approximation is, in absolute terms---for that, we still need to calculate the partition function to compute the KL divergence. We do know that as long as our lower bonud $$\mathcal{L}(\lambda)$$ increases as we vary $$\lambda$$, our approximation gets better, and this is sufficient for a variety of problems.
+Is this too clever to be true? Have we surrendered anything? We have lost the ability to measure how good our approximation is, in absolute terms---for that, we still need to calculate the partition function to compute the KL divergence. We do know that as long as our lower bound $$\mathcal{L}(\lambda)$$ increases as we vary $$\lambda$$, our approximation gets better, and this is sufficient for a variety of problems.
 
 
 ### Variational inference as the Gibbs-Bogoliubov-Feynman inequality!
