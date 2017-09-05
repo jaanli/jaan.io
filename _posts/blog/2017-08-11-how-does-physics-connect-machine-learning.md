@@ -296,7 +296,7 @@ Let’s apply this to the expectation in the exact factorization of the partitio
 
 $$\langle  e^f\rangle = e^{\langle  f\rangle} \langle  e^{(f - \langle  f \rangle)} \rangle$$
 
-$$\geq e^{ \langle  f \rangle} (1 + f - \langle  f \rangle) = e^{\langle  f \rangle}$$
+$$\geq e^{ \langle  f \rangle} \langle 1 + f - \langle  f \rangle\rangle = e^{\langle  f \rangle}$$
 
 Now we can get a lower bound on the partition function:
 
