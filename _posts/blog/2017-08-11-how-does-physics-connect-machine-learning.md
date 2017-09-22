@@ -438,7 +438,7 @@ How good is our approximation? One way of measuring how close our approximation 
 
 This divergence between $$q$$ and $$p$$, or relative entropy, measures the amount of information (in bits or nats) that is lost when using $$q$$ to approximate $$p$$.
 
-This gives us a criteria with which to vary our approximation. We the $$\lambda$$ parameter of our approximation until we minimize the approximation error, as measured by the Kullback-Leibler divergence.
+This gives us a criteria with which to vary our approximation. We vary the $$\lambda$$ parameter of our approximation until we minimize the approximation error, as measured by the Kullback-Leibler divergence.
 
 The KL divergence is written with a double vertical bar as
 
