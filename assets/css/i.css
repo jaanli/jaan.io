@@ -204,7 +204,8 @@ a.footnote:after {
   font-size: 24px !important; }
 
 .katex-display {
-  overflow-x: auto; }
+  overflow-x: auto;
+  overflow-y: hidden; }
 
 .hilighted {
   color: #c66b09;
