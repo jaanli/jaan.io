@@ -21,7 +21,7 @@ How can we use technology such as machine learning to effect the most societal g
 
 ### Reach!
 
-The best way to reach me is [altosaar@princeton.edu](mailto:altosaar@princeton.edu). I'm grateful for any positive or negative feedback through [this anonymous form](http://www.admonymous.com/jaan). Feel free to connect via:
+The best way to reach me is [altosaar@princeton.edu](mailto:altosaar@princeton.edu). I'm grateful for any positive or negative feedback through [this anonymous form](https://goo.gl/forms/UolGIq1bpHJeK8dJ2). Feel free to connect via:
 
 [{% icon fa-twitter %} Twitter](https://twitter.com/thejaan)
 [{% icon fa-linkedin %} LinkedIn](http://www.linkedin.com/in/jaanaltosaar)

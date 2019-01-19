@@ -46,6 +46,7 @@ gzip:
 # concurrency_level: 5
 
 redirects:
+  feedback: https://goo.gl/forms/UolGIq1bpHJeK8dJ2
   cv: /Altosaar-CV.pdf
   unreasonable-confusion: /what-is-variational-autoencoder-vae
   unreasonable-confusion/index.html: /what-is-variational-autoencoder-vae
