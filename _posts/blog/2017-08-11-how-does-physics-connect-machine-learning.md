@@ -10,6 +10,8 @@ image:
 published: true
 ---
 
+_Mandarin translation available - 用普通话阅读这篇文章: [WeChat](http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651658123&idx=1&sn=5f0c4bdfcb11e623e93874387f5e6d19&chksm=bd4c30188a3bb90e536612140d0ccf52e511aaaee148b0e7e7ce351c198938d5ff6b855d613c&scene=0#rd)_
+
 I struggled to learn machine learning. I was used to variational tricks, MCMC samplers, and discreet Taylor expansions from years of physics training. Now the concepts were mixed up. The intuitive models of physical systems were replaced by abstract models of ‘data’ and amechanical patterns of cause and effect.
 
 I had to fit these fields together. Physics and machine learning are intricately connected, but it is taking me years to make the overlaps precise. This process requires representing the new with the familiar, mapping jargon from one field to another.
@@ -81,7 +83,7 @@ For example, say the first spins in our configuration happen to be up, up, down,
 
 This distribution behaves intuitively: low energy states are more probable than configurations with high energy. For example, if $$J=+1$$, the spins will align, and the state where all spins point in the same direction is most probable. Why? Because it leads to the most negative energy function, which corresponds to the Boltzmann factor with the largest weight.
 
-The parameter $$\beta$$ is proportional to the inverse temperature, $$\beta = \frac{1}{k_BT}$$ and is used for notational convenience. (Specifically, it includes the constant $$k_B$$ to make the probability density dimensionless.) Temperature affects the model by controlling how important the interactions are. If $$T\rightarrow \infty$$ we are at a high temperature, and the inverse temperature is small with $$\beta \ll 1$$, so the interaction strength $$J$$ is not important. But at low temperatures, the inverse temperature is small and $$J$$ divided by a small number is big, so interactions have a large effect on the system’s behavior.
+The parameter $$\beta$$ is proportional to the inverse temperature, $$\beta = \frac{1}{k_BT}$$ and is used for notational convenience. (Specifically, it includes the constant $$k_B$$ to make the probability density dimensionless.) Temperature affects the model by controlling how important the interactions are. If $$T\rightarrow \infty$$ we are at a high temperature, and the inverse temperature is small with $$\beta \ll 1$$, so the interaction strength $$J$$ is not important and has little effect. But at low temperatures, the inverse temperature is large, so interactions have a large effect on the system’s behavior.
 
 ### The partition function
 
