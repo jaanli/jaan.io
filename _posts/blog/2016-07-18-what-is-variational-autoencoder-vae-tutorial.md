@@ -12,7 +12,7 @@ published: true
 
 Why do deep learning researchers and probabilistic machine learning folks get confused when discussing variational autoencoders? What is a variational autoencoder? Why is there unreasonable confusion surrounding this term?
 
-There is a conceptual and language gap. The sciences of neural networks and probability models do not have a shared language. My goal is to bridge this idea gap and allow for more collaboration and discussion between these fields, and provide a consistent implementation ([Github link](https://github.com/altosaar/vae/blob/master/vae.py)). *If many words here are new to you, jump to the [glossary](#glossary).*
+There is a conceptual and language gap. The sciences of neural networks and probability models do not have a shared language. My goal is to bridge this idea gap and allow for more collaboration and discussion between these fields, and provide a consistent implementation ([Github link](https://github.com/altosaar/variational-autoencoder)). *If many words here are new to you, jump to the [glossary](#glossary).*
 
 Variational autoencoders are cool. They let us design complex generative models of data, and fit them to large datasets. They can generate images of fictional celebrity faces and high-resolution [digital artwork](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/).
 
@@ -178,9 +178,9 @@ This means there are free parameters for each datapoint $$ \lambda_i $$ (e.g. $$
 
 Which one is more flexible? Mean-field inference is strictly more expressive, because it has no shared parameters. The per-data parameters $$ \lambda_i $$ can ensure our approximate posterior is most faithful to the data. Another way to think of this is that we are limiting the capacity or representational power of our variational family by tying parameters across datapoints (e.g. with a neural network that shares weights and biases across data). 
 
-### Sample implementation
+### Sample PyTorch/TensorFlow implementation
 
-Here is a simple implementation that was used to generate the figures in this post: [Github link](https://github.com/altosaar/vae/blob/master/vae.py)
+Here is the implementation that was used to generate the figures in this post: [Github link](https://github.com/altosaar/variational-autoencoder)
 
 ### Footnote: the reparametrization trick
 
@@ -207,6 +207,6 @@ Is anything in this article confusing or can any explanation be improved? Please
 Many ideas and figures are from Shakir Mohamed's excellent blog posts on the [reparametrization trick](http://blog.shakirm.com/2015/10/machine-learning-trick-of-the-day-4-reparameterisation-tricks/) and [autoencoders](http://blog.shakirm.com/2015/03/a-statistical-view-of-deep-learning-ii-auto-encoders-and-free-energy/).
 Durk Kingma created the great visual of the [reparametrization trick](http://dpkingma.com/?page_id=277). Great references for variational inference are this [tutorial](https://arxiv.org/abs/1601.00670) and David Blei's [course notes](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf). Dustin Tran has a helpful blog post on [variational autoencoders](http://dustintran.com/blog/denoising-criterion-for-variational-auto-encoding-framework/). The header's MNIST gif is from [Rui Shu](https://github.com/RuiShu/variational-autoencoder).
 
-*Thanks to Rajesh Ranganath, Ben Poole, Jon Berliner, Cassandra Xia, and Ryan Sepassi for discussions and many concepts in this article.*
+*Thanks to Rajesh Ranganath, Andriy Mnih, Ben Poole, Jon Berliner, Cassandra Xia, and Ryan Sepassi for discussions and many concepts in this article.*
 
 Discussion on [Hacker News](https://news.ycombinator.com/edit?id=12292576) and [Reddit](https://www.reddit.com/r/MachineLearning/comments/4xv5b5/explainer_of_variational_autoencoders_from_a/). Featured in David Duvenaud's course syllabus on ["Differentiable inference and generative models"](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/).
