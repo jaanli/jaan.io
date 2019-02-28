@@ -131,7 +131,7 @@ To demonstrate the technique, it is easiest to focus on a single spin:
 
 The contribution of this single spin to the total energy of the system is simply the corresponding term in the energy:
 
-$$E_{s_1} = -s_1\left(J\sum_{j=2}^z+1 s_j + H\right)$$
+$$E_{s_1} = -s_1\left(J\sum_{j=2}^{z+1} s_j + H\right)$$
 
 The sum is over the $$z$$ nearest neighbors. For the two-dimensional lattice we are considering, $$z = 4$$. We can rewrite this energy for a single spin in terms of the fluctuations of a spin $$s_j$$ around its mean value $$m = \langle  s_j \rangle$$. Replacing $$s_j = m + (s_j - m)$$ gives
 
