@@ -39,7 +39,7 @@ Here are links to the five practice tests found online, with online solutions. *
 	* Steven J. Byrnes of Harvard wrote a helpful and  up-to-date [formula sheet](http://sjbyrnes.com/studysheet.pdf)
 	* The Harvard Society of Physics Students also hosts [some formula sheets](http://www.hcs.harvard.edu/~physics/wp-content/uploads/2013/02/GRE-notes.pdf)
 * Additional ‘how to prepare for the Physics GRE pages’:
-	* [GRE Resources](http://www.hcs.harvard.edu/~physics/gre-resources/) from the Harvard Society of Physics Students
+	* [GRE Resources](http://www.hcs.harvard.edu/~physics/?page_id=169) from the Harvard Society of Physics Students
 	* The infamous [PhysicsGRE.com forum](http://www.physicsgre.com/)
 	* Alex Lang of BU has a [Physics GRE advice](http://www.alexhunterlang.com/physics-gre) page with a study plan
 	* DJ Strouse of Princeton also has [GRE advice](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/)

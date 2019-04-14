@@ -111,7 +111,7 @@ p {
 .post ul li {
   font-size: 24px;
   line-height: 32px;
-  margin-bottom: 10.66667px; }
+  margin-bottom: 10.6666666667px; }
 
 /* Headings
    ========================================================================== */
@@ -517,7 +517,7 @@ header.site-header nav ul li a:hover {
   font-weight: bold;
   color: #a8a8a8;
   text-transform: uppercase;
-  margin-top: 21.33333px; }
+  margin-top: 21.3333333333px; }
 .article header .intro {
   text-align: left; }
 
@@ -696,7 +696,7 @@ header.site-header nav ul li a:hover {
   list-style: disc;
   list-style-type: disc;
   margin-left: 64px;
-  padding-left: 10.66667px; }
+  padding-left: 10.6666666667px; }
 .post ul li:last-child {
   margin-bottom: 0; }
 .post ol {
@@ -706,8 +706,8 @@ header.site-header nav ul li a:hover {
   border-bottom: 2px solid #a8a8a8; }
 .post ol li {
   margin-left: 64px;
-  padding-left: 10.66667px;
-  margin-bottom: 10.66667px;
+  padding-left: 10.6666666667px;
+  margin-bottom: 10.6666666667px;
   line-height: 32px;
   font-size: 24px; }
 .post ol li:last-child {
@@ -797,7 +797,7 @@ footert footer .prev-posts li {
 footert footer .prev-posts li .recent-title {
   display: inline;
   float: left;
-  width: 64.16667%;
+  width: 64.1666666667%;
   margin: 0 1.25%;
   font-style: italic; }
 footert footer .prev-posts li .recent-title a:hover {
@@ -807,7 +807,7 @@ footert footer .prev-posts li span.date {
   color: rgba(168, 168, 168, 0.6);
   display: inline;
   float: left;
-  width: 30.83333%;
+  width: 30.8333333333%;
   margin: 0 1.25%;
   position: relative;
   font-size: 16px;
@@ -819,7 +819,7 @@ footert footer .social {
   top: 109px;
   display: inline;
   float: left;
-  width: 14.16667%;
+  width: 14.1666666667%;
   margin: 0 1.25%;
   right: 0vw;
   font-style: italic; }

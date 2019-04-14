@@ -91,10 +91,9 @@ If you end up adding an ingredient to your food based on these tools, I'd love t
 * The original [Nature Scientific Report](http://www.nature.com/articles/srep00196) with the data
 * Dave taught a fantastic [class](http://www.cs.columbia.edu/~blei/seminar/2016_discrete_data/index.html) that helped me understand embeddings 
 * Maja's paper on [exponential family embeddings](https://arxiv.org/abs/1608.00778) generalizes word2vec to other distributions that would be neat to try on this data (word2vec can be interpreted as a Bernoulli embedding model with biased gradients)
-* There are a few other versions of food2vec floating around, like [Rob Hinds'](https://automateddeveloper.blogspot.com/2016/10/unsupervised-learning-in-scala-using.html)
 
 
-*Thanks to [Dave](http://www.cs.columbia.edu/~blei/) for the idea, [Peter Bearman](http://sociology.columbia.edu/node/66) for presenting his work to our group, [MealMakeOverMoms](https://www.flickr.com/photos/mealmakeovermoms/) for the mise photo, [Anthony](http://anthony.ai/) for open-sourcing the embedding browser on which ours is based,  and [Plotly](https://plot.ly/) for open-sourcing their fantastic plotting library.*
+*Thanks to David Blei for the idea, Peter Bearman for presenting his work to our group, [MealMakeOverMoms](https://www.flickr.com/photos/mealmakeovermoms/) for the mise photo, [Anthony](http://anthony.ai/) for open-sourcing the embedding browser on which ours is based,  and [Plotly](https://plot.ly/) for open-sourcing their fantastic plotting library.*
 
 Feel free to ping me on [Twitter](https://twitter.com/thejaan) or [email](mailto:altosaar@princeton.edu) with feedback or ideas!
 

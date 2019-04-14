@@ -579,7 +579,7 @@ This post is an attempt at mapping the language from one community to another. A
 
 ### References
 - [Peterson & Anderson (1987)](http://www.complex-systems.com/pdf/01-5-6.pdf) used solutions to time-dependent Ising models to learn the parameters of Boltzmann machines. This is a canonical reference for the ‘start’ of variational inference as it is known in the machine learning community.
-- You can go deep into Ising models: there are hundreds of lectures and references on line. Here are the sources I used for these notes: from [Basel](http://quantumtheory.physik.unibas.ch/people/bruder/Semesterprojekte2007/p1/Ising.pdf) and [Munich](https://www.physik.uni-muenchen.de/lehre/vorlesungen/sose_14/asp/lectures/ASP_Chapter5.pdf).
+- You can go deep into Ising models: there are hundreds of lectures and references on line. Here are the sources I used for these notes: from [Basel](http://web.archive.org/web/20160328001508/http://quantumtheory.physik.unibas.ch/people/bruder/Semesterprojekte2007/p1/Ising.pdf) and [Munich](https://www.physik.uni-muenchen.de/lehre/vorlesungen/sose_14/asp/lectures/ASP_Chapter5.pdf).
 - Dave’s course, [Foundations of Graphical Models](http://www.cs.columbia.edu/~blei/fogm/2016F/)
 - [Wainwright & Jordan (2008)](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) is challenging but worthwhile.
 - David MacKay's [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itprnn/book.html) has a section on variational free energy (Chapter 33, p. 422).

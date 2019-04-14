@@ -25,7 +25,7 @@ Your application will be reviewed by a committee of faculty members (and sometim
 
 Therefore, start doing research as early as possible. If you're in high school, send me an [email](mailto:altosaar@princeton.edu) and I'll try to give you a possible path to working in a lab. If you are in college:
 
-* Start talking to potential summer research supervisors in November of the previous year (in January of the same year at the latest). You can also apply to work at different schools - a bit harder, but could happen through same process. Look up professors you are interested in working with, and send them a short email with your LaTeXed CV (see below) asking about doing a summer project and in the area of their research that appeals to you. Read one of their papers and mention it in your email (their website may not be current; look up their latest papers on [PubMed](http://www.ncbi.nlm.nih.gov/pubmed), the [arXiv](http://arxiv.org/), or the [ISI Web of Knowledge](http://www.webofknowledge.com/)).
+* Start talking to potential summer research supervisors in November of the previous year (in January of the same year at the latest). You can also apply to work at different schools - a bit harder, but could happen through same process. Look up professors you are interested in working with, and send them a short email with your LaTeXed CV (see below) asking about doing a summer project and in the area of their research that appeals to you. Read one of their papers and mention it in your email (their website may not be current; look up their latest papers on [PubMed](http://www.ncbi.nlm.nih.gov/pubmed), the [arXiv](http://arxiv.org/), or the [Web of Science](https://www.webofknowledge.com/)).
 * Apply for an REU if you are a US citizen, or an [NSERC USRA](http://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) if you are Canadian or to the Caltech SURF program if you are either or neither. The [DAAD RISE](https://www.daad.de/rise/en/) program has internship opportunities in Germany
 Jan Gorzny at UToronto has a [helpful page](http://www.crypticcode.ca/jan.gorzny/2011/05/nserc-usra-advice/) on the NSERC USRA.
 * Apply for every summer research scholarship such as the REU, DAAD RISE, Caltech SURF, or NSERC USRA even if you do not have the most competitive application and transcript, as the professor you apply with may decide to fund you through a separate grant if your initial funding application is not successful
@@ -40,7 +40,7 @@ You may have to contact many professors before you find one willing to take you 
 
 When contacting professors with your CV, make sure it looks good - presentation makes a difference. Don't use Microsoft Word. Don't believe me that you should use LaTeX for your CV? Read [this](http://nitens.org/taraborelli/latex) for an overview of the benefits.
 
-To get your CV into LaTeX format, you can look online for CV templates - a good website is [LaTeX Templates](http://www.latextemplates.com/cat/curricula-vitae). Mike King also has a [good intro](http://michaelelliotking.com/articles/learn_latex/) to LaTeX.
+To get your CV into LaTeX format, you can look online for CV templates - a good website is [LaTeX Templates](http://www.latextemplates.com/cat/curricula-vitae). Mike King also has a [good intro](http://michaelelliotking.com/articles/learn-latex) to LaTeX.
 
 ### Hosting your CV, setting up a website
 
@@ -72,16 +72,16 @@ Matt Might has [good advice](http://matt.might.net/articles/how-to-recommendatio
 
 ### Scholarships and Fellowships
 
-Apply to every scholarship and fellowship for which you are eligible. For me, this included the [Rhodes Scholarship](http://www.rhodeshouse.ox.ac.uk/rhodesscholarship) (I strongly encourage you to apply: the interviews are nerve-wracking and great practice), [Commonwealth Scholarship](http://cscuk.dfid.gov.uk/apply/scholarships-developed-cw/), [NSERC PGSM](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/index_eng.asp), [Vanier Canada Scholarship](http://www.vanier.gc.ca/eng/home-accueil.aspx), [Fulbright Scholarship](http://www.fulbright.ca/programs/canadian-students/traditional-awards.html), [Mackenzie Scholarship](http://www.mkingscholarships.ca/index-e.html) ([McGill link](http://www.mcgill.ca/gps/funding/students-postdocs/students/mackenzie)), [Delta Upsilon Scholarship](http://www.mcgill.ca/gps/funding/students-postdocs/students/mackenzie) (McGill only), and [Moyse Travelling Scholarship](http://www.mcgill.ca/science/student/moyse/) (McGill only). Lesser known sources of scholarships that may have many fewer applicants are offered through professional organizations such as the SPIE, IEE, etc. (see below).
+Apply to every scholarship and fellowship for which you are eligible. For me, this included the [Rhodes Scholarship](https://www.rhodeshouse.ox.ac.uk/scholarships/the-rhodes-scholarship/) (I strongly encourage you to apply: the interviews are nerve-wracking and great practice), [Commonwealth Scholarship](http://cscuk.dfid.gov.uk/apply/applicants/), [NSERC PGSM](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/index_eng.asp), [Vanier Canada Scholarship](http://www.vanier.gc.ca/en/home-accueil.html), [Fulbright Scholarship](http://www.fulbright.ca/programs/canadian-students/traditional-awards.html), [Mackenzie Scholarship](http://www.mkingscholarships.ca/index-e.html) ([McGill link](http://www.mcgill.ca/gps/funding/students-postdocs/students/mackenzie)), [Delta Upsilon Scholarship](http://www.mcgill.ca/gps/funding/students-postdocs/students/mackenzie) (McGill only), and [Moyse Travelling Scholarship](http://www.mcgill.ca/science/student/moyse/) (McGill only). Lesser known sources of scholarships that may have many fewer applicants are offered through professional organizations such as the SPIE, IEE, etc. (see below).
 
 ### Attend conferences, try a semester abroad, join professional associations
 
 If you have done research, make a poster and present it at a conference or meeting, regardless of whether you confirmed your hypothesis. Conferences typically have funding you can apply for, and your school may have funds like [McGill's Ambassador Fund](http://sus.mcgill.ca/Menu-Documents/Ambassador-Fund-Application.pdf) to enable students to attend conferences. Additional sources of funding include professional associations, which typically provide free membership for undergraduates. Examples are the [Canadian Association of Physicists](http://www.cap.ca/), [Institute of Physics (IOP)](http://www.iop.org/), [SPIE](http://spie.org/), [IEEE](http://www.ieee.org/), and [Society of Women Engineers](http://societyofwomenengineers.swe.org/).
 
-* The Canadian Association of Physicists provides funding for the [Canadian Undergraduate Physics Conference](http://cupc.ca/)
+* The Canadian Association of Physicists provides funding for the [Canadian Undergraduate Physics Conference](https://www.cap.ca/congress-conference/cupc/)
 * The [Conferences for Undergraduate Women in Physics](http://www.aps.org/programs/women/workshops/cuwip.cfm) provides funding to attend the yearly conference
 * The [Canadian Undergraduate Mathematical Conference](http://cumc.math.ca/) also has funding opportunities
-* The King Abdullah University of Science and Technology holds an [undergraduate research poster competition](http://www.kaust.edu.sa/academics/wep/) to which you can apply for full funding to attend
+* The King Abdullah University of Science and Technology holds an [undergraduate research poster competition](https://enrichment.kaust.edu.sa/pages/enrichmentoffice/) to which you can apply for full funding to attend
 * The [Killam Fellowship](http://www.killamfellowships.com/programs.html) provides funding for a semester abroad in the US
 
 ### Contact professors before (and after) applying
@@ -103,7 +103,7 @@ Other webpages and resources I found useful:
 * An [inside look at admissions](http://blogs.discovermagazine.com/cosmicvariance/2008/01/29/the-other-side-of-graduate-admissions/) from a former committee member
 * [The Happiness Advantage](http://www.amazon.com/gp/product/0307591549/) by Shawn Achor is a fantastic summary of recent positive psychology research for staying sane through this entire process
 * [A PhD is not enough](http://www.amazon.com/gp/product/0465022227/) gives a great overview of what grad school is like and what to expect afterwards
-* DJ Strouse's excellent [all-encompassing guide](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/) to applying to grad schools
+* DJ Strouse's excellent [guide](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships) to applying to grad schools
 * Philip Guo's [PhD Grind](http://www.pgbovine.net/PhD-memoir.htm) gives a realistic look at grad school
 
 ### What did I miss?

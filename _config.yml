@@ -89,3 +89,16 @@ assets:
 sass:
   sass_dir: assets/sass
   style: compressed
+
+responsive_image:
+  cache: true
+  template: _includes/responsive-image.html
+  output_path_format: images/resized/%{width}/%{basename}
+  strip: true
+  sizes:
+    - width: 480  # [Required] How wide the resized image will be.
+      quality: 80 # [Optional] Overrides default_quality for this size.
+    - width: 800
+    - width: 1400
+      quality: 90
+
