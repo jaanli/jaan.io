@@ -6,13 +6,13 @@ author: Ethan Benjamin, Jaan Altosaar
 blurb: |
     MusicMappr: let anyone make a beat in 30 seconds in their browser
 link: https://dl.acm.org/citation.cfm?id=2993860
-pdf: /papers/2015_Benjamin-Altosaar_MusicMapper.pdf
+pdf: 2015_Benjamin-Altosaar_MusicMapper.pdf
 code: https://github.com/fatsmcgee/MusicMappr
 video: https://www.youtube.com/watch?v=mvD6e1uiO8k
 year: 2015
 thumb: musicmapperthumb.png
 description: |
-    Interview and live demo featured on <a href="http://www.thewire.co.uk/in-writing/interviews/play-the-musicmappr-sampling-app">The Wire</a> magazine. Check out the live demo here: <a href="http://fatsmcgee.github.io/MusicMappr/">http://fatsmcgee.github.io/MusicMappr/</a>.
+    Interview and live demo featured on [The Wire](http://www.thewire.co.uk/in-writing/interviews/play-the-musicmappr-sampling-app) magazine. Check out the live demo [here](http://fatsmcgee.github.io/MusicMappr/">http://fatsmcgee.github.io/MusicMappr/)!
 bibtex: |
     @inproceedings{Benjamin:2015:MIR:2993778.2993860,
      author = {Benjamin, Ethan and Altosaar, Jaan},

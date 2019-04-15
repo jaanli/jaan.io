@@ -6,7 +6,7 @@ venue: Recommender Systems
 year: 2016
 author: Dawen Liang, Jaan Altosaar, Laurent Charlin, and David Blei
 link: https://dl.acm.org/citation.cfm?id=2959182
-pdf: /papers/2016_Liang-Altosaar-Charlin-Blei_CoFactor.pdf
+pdf: 2016_Liang-Altosaar-Charlin-Blei_CoFactor.pdf
 code: https://github.com/dawenl/cofactor
 talk: https://www.youtube.com/watch?v=jE-IwDxFhAA
 thumb: like-thumb.png

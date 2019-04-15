@@ -39,9 +39,9 @@ links:
   - title: Projects
     url: /projects
   - title: Papers
-    url: /publications
-  - title: Talks
-    url: /talks
+    url: /papers
+  # - title: Talks
+  #   url: /talks
 
 collections:
   papers:

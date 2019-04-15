@@ -55,3 +55,4 @@ Use this for anything you want.
 
 ## Wishlist
 * fix copy to bibtex button; overriding CSS with `-webkit-appearance: none;` does not seem to work.
+* figure out how to use `markdownify` liquid filter in paper template, to support markdown in `paper.description`

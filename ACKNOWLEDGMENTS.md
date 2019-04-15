@@ -1,0 +1,3 @@
+- Brainwave by Simon Child from the Noun Project
+- Syringe by Pondok Multimedia from the Noun Project
+- Grass by Milinda Courey from the Noun Project

@@ -6,7 +6,7 @@ venue: EMNLP
 year: 2015
 author: Jingwei Zhang, Aaron Gerow, Jaan Altosaar, James Evans, Richard Jean So
 link: https://aclweb.org/anthology/papers/D/D15/D15-1179/
-pdf: /papers/2015_Zhang-Gerow-Altosaar-Evans-So_Correlated-LDA.pdf
+pdf: 2015_Zhang-Gerow-Altosaar-Evans-So_Correlated-LDA.pdf
 arxiv: http://arxiv.org/abs/1508.04562
 code: https://github.com/iceboal/correlated-lda
 thumb: correlated-thumb.png

@@ -6,7 +6,7 @@ venue: ICML Music Discovery Workshop
 year: 2016
 author: Eamonn Bell, Jaan Altosaar
 link: https://sites.google.com/site/ml4md2016/program
-pdf: /papers/2016_Bell-Altosaar_word2vec-Music.pdf
+pdf: 2016_Bell-Altosaar_word2vec-Music.pdf
 code: https://github.com/eamonnbell/music-mining
 slides: https://docs.google.com/presentation/d/1awRWuhEkkBlhk5NcloLtXKCDYkqdM-FdnPceXPP2XLk/edit?usp=sharing
 thumb: ycac-thumb.png
