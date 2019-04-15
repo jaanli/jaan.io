@@ -53,7 +53,5 @@ Then run jekyll commands:
 
 Use this for anything you want.
 
-## TODO
-* papers.md:
-  * add conversion of .bib files as in https://github.com/bamos/cv to papers.yml
-  * add bibtex, pdf, code crossrefs from talks & bib file
+## Wishlist
+* fix copy to bibtex button; overriding CSS with `-webkit-appearance: none;` does not seem to work.
