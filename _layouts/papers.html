@@ -20,7 +20,7 @@
                         {% if paper.description %}
                         {{ paper.description | markdownify | remove: '<p>' | remove: '</p>' }}<br><br>
                         {% endif %}
-                        {{ paper.author }}. {{ paper.title }}. <em>{{ paper.venue }}</em>, {{ paper.year }}
+                        {{ paper.author }}. {{ paper.title | strip }}. <em>{{ paper.venue }}</em>, {{ paper.year }}.
                       <p style="font-size: medium">
                         <a href="{{ paper.link }}"><i class="fas fa-link"></i> URL</a>
                         &ensp;
