@@ -18,6 +18,9 @@ Setup and settings are similar to [Balzac](https://github.com/ColeTownsend/Balza
 
 `scss -t compress assets/sass/i.scss assets/css/i.css`
 
+Check for broken internal and external links:
+`rake test`
+
 ## Deploying
 
 Deploy with [s3_website](https://github.com/laurilehmijoki/s3_website).

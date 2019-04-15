@@ -4,7 +4,8 @@ tagline:          PhD student at Princeton.
 description:      PhD student at Princeton.
 logo:             jathumb.jpg
 #Comment out url when working locally to resolve base urls correctly
-#url: https://jaan.io
+# url: https://jaan.io
+
 
 
 

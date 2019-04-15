@@ -23,11 +23,14 @@ How can we use technology such as machine learning to effect the most societal g
 
 The best way to reach me is [altosaar@princeton.edu](mailto:altosaar@princeton.edu). I'm grateful for any positive or negative feedback through [this anonymous form](https://goo.gl/forms/UolGIq1bpHJeK8dJ2). Feel free to connect via:
 
-[{% icon fa-twitter %} Twitter](https://twitter.com/thejaan)
-[{% icon fa-linkedin %} LinkedIn](http://www.linkedin.com/in/jaanaltosaar)
-[{% icon fa-soundcloud %} Soundcloud](https://soundcloud.com/lyfos)
-[{% icon fa-flickr %} Flickr](https://www.flickr.com/photos/thejaan/)
-[{% icon fa-github %} GitHub](https://github.com/altosaar)
+<p style="text-align:center">
+<a href="https://twitter.com/thejaan"><i class="fab fa-twitter"></i>Twitter</a>
+<a href="http://www.linkedin.com/in/jaanaltosaar"><i class="fab fa-linkedin"></i>LinkedIn</a>
+<a href="https://soundcloud.com/lyfos"><i class="fab fa-soundcloud"></i>Soundcloud</a>
+<a href="https://www.flickr.com/photos/thejaan/"><i class="fab fa-flickr"></i>Flickr</a>
+<a href="https://github.com/altosaar"><i class="fab fa-github"></i>GitHub</a>
+</p>
+
 
 ---
 
