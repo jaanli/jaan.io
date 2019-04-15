@@ -72,5 +72,13 @@
   </script>
   {% endif %}
 
+  <script>
+    new ClipboardJS('.btn', {
+    text: function(trigger) {
+        return trigger.getAttribute('clipboard');
+    }
+    });
+  </script>
+
   </body>
 </html>

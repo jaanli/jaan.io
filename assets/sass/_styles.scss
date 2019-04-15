@@ -513,6 +513,7 @@ header.site-header nav {
             line-height: 1.3em;
         }
 
+
         .date {
             margin-bottom: 3px;
         }
@@ -993,6 +994,17 @@ small {
 }
 
 }
+
+.btn{
+    background: none;
+    color: $link;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
+
 
 
 

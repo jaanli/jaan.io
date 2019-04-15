@@ -620,6 +620,11 @@ header.site-header nav ul li a:hover {
   display: block;
   font-size: 20px;
   line-height: 1.3em; }
+.archive-wrap .post-list .paper {
+  position: relative;
+  display: block;
+  font-size: 14px;
+  line-height: 1.1em; }
 .archive-wrap .post-list .date {
   margin-bottom: 3px; }
 .archive-wrap .post-list .date time {
@@ -969,5 +974,13 @@ footert footer .social ul li:last-child {
 
   small {
     font-size: 14px; } }
+.btn {
+  background: none;
+  color: #c66b09;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit; }
 
 /*# sourceMappingURL=i.css.map */
