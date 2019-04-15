@@ -7,3 +7,4 @@ _site/*
 *.asset-cache
 .jekyll-cache/*
 _layouts/_site/*
+Gemfile.lock
