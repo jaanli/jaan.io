@@ -55,8 +55,7 @@ of a single pixel can be then represented using a Bernoulli distribution. The
 decoder gets as input the latent representation of a digit $$z$$ and outputs
 $$784$$ Bernoulli parameters, one for each of the $$784$$ pixels in the image.
 The decoder 'decodes' the real-valued numbers in $$z$$ into $$784$$ real-valued
-numbers between $$0$$ and $$1$$. Information is lost because it goes from a
-smaller to a larger dimensionality. How much information is lost? We measure
+numbers between $$0$$ and $$1$$. Information from the original $$784$$-dimensional vector cannot be perfectly transmitted, because the decoder only has access to a summary of the information (in the form of a less-than-$$784$$-dimensional vector $$z$$). How much information is lost? We measure
 this using the reconstruction log-likelihood $$\log p_\phi (x\mid z)$$ whose
 units are nats. This measure tells us how effectively the decoder has learned to
 reconstruct an input image $$x$$ given its latent representation $$z$$.
