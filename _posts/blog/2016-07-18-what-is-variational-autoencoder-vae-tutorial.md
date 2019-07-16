@@ -230,7 +230,7 @@ For some distributions, it is possible to reparametrize samples in a clever way,
 
 $$ z = \mu + \sigma \odot \epsilon, $$
 
-where $$ \epsilon \sim Normal(0, 1) $$. Going from $$ \sim $$ denoting a draw from the distribution to the equals sign $$ = $$ is the crucial step. We have defined a function that depends on on the parameters deterministically. We can thus take derivatives of functions involving $$ z $$, $$f(z)$$ with respect to the parameters of its distribution $$ \mu $$ and $$ \sigma $$.
+where $$ \epsilon \sim Normal(0, 1) $$. Going from $$ \sim $$ denoting a draw from the distribution to the equals sign $$ = $$ is the crucial step. We have defined a function that depends on the parameters deterministically. We can thus take derivatives of functions involving $$ z $$, $$f(z)$$ with respect to the parameters of its distribution $$ \mu $$ and $$ \sigma $$.
 
 <figure>
     <img src="/images/reparametrization.png">
