@@ -45,3 +45,6 @@ Here are links to the five practice tests found online, with online solutions. *
 	* DJ Strouse of Princeton also has [GRE advice](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/)
 	* [An inside look at the Physics GRE](http://blogs.discovermagazine.com/cosmicvariance/2009/10/22/an-inside-look-at-the-physics-gre/) from a former testing committee member
 
+---
+
+Is anything in this article confusing, are links out of date, or can this be improved? Please submit a [pull request](https://github.com/altosaar/jaan.io/blob/master/_posts/blog/2013-08-31-how-to-ace-the-gre-and-physics-gre.md), [tweet me](https://twitter.com/thejaan), or [email me](mailto:altosaar@princeton.edu) :)
