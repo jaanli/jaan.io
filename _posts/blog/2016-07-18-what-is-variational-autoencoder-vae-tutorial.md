@@ -169,7 +169,7 @@ Now we are ready to look at samples from the model. We have two choices to measu
 Computationally, this means feeding an input image $$ x $$ through the inference network to get the parameters of the Normal distribution, then taking a sample of the latent variable $$ z $$. We can plot this during training to see how the inference network learns to better approximate the posterior distribution, and place the latent variables for the different classes of digits in different parts of the latent space. Note that at the start of training, the distribution of latent variables is close to the prior (a round blob around $$ 0 $$).
 
 <center>
-<iframe src="//giphy.com/embed/26ufoVqZDjHoPrp8k?html5=true" width="480" height="413" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="//giphy.com/embed/lqq0em9cuivVNWFwSX?html5=true" width="480" height="413" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </center>
 
 <figure>
@@ -179,7 +179,7 @@ Computationally, this means feeding an input image $$ x $$ through the inference
 We can also visualize the prior predictive distribution. We fix the values of the latent variables to be equally spaced between $$ -3 $$ and $$ 3 $$. Then we can take samples from the likelihood parametrized by the generative network. These 'hallucinated' images show us what the model associates with each part of the latent space.
 
 <center>
-<iframe src="//giphy.com/embed/26ufgj5LH3YKO1Zlu?html5=true" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="//giphy.com/embed/h8rGTcMpkPVpCzru7q?html5=true" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </center>
 
 <figure>
