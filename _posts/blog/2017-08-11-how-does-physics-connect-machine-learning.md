@@ -526,7 +526,7 @@ Can we still do posterior inference despite the intractable partition function?
 
 The refrain is familiar: we have an intractable sum in our partition function, but we can approximate it using the tools we developed earlier! Variational inference to the rescue. Let's write out the variational lower bound on the partition function:
 
-$$\log Z = \log p(x) \geq \mathcal{L}(\lambda) = \mathbb{E}_{q_\lambda}[p(x, z)] - \mathbb{E}_{q_\lambda}[\log q_\lambda (z)]$$
+$$\log Z = \log p(x) \geq \mathcal{L}(\lambda) = \mathbb{E}_{q_\lambda}[\log p(x, z)] - \mathbb{E}_{q_\lambda}[\log q_\lambda (z)]$$
 
 Again, by varying the parameters $$\lambda$$ we can learn a good approximate posterior distribution $$q_\lambda(z)$$ to approximate the posterior we care about but can’t calculate, $$p(z \mid x)$$. 
 
