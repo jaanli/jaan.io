@@ -5,6 +5,7 @@ gem 'jekyll-minibundle'
 gem 'coderay'
 gem 'rake'
 gem 'html-proofer'
+gem 's3_website'
 
 group :jekyll_plugins do
   gem 'jekyll-assets'

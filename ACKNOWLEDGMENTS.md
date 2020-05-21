@@ -1,3 +1,5 @@
 - Brainwave by Simon Child from the Noun Project
 - Syringe by Pondok Multimedia from the Noun Project
 - Grass by Milinda Courey from the Noun Project
+- graduation by Bartama Graphic from the Noun Project
+- Microphone by Markus from the Noun Project
