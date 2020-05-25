@@ -15,11 +15,11 @@
                      </a>
                      </td><td>
                      <div class="deets left-slide" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-                     <h1>{% if talk.external_url %} <a href="{{ talk.external_url }}" onclick="_gaq.push(['_trackpageview', '{{ site.url }}/files/talks/{{ talk.slides }}']);" >{{ talk.title }}</a> {% else %}<a href="{{ site.url }}/files/talks/{{ talk.slides }}">{{ talk.title }}</a>{% endif %}</h1>
+                     <h1>{% if talk.external_url %} <a href="{{ talk.external_url }}" onclick="_gaq.push(['_trackpageview', '{{ site.url }}/talks/{{ talk.slides }}']);" >{{ talk.title }}</a> {% else %}<a href="{{ site.url }}/files/talks/{{ talk.slides }}">{{ talk.title }}</a>{% endif %}</h1>
                      <p class="date"><time datetime="{{ talk.date | date_to_xmlschema }}" itemprop="datePublished">{{ talk.date | date: "%Y" }}</time></p>
                      <!-- <p class="summary">{% if talk.description %}{{ talk.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ talk.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p> -->
                      <p class="summary">{{ talk.description | markdownify }}</p>
-                     <p><a href="{{ site.url }}/files/talks/{{ talk.slides }}">{% icon fa-file-pdf-o %} Slides</a></p>
+                     <p><a href="{{ site.url }}/talks/{{ talk.slides }}">{% icon fa-file-pdf-o %} Slides</a></p>
                      </div>
                      </td></tr></table>
                   </li>

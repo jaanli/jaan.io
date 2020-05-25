@@ -8,7 +8,7 @@ author: R. Ranganath, J. Altosaar, D. Tran, D. Blei
 link: https://dl.acm.org/citation.cfm?id=2959182
 pdf: 2016_Ranganath-Altosaar-Tran-Blei_OperatorVI.pdf
 arxiv: https://arxiv.org/abs/1610.09033
-slides: /pdf/2016_Altosaar_Operator-Variational-Inference-Imperial_slides.pdf
+slides: /talks/2016_Altosaar_Operator-Variational-Inference-Imperial_slides.pdf
 thumb: operator-avatar.png
 bibtex: |
     @inproceedings{ranganath2016operator,

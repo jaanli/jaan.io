@@ -591,4 +591,8 @@ This post is an attempt at mapping the language from one community to another. A
 
 *Thanks to Bohdan Kulchytskyy, Florian Wentzel, Siddharth Mishra-Sharma, Smiti Kaul, Guillaume Verdon, Henri Palacci, Sam Ritter, Mattias Fitzpatrick, and Sophie Kleber for comments and encouragement. Image credits: Freepik for iconography, and Analytical Scientific for the Newton's cradle image.*
 
+### Addendum
+
+This blog post ended up seeding the first several chapters of [my thesis](/papers/altosaar-2020-thesis.pdf).
+
 ### Footnotes
