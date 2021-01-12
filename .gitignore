@@ -5,6 +5,6 @@ _site/*
 *.env
 *.ipynb_checkpoints
 *.asset-cache
-.jekyll-cache/*
+**.jekyll-cache/
 _layouts/_site/*
 Gemfile.lock
