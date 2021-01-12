@@ -7,9 +7,9 @@ tags: [about, Jaan Altosaar, Princeton, PhD, machine learning, afropunk, collect
 image:
   feature: altosaar-workshop.jpg
 ---
-I'm an incoming Postdoctoral Research Scientist at Columbia University Irving Medical Center focused on machine learning for women's health and health disparity. I will be working with [Noémie Elhadad](http://people.dbmi.columbia.edu/noemie/).
+I'm a Postdoctoral Officer of Research at Columbia University Irving Medical Center focused on machine learning methods for health and science. I work with [Noémie Elhadad](http://people.dbmi.columbia.edu/noemie/).
 
-For my Ph.D. at Princeton, I was fortunate to be advised by [David Blei](http://www.cs.columbia.edu/~blei/) and [Shivaji Sondhi](http://www.princeton.edu/~sondhi/).  My Ph.D. was supported by the Natural Sciences and Engineering Research Council of Canada, and I had fun working with [Andriy Mnih](https://www.cs.toronto.edu/~amnih/) at [DeepMind](http://deepmind.com/), and [Eugene Brevdo](https://web.math.princeton.edu/~ebrevdo/) at [Google Brain](https://research.google.com/). Previously, I studied Maths and Physics at McGill. Find my CV at [jaan.io/cv](https://jaan.io/cv).
+For my Ph.D., I was fortunate to be advised by [David Blei](http://www.cs.columbia.edu/~blei/) and [Shivaji Sondhi](http://www.princeton.edu/~sondhi/).  My work was supported by the Natural Sciences and Engineering Research Council of Canada, and I had fun working with [Andriy Mnih](https://www.cs.toronto.edu/~amnih/) at [DeepMind](http://deepmind.com/), and [Eugene Brevdo](https://web.math.princeton.edu/~ebrevdo/) at [Google Brain](https://research.google.com/). Previously, I studied Maths and Physics at McGill. Find my CV at [jaan.io/cv](https://jaan.io/cv).
 
 I'm Estonian-Canadian and outside of academia I love volleyball, meditation, [music production](https://soundcloud.com/lyfos), and George Saunders. 
 
@@ -17,7 +17,7 @@ How can we use technology such as machine learning to effect the most societal g
 
 ---
 
-The best way to reach me is [altosaar@princeton.edu](mailto:altosaar@princeton.edu), and I'm grateful for any positive or negative feedback through the anonymous form at [https://jaan.io/feedback]](https://jaan.io/feedback). Subscribe to my <a href="http://tinyletter.com/altosaar"><i class="fas fa-newspaper"></i> mailing list</a> for updates on essays, blog posts, and slightly novel developments-at-large.
+The best way to reach me is [j@jaan.io](mailto:j@jaan.io), and I'm grateful for any positive or negative feedback through the anonymous form at [https://jaan.io/feedback](https://jaan.io/feedback). Subscribe to my <a href="http://tinyletter.com/altosaar"><i class="fas fa-newspaper"></i> mailing list</a> for updates on essays, blog posts, and slightly novel developments-at-large.
 
 <p style="text-align:center">
 <a href="https://twitter.com/thejaan"><i class="fab fa-twitter"></i>Twitter</a>

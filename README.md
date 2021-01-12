@@ -49,6 +49,9 @@ Then run jekyll commands:
 * Use inkscape to convert to svg: `inkscape --without-gui --file=in.pdf --export-plain-svg=out.svg`
 * Put in `_svg` folder, include using `{% asset out.svg %}`
 
+### Updating google metadata
+* Update index.md, about.md, home.html
+
 ## License
 
 Use this for anything you want.

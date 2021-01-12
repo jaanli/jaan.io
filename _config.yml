@@ -1,7 +1,7 @@
 title:            Jaan
 titlehilight:     Altosaar
-tagline:          PhD student at Princeton.
-description:      PhD student at Princeton.
+tagline:          Postdoctoral Officer of Research, Columbia University.
+description:      Postdoctoral Officer of Research, Columbia University.
 logo:             jathumb.jpg
 #Comment out url when working locally to resolve base urls correctly
 # url: https://jaan.io
@@ -13,7 +13,7 @@ logo:             jathumb.jpg
 owner:
   name:           Jaan Altosaar
 #  avatar:         avatar.png
-  bio:            "Estonian-Canadian"
+  bio:            "Postdoctoral Officer of Research, Columbia University."
   email:          jaan@jaan.io
   twitter:        thejaan
   github:         altosaar
