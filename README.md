@@ -41,6 +41,9 @@ Important: need to rehash to create symbolic links to gems like jekyll -
 Then run jekyll commands:
 `jekyll build`
 
+### Notes on S3
+* Use s3cmd to manage secrets https://s3tools.org/s3cmd
+
 
 ### Workflow for creating vector graphics for blog posts
 * Use keynote to make figures. 
