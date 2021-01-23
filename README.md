@@ -23,9 +23,8 @@ Check for broken internal and external links:
 
 ## Deploying
 
-Deploy with [s3_website](https://github.com/laurilehmijoki/s3_website).
-`jekyll build`
-`s3_website push`
+Deploy with [s3_website](https://github.com/laurilehmijoki/s3_website). Use the `.env` file to set the `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` environment variables.
+Build with `bundle exec jekyll build`, deploy to S3 with `s3_website push`.
 
 ### Managing ruby on a mac
 Use rbenv. As in [this guide](https://gorails.com/setup/osx/10.12-sierra).
@@ -40,7 +39,6 @@ Important: need to rehash to create symbolic links to gems like jekyll -
 `rbenv rehash`
 Then run jekyll commands:
 `jekyll build`
-
 
 ### Workflow for creating vector graphics for blog posts
 * Use keynote to make figures. 
