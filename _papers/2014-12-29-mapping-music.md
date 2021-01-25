@@ -8,7 +8,7 @@ blurb: |
 link: https://dl.acm.org/citation.cfm?id=2993860
 pdf: 2015_Benjamin-Altosaar_MusicMapper.pdf
 code: https://github.com/fatsmcgee/MusicMappr
-video: https://www.youtube.com/watch?v=mvD6e1uiO8k
+demo: https://www.youtube.com/watch?v=mvD6e1uiO8k
 year: 2015
 thumb: musicmapperthumb.png
 description: |

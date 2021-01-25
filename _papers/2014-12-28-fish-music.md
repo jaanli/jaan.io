@@ -6,7 +6,7 @@ blurb: Can we convey how fish move using generative music and computer vision?
 link: https://dl.acm.org/citation.cfm?id=2993785
 pdf: 2015_Mercer-Taylor-Altosaar_Fish-Music.pdf
 code: https://github.com/andrewjmt/fishmusic
-video: https://www.youtube.com/watch?v=HzsFGQyIpuc
+demo: https://www.youtube.com/watch?v=HzsFGQyIpuc
 year: 2015
 thumb: fishthumb.png
 bibtex: |
