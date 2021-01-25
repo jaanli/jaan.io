@@ -3,7 +3,7 @@ layout: page
 permalink: /about/index.html
 title: About
 description: I'm excited about improving science (and your life) using machine learning and design.
-tags: [about, Jaan Altosaar, Princeton, PhD, machine learning, afropunk, collective behavior, columbia, physics, computer science, useful science, design, artificial intelligence, intelligent design]
+tags: [about, Jaan Altosaar, Princeton, PhD, machine learning, Berlin techno, deep house, collective behavior, columbia, physics, computer science, useful science, design, artificial intelligence, intelligent design]
 image:
   feature: altosaar-workshop.jpg
 ---
@@ -30,7 +30,7 @@ The best way to reach me is [j@jaan.io](mailto:j@jaan.io), and I'm grateful for 
 
 ---
 
-Hey! Having a 'colophon' doesn't mean I'm a jerk! Just wanted to thank [Cole Townsend](http://coletownsend.com/) for letting me fork his Jekyll theme – the code is available [here](https://github.com/altosaar/jaan.io) :)
+Colophon: thanks [Cole Townsend](http://coletownsend.com/) the Jekyll theme – the code is available [here](https://github.com/altosaar/jaan.io).
 
 
 

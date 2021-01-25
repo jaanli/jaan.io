@@ -12,5 +12,5 @@ group :jekyll_plugins do
   gem 'sass' # add only if you're using sass for your stylesheets
   gem 'autoprefixer-rails' # add only if you want it
   gem 'uglifier' # add only if you want to compress your js files
-  gem 'jekyll-responsive-image'
+  #gem 'jekyll-responsive-image'
 end

@@ -1,7 +1,7 @@
 title:            Jaan
 titlehilight:     Altosaar
-tagline:          Postdoctoral Officer of Research, Columbia University.
-description:      Postdoctoral Officer of Research, Columbia University.
+tagline:          Machine learning for health & science at Columbia University..
+description:      Machine learning for health & science at Columbia University.
 logo:             jathumb.jpg
 #Comment out url when working locally to resolve base urls correctly
 # url: https://jaan.io
@@ -13,8 +13,8 @@ logo:             jathumb.jpg
 owner:
   name:           Jaan Altosaar
 #  avatar:         avatar.png
-  bio:            "Postdoctoral Officer of Research, Columbia University."
-  email:          jaan@jaan.io
+  bio:            "Machine learning for health & science at Columbia University."
+  email:          j@jaan.io
   twitter:        thejaan
   github:         altosaar
 #  instagram:      ctrunsthis
@@ -34,12 +34,14 @@ bing_verify: B3B21CDB59D1FC75DFE9B0D0CC329C8C
 links:
   - title: About
     url: /about
-  - title: Blog
-    url: /blog
   - title: Projects
     url: /projects
   - title: Papers
     url: /papers
+  - title: Consulting
+    url: /consulting
+  - title: Blog
+    url: /blog
   # - title: Talks
   #   url: /talks
 
