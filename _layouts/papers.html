@@ -22,6 +22,10 @@
                         {% endif %}
                         {{ paper.author }}. {{ paper.title | strip }}. <em>{{ paper.venue }}</em>, {{ paper.year }}.
                       <p style="font-size: medium">
+                        {% if paper.doi %}
+                        <a href="{{ paper.doi }}"><i class="ai ai-doi"></i></a>
+                        &ensp;
+                        {% endif %}
                         {% if paper.link %}
                         <a href="{{ paper.link }}"><i class="fas fa-link"></i> URL</a>
                         &ensp;
@@ -43,11 +47,15 @@
                         &ensp;
                         {% endif %}
                         {% if paper.video %}
-                        <a href="{{ paper.video }}"><i class="fab fa-youtube"></i> Demo</a>
+                        <a href="{{ paper.video }}"><i class="fab fa-youtube"></i> Video</a>
                         &ensp;
                         {% endif %}
                         {% if paper.talk %}
                         <a href="{{ paper.talk }}"><i class="fab fa-youtube"></i> Talk</a>
+                        &ensp;
+                        {% endif %}
+                        {% if paper.demo %}
+                        <a href="{{ paper.demo }}"><i class="fas fa-play-circle"></i> Demo</a>
                         &ensp;
                         {% endif %}
                       </p>

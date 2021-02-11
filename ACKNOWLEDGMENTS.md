@@ -3,3 +3,5 @@
 - Grass by Milinda Courey from the Noun Project
 - graduation by Bartama Graphic from the Noun Project
 - Microphone by Markus from the Noun Project
+- Documents by Nick Bluth from the Noun Project
+- AI by supalerk laipawat from the Noun Project

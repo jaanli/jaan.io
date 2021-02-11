@@ -258,3 +258,6 @@ Durk Kingma created the great visual of the [reparametrization trick](http://dpk
 *Thanks to Rajesh Ranganath, Andriy Mnih, Ben Poole, Jon Berliner, Cassandra Xia, and Ryan Sepassi for discussions and many concepts in this article. Thanks to [Batuhan Koyuncu](https://bkoyuncu.github.io/) for regenerating the GIFs!*
 
 Discussion on [Hacker News](https://news.ycombinator.com/edit?id=12292576) and [Reddit](https://www.reddit.com/r/MachineLearning/comments/4xv5b5/explainer_of_variational_autoencoders_from_a/). Featured in David Duvenaud's course syllabus on ["Differentiable inference and generative models"](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/).
+
+Cite this work:
+<a href="https://doi.org/10.5281/zenodo.4462916"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4462916.svg" alt="DOI" style="max-width: 38%"></a>
