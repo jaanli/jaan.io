@@ -8,3 +8,4 @@ _site/*
 **.jekyll-cache/
 _layouts/_site/*
 Gemfile.lock
+s3_website.yml
