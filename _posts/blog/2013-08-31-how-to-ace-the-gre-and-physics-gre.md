@@ -42,7 +42,7 @@ Here are links to the five practice tests found online, with online solutions. *
 	* [GRE Resources](http://www.hcs.harvard.edu/~physics/?page_id=169) from the Harvard Society of Physics Students
 	* The infamous [PhysicsGRE.com forum](http://www.physicsgre.com/)
 	* Alex Lang of BU has a [Physics GRE advice](http://www.alexhunterlang.com/physics-gre) page with a study plan
-	* DJ Strouse of Princeton also has [GRE advice](http://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships/)
+	* DJ Strouse of Princeton also has [GRE advice](https://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships)
 	* [An inside look at the Physics GRE](http://blogs.discovermagazine.com/cosmicvariance/2009/10/22/an-inside-look-at-the-physics-gre/) from a former testing committee member
 
 ---
