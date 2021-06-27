@@ -464,7 +464,7 @@ $$= -\mathcal{L(\lambda)} + \log Z$$
 
 where we have defined the variational lower bound $$\mathcal{L}(\lambda)$$ as
 
-$$\mathcal{L}(\lambda) = \mathbb{E}_{q_\lambda}[\log p(s)] - \mathbb{E}_{q_\lambda}[\log q(s)]$$
+$$\mathcal{L}(\lambda) = \mathbb{E}_{q_\lambda}[-\beta E(s)] - \mathbb{E}_{q_\lambda}[\log q_\lambda(s)]$$
 
 We can move the variational lower bound to the other side of the equation to get the following identity:
 
@@ -495,7 +495,7 @@ Taking logarithms:
 
 $$\log Z \geq  - \langle \beta E\rangle_{MF} + \langle \beta E_{MF}\rangle_{MF} + \log Z_{MF}$$
 
-$$\Rightarrow \log Z \geq \mathbb{E}_{q_\lambda} [ \log p(s) ] - \mathbb{E}_{q_\lambda} [\log q_\lambda(s) ]$$
+$$\Rightarrow \log Z \geq \mathbb{E}_{q_\lambda} [ -\beta E ] - \mathbb{E}_{q_\lambda} [\log q_\lambda(s) ]$$
 
 $$\Rightarrow \log Z \geq \mathcal{L}(\lambda)$$
 
