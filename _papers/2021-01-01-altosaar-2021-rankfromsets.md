@@ -11,6 +11,8 @@ thumb: altosaar-2020-rankfromsets-icon.svg
 doi: https://doi.org/10.1002/sta4.363
 link: https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.363
 code: https://github.com/altosaar/rankfromsets
+description: |
+  Press: [Columbia University Postdoc Society Blog](https://blogs.cuit.columbia.edu/postdocsociety/2021/06/16/the-hungry-algorithm/)
 bibtex: |
     @article{altosaar2021rankfromsets:,
         author = {Altosaar, Jaan and Tansey, Wesley and Ranganath, Rajesh},

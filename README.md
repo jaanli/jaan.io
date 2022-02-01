@@ -47,6 +47,9 @@ Then run jekyll commands:
 * Use inkscape to convert to svg: `inkscape --without-gui --file=in.pdf --export-plain-svg=out.svg`
 * Put in `_svg` folder, include using `{% asset out.svg %}`
 
+### Images in posts
+* use style="max-width: 38%" in html tags
+
 ### Updating google metadata
 * Update index.md, about.md, home.html
 

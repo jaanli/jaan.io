@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/thejaan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jaan.io
+  * I am thejaan (https://keybase.io/thejaan) on keybase.
+  * I have a public key ASDhlaHBG5LOElCPP5F__RmxeZokLvoNrLJ0-928-lyWAAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e195a1c11b92ce12508f3f917ffd19b1799a242efa0dacb274fbddbcfa5c96000a",
+      "host": "keybase.io",
+      "kid": "0120e195a1c11b92ce12508f3f917ffd19b1799a242efa0dacb274fbddbcfa5c96000a",
+      "uid": "cd98fec0d5baa7a2a27ff15120c0ea19",
+      "username": "thejaan"
+    },
+    "merkle_root": {
+      "ctime": 1643724993,
+      "hash": "f0e7755ef45dc945305e6c55e40ff395c4f357fb5defe6660a3b3a3194dee6b9af163dac36db45b64f91658f7f509a6d4d98b07fa107d357a4b67e35701cdec7",
+      "hash_meta": "f451f0520bceb6f4e3f62ce2e246487bf27c978541c3375f285c9f791b1d6e65",
+      "seqno": 21770700
+    },
+    "service": {
+      "entropy": "AoTyWwGiJXCFlYVm8IDvaHCj",
+      "hostname": "jaan.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1643725024,
+  "expire_in": 504576000,
+  "prev": "d5ab34c9fd3848a246337e4a7069c01e8316502f1cb66bcfa56cf826040f54a6",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4ZWhwRuSzhJQjz+Rf/0ZsXmaJC76DayydPvdvPpclgAKp3BheWxvYWTESpcCCMQg1as0yf04SKJGM35KcGnAHoMWUC8ctmvPpWz4JgQPVKbEIHgdNly/1ES1GroIWAWU3jDYzSjV+B+fnUCEF/O0GG8aAgHCo3NpZ8RAZslyP4zwj6XnU+e06zJsvKWQcw14ZRxpvSMnUhQJK8C5W/HutNjRJ9BMJIiC9nWd6F/xmLZyn86vlAAEqm49AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPavZ26f5g+4ravDerVxalQkOL43Sp4cVmUSZti89d2vo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thejaan
+
+==================================================================
