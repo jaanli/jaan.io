@@ -9,3 +9,4 @@ _site/*
 _layouts/_site/*
 Gemfile.lock
 s3_website.yml
+robots.txt
