@@ -27,7 +27,7 @@ Deploy with [s3_website](https://github.com/laurilehmijoki/s3_website). Use the 
 Build with `bundle exec jekyll build`, deploy to S3 with `s3_website push`.
 
 ### Managing ruby on a mac
-Use rbenv. As in [this guide](https://gorails.com/setup/osx/10.12-sierra). (or [this for M1 macs](https://stackoverflow.com/questions/64816796/ruby-install-aborted-due-to-missing-extensions-openssl-readline-zlib-compilat))
+Use rbenv. As in [this guide](https://gorails.com/setup/osx/10.12-sierra). (or for M1 Macs, run `brew install ruby@2.6`)
 
 On a mac, use rvm for managing ruby environment.
 
