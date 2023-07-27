@@ -24,7 +24,7 @@ The best way to reach me is [j@jaan.io](mailto:j@jaan.io), and I'm grateful for 
 <a href="http://www.linkedin.com/in/jaanaltosaar"><i class="fab fa-linkedin"></i>LinkedIn</a>
 <a href="https://soundcloud.com/lyfos"><i class="fab fa-soundcloud"></i>Soundcloud</a>
 <a href="https://www.flickr.com/photos/thejaan/"><i class="fab fa-flickr"></i>Flickr</a>
-<a href="https://github.com/altosaar"><i class="fab fa-github"></i>GitHub</a>
+<a href="https://github.com/jaanli"><i class="fab fa-github"></i>GitHub</a>
 </p>
 
 
